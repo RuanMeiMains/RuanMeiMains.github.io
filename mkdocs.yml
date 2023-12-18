@@ -29,9 +29,9 @@ nav:
     - 'Ruan Mei Quick Guide': 'ruanmei-guides/quick.md'
     - 'Ruan Mei Full Guide': 'ruanmei-guides/full.md'
   - Socials:
-    - 'Discord': 'https://discord.gg/ruanmei'
-    - 'Reddit': 'https://www.reddit.com/r/RuanMeiMains/'
-    - 'Twitter': 'https://twitter.com/ruanmeidaily__'
+    - 'Discord': 'https://discord.gg/ruanmei" target="_blank'
+    - 'Reddit': 'https://www.reddit.com/r/RuanMeiMains/" target="_blank'
+    - 'Twitter': 'https://twitter.com/ruanmeidaily__" target="_blank'
   - Join our Team: 'applications.md'
 
 theme:
@@ -41,7 +41,7 @@ theme:
     primary: teal
     accent: teal
   favicon: assets/flower.png
-  logo: assets/ruanmeilogo.png
+  logo: assets/white_girl_save_me.png
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -60,8 +60,8 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/ruanmei
+      link: https://discord.gg/ruanmei" target="_blank
     - icon: fontawesome/brands/reddit
-      link: https://reddit.com/r/RuanMeiMains
+      link: https://reddit.com/r/RuanMeiMains" target="_blank
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/ruanmeidaily__
+      link: https://twitter.com/ruanmeidaily__" target="_blank
