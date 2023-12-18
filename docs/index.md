@@ -59,4 +59,4 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 ## Support Us
 Donate to our Ko-fi! As Ruan Mei Mains is a completely voluntary organization, and many of our resources are funded out of pocket, your support helps us improve our community! All donations go towards event prizes, giveaways, and community resources.
 
-[Support us on Ko-fi! :fontawesome-solid-mug-hot: ](https://discord.gg/ruanmei){ .md-button }
+[Support us on Ko-fi! :fontawesome-solid-mug-hot: ](https://ko-fi.com/ruanmeimains){ .md-button }
