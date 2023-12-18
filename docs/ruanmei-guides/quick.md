@@ -71,7 +71,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
     ![e2](https://media.discordapp.net/attachments/1106786214608109669/1184896363960475668/image-removebg-preview_10.png?ex=658da3bb&is=657b2ebb&hm=d7fc698f1ddf28306f4f7eb6a24c73fb59fce8ef8e695efb0837142dee8bed70&=&format=webp&quality=lossless&width=200&height=200){ align=left }
 
-    With Ruan Mei on the field, all allies increase their ATK by 40% when dealing DMG to enemies with Weakness Break.
+    With Ruan Mei on the field, all allies increase their ATK by 40% when dealing damage to enemies with Weakness Break.
 
     * Mediocre eidolon
     * Generic team-wide DMG increase
@@ -140,7 +140,7 @@ Ruan Mei needs mainly Break Effect, SPD, and Energy Regeneration Rate, as those 
     ![thief](https://media.discordapp.net/attachments/1106794389759598662/1184423874125897728/71010.png?ex=658bebb1&is=657976b1&hm=6d2726b4b213acc7018fa5d8e628a9b8dfc84b75975326736330290f28b78075&=&format=webp&quality=lossless&width=180&height=180){ align=left }
 
     * Greatly increases Break Effect
-    * Regenerates energy for Ruan Mei, which allows for higher ultimate uptime
+    * Regenerates energy for Ruan Mei if she breaks the enemy
 
 === "2PC Thief 2PC Messenger"
 
@@ -161,6 +161,7 @@ Ruan Mei needs mainly Break Effect, SPD, and Energy Regeneration Rate, as those 
     * Increases Energy Regeneration Rate
     * Allows for higher ultimate uptime
     * Advances forward at the start of battle
+    * If Ruan Mei's technique is used, saves 1 skill point
 
 === "Penacony, Land of the Dreams"
 
@@ -205,7 +206,7 @@ Ruan Mei works with pretty much every character, except for Clara. Due to her un
 | ![asta](https://media.discordapp.net/attachments/887963616182145044/1184806490591211561/1009.png?ex=658d5007&is=657adb07&hm=5465b9c0ccc0d4fb39b3033f32bec00eec3e4f58a37c5a045ed2c593a84e4ac1&=&format=webp&quality=lossless&width=240&height=327) | **Asta** is a great budget option to use with Ruan Mei. Her multi-hit skill allows her to break very easily. Fire characters also have a high break multiplier, so a higher break effect allows for more break damage. Furthermore, both Asta and Ruan Mei buff speed, granting you several turns per cycle. Asta also buffs ATK% while Ruan Mei buffs DMG%, which allows for less diminishing returns.
 | ![sw](https://media.discordapp.net/attachments/887963616182145044/1184806670874980432/1006.png?ex=658d5032&is=657adb32&hm=5e32e7b719e5db5a01abb0b891ef35b41e2f93934a58ac792e9e7e7a3157cbad&=&format=webp&quality=lossless&width=240&height=327) | **Silver Wolf** is a teammate who will pair well with Ruan Mei. Her main gimmick revolves around weakness implant, and Ruan Mei is focused around teams who will break the enemy. Silver Wolf is an efficient breaker whose DEF shred synergizes well with Ruan Mei, bringing out her full potential.
 | ![xueyi](https://media.discordapp.net/attachments/887963616182145044/1184806723035340871/1214.png?ex=658d503f&is=657adb3f&hm=71d383e06a9e760dac3b1f4bc059bf9d6bfbfd3309511f6102b713eb7ddb53ac&=&format=webp&quality=lossless&width=240&height=327) | **Xueyi** gains a DMG boost based on her Break Effect, a stat that Ruan Mei increases for her allies. Furthermore, Xueyi's ultimate deals Toughness DMG regardless of their weakness element, which allows for easier breaking. Xueyi is also a 4-star character, making her more accessible for F2P players.
-| ![sushang](https://media.discordapp.net/attachments/1106792336668753971/1184882224340946944/1206.png?ex=658d9690&is=657b2190&hm=698c7bc178617dc3a4986ea805b6a4f81790ea403efecc89522a567cdd9724bb&=&format=webp&quality=lossless&width=240&height=327) | **Sushang** benefits from Break Effect, and she benefits greatly from enemies being weakness broken, making her a great option to go with Ruan Mei. Additionally, Sushang has high weakness break efficiency, letting her break often. Physical characters also have a high break multiplier, so a higher break effect allows for more break damage. Sushang is also a 4-star character, which means she is more accessible for F2P players.
+| ![sushang](https://media.discordapp.net/attachments/1106792336668753971/1184882224340946944/1206.png?ex=658d9690&is=657b2190&hm=698c7bc178617dc3a4986ea805b6a4f81790ea403efecc89522a567cdd9724bb&=&format=webp&quality=lossless&width=240&height=327) | **Sushang** benefits from Break Effect, and she benefits greatly from enemies being weakness broken, making her a great option to go with Ruan Mei. Additionally, Sushang has high weakness break efficiency, which allows her to break often. Physical characters also have a high break multiplier, so a higher break effect allows for more break damage. Furthermore, Sushang is a 4-star character, which means she is more accessible for F2P players.
 | ![kafka](https://media.discordapp.net/attachments/1106792336668753971/1184882224676487248/1005.png?ex=658d9690&is=657b2190&hm=922f848f68b2e33c25ff1ef89b9c13b64c66ef9f4ff59110c41c31125957cfa5&=&format=webp&quality=lossless&width=240&height=327) | **Kafka** works extremely well with Ruan Mei. The RES PEN and DMG% from Ruan Mei's kit affects DoT, which will still occur due to Kafka's kit. Furthermore, breaking enemies also adds more DoT, and the break effect from Ruan Mei increases break DoT strength.
 
 ### Notable Anti-Synergies
