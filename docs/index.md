@@ -54,7 +54,7 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 [discord.gg/ruanmei :fontawesome-brands-discord:{ .discord } ](https://discord.gg/ruanmei){ .md-button } [r/RuanMeiMains :fontawesome-brands-reddit:{ .reddit } ](https://www.reddit.com/r/RuanMeiMains/){ .md-button }   [@ruanmeidaily__ :fontawesome-brands-twitter:{ .twitter } ](https://twitter.com/ruanmeidaily__){ .md-button }
 
-![tea](https://media.discordapp.net/attachments/887963616182145044/1185594839241347082/ezgif.com-resize_6.gif?ex=65902e3c&is=657db93c&hm=b8cef6a03012c0787dc6d22b66fdf197217f550a2ab3551444c6c29fbcd3ad96&=&width=320&height=480){ align=left } <iframe src="https://discord.com/widget?id=1106785082028597258&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![tea](https://media.discordapp.net/attachments/887963616182145044/1185594839241347082/ezgif.com-resize_6.gif?ex=65902e3c&is=657db93c&hm=b8cef6a03012c0787dc6d22b66fdf197217f550a2ab3551444c6c29fbcd3ad96&=&width=320&height=480){ align=left style='border-radius: 6px' } <iframe src="https://discord.com/widget?id=1106785082028597258&theme=dark" width="320" height="480" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" style="border-radius: 6px"></iframe>
 
 ## Support Us
 Donate to our Ko-fi! As Ruan Mei Mains is a completely voluntary organization, and many of our resources are funded out of pocket, your support helps us improve our community! All donations go towards event prizes, giveaways, and community resources.
