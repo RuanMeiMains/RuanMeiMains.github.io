@@ -23,7 +23,7 @@ If you need a quick overview on Ruan Mei and how to build her, you can check the
 </figure>
 
 ## Pros and Cons
-Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other units? While she is admittedly a luxury pick for most people as a limited 5* character, she still provides a lot of utility as a strong support character, especially with her All-Type RES PEN, full-team buffs, and the fact that she's SP positive. Ruan Mei certainly lives up to the daunting title of the first limited Harmony character, but again, she's not a must pull if you don't care about her. If you don't care about Ruan Mei, though, why are you reading this?
+Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other units? While she is admittedly a luxury pick for most people as a limited 5-star character, she still provides a lot of utility as a strong support character, especially with her All-Type RES PEN, full-team buffs, and the fact that she's SP positive. Ruan Mei certainly lives up to the daunting title of the first limited Harmony character, but again, she's not a must pull if you don't care about her. If you don't care about Ruan Mei, though, why are you reading this?
 
 <div class="grid" markdown>
 
@@ -40,7 +40,7 @@ Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other u
 === "CONS"
     ![sigh](https://media.discordapp.net/attachments/1166817978084503593/1173936435246678116/ruan_mei_sigh.png?ex=658aae80&is=65783980&hm=220897f295ffccb6bf894f6efec74ef18544e0beccf3322ddfc33018dda9b87a&=&format=webp&quality=lossless&width=250&height=250){ align=left }
 
-    - Ruan Mei a limited 5* character, so she's not as easily accessible as other characters
+    - Ruan Mei a limited 5-star character, so she's not as easily accessible as other characters
     - Ruan Mei doesn't replace existing Harmony characters who are already considered very good
     - Ruan Mei is not a "must pull" for your account
 
@@ -130,7 +130,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
     ![talent](https://media.discordapp.net/attachments/887963616182145044/1185609987167359026/SkillIcon_1303_Passive.png?ex=65903c58&is=657dc758&hm=9dbeda488643a23fb2d85a9234a8cfa753ed974061f12c67284ef9aa255888c8&=&format=webp&quality=lossless&width=192&height=192){ align=left } Increases SPD for the team (excluding Ruan Mei). When allies Break an enemy target's Weakness, Ruan Mei deals to this enemy target Break DMG equal to a portion of her Ice Break DMG.
 
-    This trace is nice because it gives allies a free SPD boost. However, it does not increase SPD by very much, and it should not be relied on for SPD tuning. It's not worth leveling this trace very much.
+    This trace is nice because it gives allies a free SPD boost. However, it does not increase SPD by very much, and it should not be relied on for SPD tuning. This trace shouldn't be prioritized over others.
 
 === "A2: Candle Lights on Still Waters"
 
@@ -239,9 +239,9 @@ Ruan Mei's light cone situation is quite interesting. Her signature light cone, 
 
 | Light Cone  | Mathematical Comparisons TBD | Notes                                |
 | ----------- | -------------------------------- | ------------------------------------ |
-| ![sig](https://media.discordapp.net/attachments/1106794389759598662/1184427674735743057/past-self-in-mirror-item_icon.png?ex=658bef3b&is=65797a3b&hm=c0900e5f5d10f9bdce4fbcf3a092b02e72d80741794b97952ae8d61b739d73cd&=&format=webp&quality=lossless&width=100&height=100)|               TBD%                 | **Past Self in Mirror** is Ruan Mei's signature light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, the other stats it provides are quite powerful. It can greatly reduce the need for Break Effect, allowing you to invest in other stats. |
-| ![motps5](https://media.discordapp.net/attachments/1106794389759598662/1184428709093056572/memories-of-the-past-item_icon.png?ex=658bf031&is=65797b31&hm=094e208b3f4f86c13f3224829f295839383a5dbff2cb584a03ba84b307572396&=&format=webp&quality=lossless&width=100&height=100)     | TBD% | **Memories of the Past** is a great 4-star option for Ruan Mei. It provides Ruan Mei's most needed stats, break effect and energy. At **S4** and higher, it can compete with Ruan Mei's signature light cone. |
-| ![cogs](https://media.discordapp.net/attachments/1106794389759598662/1184428892291874916/meshing-cogs-item_icon.png?ex=658bf05d&is=65797b5d&hm=fefc175f11576cf86fcb3c2a5291a79257f17551a420209d2f762fa77b36978c&=&format=webp&quality=lossless&width=100&height=100)  | TBD% | **Meshing Cogs**, a popular budget light cone choice for Harmony characters due to the energy it provides, is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S3 Memories of the Past.|
+| ![sig](https://media.discordapp.net/attachments/1106794389759598662/1184427674735743057/past-self-in-mirror-item_icon.png?ex=658bef3b&is=65797a3b&hm=c0900e5f5d10f9bdce4fbcf3a092b02e72d80741794b97952ae8d61b739d73cd&=&format=webp&quality=lossless&width=100&height=100)|               TBD%                 | **Past Self in Mirror** is Ruan Mei's signature light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, the other benefits it provides are quite powerful. It greatly reduces the need for Break Effect, allowing you to invest in other stats. |
+| ![motps5](https://media.discordapp.net/attachments/1106794389759598662/1184428709093056572/memories-of-the-past-item_icon.png?ex=658bf031&is=65797b31&hm=094e208b3f4f86c13f3224829f295839383a5dbff2cb584a03ba84b307572396&=&format=webp&quality=lossless&width=100&height=100)     | TBD% | **Memories of the Past** is a great 4-star option for Ruan Mei. It provides Ruan Mei's most needed stats, break effect and energy. At **S4** and higher, it can compete with Ruan Mei's signature light cone due to the energy it provides. |
+| ![cogs](https://media.discordapp.net/attachments/1106794389759598662/1184428892291874916/meshing-cogs-item_icon.png?ex=658bf05d&is=65797b5d&hm=fefc175f11576cf86fcb3c2a5291a79257f17551a420209d2f762fa77b36978c&=&format=webp&quality=lossless&width=100&height=100)  | TBD% | **Meshing Cogs**, a popular budget light cone choice for Harmony characters due to the energy it provides, is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S3 Memories of the Past due to the energy it provides.|
 
 
 ## Relic Sets
@@ -255,7 +255,9 @@ Ruan Mei needs mainly Break Effect, SPD, and Energy Regeneration Rate, as those 
 
 === "4PC Thief of Shooting Meteor"
     ![thief](https://media.discordapp.net/attachments/1106794389759598662/1184423874125897728/71010.png?ex=658bebb1&is=657976b1&hm=6d2726b4b213acc7018fa5d8e628a9b8dfc84b75975326736330290f28b78075&=&format=webp&quality=lossless&width=180&height=180){ align=left }
-
+    
+    Increases the wearer's Break Effect by 32%. When the wearer inflicts Weakness Break on an enemy, regenerates 3 Energy.
+    
     * Greatly increases Break Effect
     * Regenerates energy for Ruan Mei, which allows for higher ultimate uptime
 
@@ -263,8 +265,10 @@ Ruan Mei needs mainly Break Effect, SPD, and Energy Regeneration Rate, as those 
 
     ![messenger](https://media.discordapp.net/attachments/1106792336668753971/1184949758905811015/image1.png?ex=658dd575&is=657b6075&hm=75eba60db4511b1339a67737ba84bb6f8e8cce230bbd15912b6727e48fe10f42&=&format=webp&quality=lossless&width=180&height=180){ align=left }
     
-    * Increases Break Effect for Ruan Mei
-    * Increases SPD for Ruan Mei, which is also a valuable stat
+    Increases the wearer's Break Effect by 16%. Increases SPD by 6%.
+
+    * Increases Break Effect
+    * Increases SPD
 
 </div>
 
@@ -275,6 +279,8 @@ Ruan Mei needs mainly Break Effect, SPD, and Energy Regeneration Rate, as those 
 === "Sprightly Vonwacq"
     ![vonwacq](https://media.discordapp.net/attachments/887963616182145044/1184408226448556072/71019.png?ex=658bdd1e&is=6579681e&hm=bb8ab7cefd2b6706a17716553d50807ac376b75284b8c00d3b27f786727fba79&=&format=webp&quality=lossless&width=180&height=180){ align=left }
 
+    Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle.
+
     * Increases Energy Regeneration Rate
     * Allows for higher ultimate uptime
     * Advances forward at the start of battle
@@ -283,6 +289,8 @@ Ruan Mei needs mainly Break Effect, SPD, and Energy Regeneration Rate, as those 
 
     ![penacony](https://media.discordapp.net/attachments/887963616182145044/1184404279067422730/71027.png?ex=658bd971&is=65796471&hm=06cfb7b83cacbfca345ddc684831b3fb224a85d8e873199361a243ab95d83b98&=&format=webp&quality=lossless&width=180&height=180){ align=left }
     
+    Increases wearer's Energy Regeneration Rate by 5%. Increases DMG by 10% for all other allies that are of the same Type as the wearer.
+
     * Increases Energy Regeneration Rate
     * Allows for higher ultimate uptime
     * Increases DMG% for matching-type teammates
@@ -292,12 +300,16 @@ Ruan Mei needs mainly Break Effect, SPD, and Energy Regeneration Rate, as those 
 
     ![talia](https://media.discordapp.net/attachments/887963616182145044/1184408558834552892/71018.png?ex=658bdd6d&is=6579686d&hm=4129424e58e3da2c92cc835cf7fdf01a4bab2b485b0ae8f72dd9972b6e3f52cc&=&format=webp&quality=lossless&width=180&height=180){ align=left }
 
+    Increases the wearer's Break Effect by 16%. When the wearer's SPD reaches 145 or higher, the wearer's Break Effect increases by an extra 20%.
+
     * Increases Break Effect
     * Does not provide energy, so ultimate uptime will be lower
 
 === "Broken Keel"
 
     ![keel](https://media.discordapp.net/attachments/887963616182145044/1184408601159286844/71023.png?ex=658bdd77&is=65796877&hm=bf2893cf0b7003eda70bdc62133d7f68b46861d96d541e6ce6a5d76faae8d21c&=&format=webp&quality=lossless&width=180&height=180){ align=left }
+
+    Increases the wearer's Effect RES by 10%. When the wearer's Effect RES is at 30% or higher, all allies' CRIT DMG increases by 10%.
 
     * Increases allies' CRIT DMG
     * Ruan Mei does not really need Effect RES compared to other stats
@@ -314,10 +326,14 @@ For Ruan Mei's chest piece and planar sphere, choose whichever relic has better 
 ### Stat Priority
 ![statpriority](https://media.discordapp.net/attachments/1106792336668753971/1184955832849399828/ruan_mei_trace_priority_10.png?ex=658ddb1d&is=657b661d&hm=61ce9fb1d742feb080ee2cead797a5d171758a5fda4c77eaaac2cdec0777702e&=&format=webp&quality=lossless&width=1438&height=375)
 
-180% BE RAAAAAAAAAA poopyhead insert graph or something blahblahblah energy for 3t ult something something
+Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit scales of Break Effect. Ruan Mei needs at least **180%** Break Effect in order to maximize her passive. More Break Effect is better, as long as you are not sacrificing other stats.
+
+SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, keeping her buffs and ultimate uptime higher. At least **143** SPD is recommended. Ruan Mei gains 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC Messenger Traversing Hackerspace. Like Break Effect, more SPD is better, as long as you are not sacrificing other stats.
+
+Defensive stats such as Effect RES, HP, and DEF are also helpful for Ruan Mei. She is not meant to deal high amounts of DMG, so offensive stats would be useless. Furthermore, Ruan Mei wants to get hit a couple times in order to gain some energy. With some defensive stats, Ruan Mei's survivability will increase. However, it is important to focus on Break Effect and SPD first.
 
 #### Energy Needs
-RUAN MEI NEEDS A LOT OF ENERGY FOR 3T ULT RAAAAAAA
+Ruan Mei requires as much energy as she can, as her ultimate is extremely valuable for her team.
 
 ## Teammates
 
@@ -327,11 +343,11 @@ Ruan Mei works with pretty much every character, except for Clara. Due to her un
 
 | Character   | Notes                            |
 | ----------- | -------------------------------- |
-| ![asta](https://media.discordapp.net/attachments/887963616182145044/1184806490591211561/1009.png?ex=658d5007&is=657adb07&hm=5465b9c0ccc0d4fb39b3033f32bec00eec3e4f58a37c5a045ed2c593a84e4ac1&=&format=webp&quality=lossless&width=240&height=327) | **Asta** is a great budget option to use with Ruan Mei. She naturally has incredibly high weakness break efficiency, so she can break very often, which goes well with Ruan Mei's kit. Fire characters also have a high break multiplier, so a higher break effect allows for more break damage. Furthermore, both Asta aand Ruan Mei buff speed, so you will be able to have several turns before the enemy does. Another great thing about Asta is that she buffs ATK% while Ruan Mei buffs DMG%, which allows for less diminishing returns.
-| ![sw](https://media.discordapp.net/attachments/887963616182145044/1184806670874980432/1006.png?ex=658d5032&is=657adb32&hm=5e32e7b719e5db5a01abb0b891ef35b41e2f93934a58ac792e9e7e7a3157cbad&=&format=webp&quality=lossless&width=240&height=327) | **Silver Wolf** is a teammate who will obviously go well with Ruan Mei. Her main gimmick revolves around weakness implant, and Ruan Mei is focused around teams who will break the enemy. Having Silver Wolf guarantees that your team will be able to break the enemy and use Ruan Mei to her full potential. Also, Silver Wolf deals a decent amount of toughness break damage herself. She especially shines with Ruan Mei when using a break effect-focused build.
-| ![xueyi](https://media.discordapp.net/attachments/887963616182145044/1184806723035340871/1214.png?ex=658d503f&is=657adb3f&hm=71d383e06a9e760dac3b1f4bc059bf9d6bfbfd3309511f6102b713eb7ddb53ac&=&format=webp&quality=lossless&width=240&height=327) | **Xueyi** gains a DMG boost based on her Break Effect, a stat that Ruan Mei increases for her allies. Furthermore, Xueyi's ultimate deals Toughness DMG regardless of their weakness element, which allows for easier breaking of the enemy. Xueyi is also a 4* character, making her more accessible for F2P players.
-| ![sushang](https://media.discordapp.net/attachments/1106792336668753971/1184882224340946944/1206.png?ex=658d9690&is=657b2190&hm=698c7bc178617dc3a4986ea805b6a4f81790ea403efecc89522a567cdd9724bb&=&format=webp&quality=lossless&width=240&height=327) | **Sushang** benefits from Break Effect, and she benefits greatly from enemies being weakness broken, making her a great option to go with Ruan Mei. Additionally, Sushang has high weakness break efficiency, which allows her to break often. Physical characters also have a high break multiplier, so a higher break effect allows for more break damage. Sushang is also a 4* character, which means she is more accessible for F2P players.
-| ![kafka](https://media.discordapp.net/attachments/1106792336668753971/1184882224676487248/1005.png?ex=658d9690&is=657b2190&hm=922f848f68b2e33c25ff1ef89b9c13b64c66ef9f4ff59110c41c31125957cfa5&=&format=webp&quality=lossless&width=240&height=327) | **Kafka** works extremely well with Ruan Mei. In fact, all DoT characters work well with Ruan Mei, but Kafka shines the most among them. This is because the RES PEN from Ruan Mei's ultimate affects DoT, and DoT still occurs while enemies are weakness broken. Furthermore, breaking enemies also triggers DoT, and Ruan Mei allows her allies to break more often.
+| ![asta](https://media.discordapp.net/attachments/887963616182145044/1184806490591211561/1009.png?ex=658d5007&is=657adb07&hm=5465b9c0ccc0d4fb39b3033f32bec00eec3e4f58a37c5a045ed2c593a84e4ac1&=&format=webp&quality=lossless&width=240&height=327) | **Asta** is a great budget option to use with Ruan Mei. She naturally has incredibly high weakness break efficiency, so she can break very often, which goes well with Ruan Mei's kit. Fire characters also have a high break multiplier, so a higher break effect allows for more break damage. Furthermore, both Asta and Ruan Mei buff speed, so you will be able to have several turns before the enemy does. Another great thing about Asta is that she buffs ATK% while Ruan Mei buffs DMG%, which allows for less diminishing returns.
+| ![sw](https://media.discordapp.net/attachments/887963616182145044/1184806670874980432/1006.png?ex=658d5032&is=657adb32&hm=5e32e7b719e5db5a01abb0b891ef35b41e2f93934a58ac792e9e7e7a3157cbad&=&format=webp&quality=lossless&width=240&height=327) | **Silver Wolf** is a teammate who will pair well with Ruan Mei. Her main gimmick revolves around weakness implant, and Ruan Mei is focused around teams who will break the enemy. Silver Wolf guarantees that your team will be able to break the enemy and use Ruan Mei to her full potential. Also, Silver Wolf's DEF shred is valuable, and she deals a decent amount of toughness break damage herself. She especially shines with Ruan Mei when using a break effect-focused build.
+| ![xueyi](https://media.discordapp.net/attachments/887963616182145044/1184806723035340871/1214.png?ex=658d503f&is=657adb3f&hm=71d383e06a9e760dac3b1f4bc059bf9d6bfbfd3309511f6102b713eb7ddb53ac&=&format=webp&quality=lossless&width=240&height=327) | **Xueyi** gains a DMG boost based on her Break Effect, a stat that Ruan Mei increases for her allies. Furthermore, Xueyi's ultimate deals Toughness DMG regardless of their weakness element, which allows for easier breaking of the enemy. Xueyi is also a 4-star character, making her more accessible for F2P players.
+| ![sushang](https://media.discordapp.net/attachments/1106792336668753971/1184882224340946944/1206.png?ex=658d9690&is=657b2190&hm=698c7bc178617dc3a4986ea805b6a4f81790ea403efecc89522a567cdd9724bb&=&format=webp&quality=lossless&width=240&height=327) | **Sushang** benefits from Break Effect, and she benefits greatly from enemies being weakness broken, making her a great option to go with Ruan Mei. Additionally, Sushang has high weakness break efficiency, which allows her to break often. Physical characters also have a high break multiplier, so a higher break effect allows for more break damage. Sushang is also a 4-star character, which means she is more accessible for F2P players.
+| ![kafka](https://media.discordapp.net/attachments/1106792336668753971/1184882224676487248/1005.png?ex=658d9690&is=657b2190&hm=922f848f68b2e33c25ff1ef89b9c13b64c66ef9f4ff59110c41c31125957cfa5&=&format=webp&quality=lossless&width=240&height=327) | **Kafka** works extremely well with Ruan Mei. This is because Ruan Mei's buffs, such as RES PEN and DMG%, affect DoT, and DoT still occurs while enemies are weakness broken. Furthermore, breaking enemies also triggers DoT, and Ruan Mei allows her allies to break more often.
 
 ### Notable Anti-Synergies
 
@@ -356,11 +372,11 @@ Below are some example team compositions for Ruan Mei. These are not the only te
 ![hyper](https://media.discordapp.net/attachments/1106792336668753971/1184926421538320394/ruan_mei_trace_priority_6.png?ex=658dbfb9&is=657b4ab9&hm=455b9f159b54076b1f8f8e2b48491cd94d7d3a37dcf553f72e76e4121aa3d859&=&format=webp&quality=lossless&width=1438&height=375)
 
 ## Character Comparisons
-Ruan Mei may be the first limited 5* Harmony character, but she isn't the only Harmony or support character in the game. There are many other great characters to use, and some my even wonder how she may compare to those characters.
+Ruan Mei may be the first limited 5-star Harmony character, but she isn't the only Harmony or support character in the game. There are many other great characters to use, and some my even wonder how she may compare to those characters.
 
 | Character   | Notes                            |
 | ----------- | -------------------------------- |
-| ![bronya](https://media.discordapp.net/attachments/1106792336668753971/1184864750899834890/1101.png?ex=658d864a&is=657b114a&hm=5e3a8f0eb7a442e0c218c80365a7337843db914faab3af4873c76433d0bc69ba&=&format=webp&quality=lossless&width=240&height=327) | **Bronya** is currently the only other 5* Harmony character, and as a Harmony character she is focused on buffing their allies' DMG. However, that is where their similarities end. Bronya is focused on single-target buffs, while Ruan Mei buffs the entire team at once. Furthermore, Bronya's kit revolves around increasing ATK% and CRIT DMG, whereas Ruan Mei's kit focuses on increasing Weakness Break Efficiency, Break Effect, and SPD. Because they are so different, it is better to consider what you need and which DPS character you are using. As a standard character, however, Bronya is easier to obtain than Ruan Mei.
+| ![bronya](https://media.discordapp.net/attachments/1106792336668753971/1184864750899834890/1101.png?ex=658d864a&is=657b114a&hm=5e3a8f0eb7a442e0c218c80365a7337843db914faab3af4873c76433d0bc69ba&=&format=webp&quality=lossless&width=240&height=327) | **Bronya** is currently the only other 5-star Harmony character, and as a Harmony character she is focused on buffing their allies' DMG. However, that is where their similarities end. Bronya is focused on single-target buffs, while Ruan Mei buffs the entire team at once. Furthermore, Bronya's kit revolves around increasing ATK% and CRIT DMG, whereas Ruan Mei's kit focuses on increasing Weakness Break Efficiency, Break Effect, and SPD. Because they are so different, it is better to consider what you need and which DPS character you are using. As a standard character, however, Bronya is easier to obtain than Ruan Mei.
 | ![tingyun](https://media.discordapp.net/attachments/1106792336668753971/1184867622261641287/1202.png?ex=658d88f6&is=657b13f6&hm=84f6ded0b64a89254087bc85717a21be0ff99aa165d6d5898283ace20110b72e&=&format=webp&quality=lossless&width=240&height=327) | **Tingyun** is generally regarded as one of the best characters in the game due to how versatile and universal she is as a support. It's even better that she's a 4* character, making her very accessible for F2P players. Tingyun's ultimate, which restores energy for allies, is also something extremely useful. However, again, as Ruan Mei and Tingyun do different things, you should use whoever benefits your team more. You can even use both characters together. Tingyun buffs ATK% while Ruan Mei buffs DMG%, which reduces diminishing returns. Furthermore, Tingyun's energy restore helps with Ruan Mei's energy needs.
 | ![asta](https://media.discordapp.net/attachments/887963616182145044/1184806490591211561/1009.png?ex=658d5007&is=657adb07&hm=5465b9c0ccc0d4fb39b3033f32bec00eec3e4f58a37c5a045ed2c593a84e4ac1&=&format=webp&quality=lossless&width=240&height=327) | **Asta** is a popular Harmony option for many players due to her being completely free to obtain. Despite being a budget-friendly character, Asta provides a lot of value due to her ATK% buffs and her huge flat SPD boost from her ultimate. While Ruan Mei and Asta may seem similar due to the fact that they both provide buffs and increase SPD, they are quite different. Ruan Mei buffs DMG%, while Asta buffs ATK%. This makes Asta someone who runs very well with Ruan Mei, rather than someone to be replaced by Ruan Mei.
 | ![pela](https://media.discordapp.net/attachments/1106792336668753971/1184880058305876028/1106.png?ex=658d948b&is=657b1f8b&hm=b89a7c5e310823bdb0a2245cc38d0c124128adc188261c52bfa60c3494aca501&=&format=webp&quality=lossless&width=240&height=327) | **Pela** is a Nihility character, while Ruan Mei is a Harmony character. However, as both are Ice supports, they may be compared quite often, especially for Ice DMG-focused teams. Because Ruan Mei and Pela are both different characters who provide different things, it is again recommended to run them together if possible. However, if you must choose one or the other, choose whoever benefits your DPS more. Ruan Mei buffs Break Effect and Weakness Break Efficiency, which might be more valuable to certain characters.
@@ -388,8 +404,8 @@ It is not necessary to be able to perform a 3T ult. However, a 3T ult is optimal
 ### How much Break Effect is too much?
 While the recommended minimum Break Effect is 180%, you can definitely have more Break Effect. There is no limit to how much Break Effect to have, but you should not be sacrificing other stats for Break Effect. Once you hit 180% Break Effect, it is better to focus on other stats. If you have extra Break Effect to spare even after hitting the recommended stats, that's perfectly fine.
 
-### Can a run a BE rope if I'm using _____?
-idk man.
+### Can I run a BE rope?
+In all situations, a BE rope should only be used if you do not have an ERR rope. Even with other energy sources, having an ERR rope is still recommended. Furthermore, it is more beneficial for your team to cast Ruan Mei's ultimate more often, even if she does not have the recommended 180% BE minimum.
 
 ## Closing & Final Thoughts
 In conclusion, Ruan Mei is a strong buffer who can fit in any team. She is likely future-proof and will remain a strong unit even in the future. Ruan Mei might be a luxury option, and she isn't meant to replace other Harmony units, but she shines in her own way. Also, it gives players a chance to invest in a stat that wasn't commonly invested in before.
