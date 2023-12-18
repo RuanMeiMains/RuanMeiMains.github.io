@@ -326,7 +326,7 @@ For Ruan Mei's chest piece and planar sphere, choose whichever relic has better 
 ### Stat Priority
 ![statpriority](https://media.discordapp.net/attachments/1106792336668753971/1184955832849399828/ruan_mei_trace_priority_10.png?ex=658ddb1d&is=657b661d&hm=61ce9fb1d742feb080ee2cead797a5d171758a5fda4c77eaaac2cdec0777702e&=&format=webp&quality=lossless&width=1438&height=375)
 
-Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit scales of Break Effect. Ruan Mei needs at least **180%** Break Effect in order to maximize her passive. More Break Effect is better, as long as you are not sacrificing other stats.
+Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit revolves around Break Effect. Ruan Mei needs at least **180%** Break Effect in order to maximize her passive. More Break Effect is better, as long as you are not sacrificing other stats.
 
 SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, keeping her buffs and ultimate uptime higher. At least **143** SPD is recommended. Ruan Mei gains 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC Messenger Traversing Hackerspace. Like Break Effect, more SPD is better, as long as you are not sacrificing other stats.
 
