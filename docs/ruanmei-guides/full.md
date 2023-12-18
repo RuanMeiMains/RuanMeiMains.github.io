@@ -328,7 +328,7 @@ For Ruan Mei's chest piece and planar sphere, choose whichever relic has better 
 
 Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit revolves around Break Effect. Ruan Mei needs at least **180%** Break Effect in order to maximize her passive. More Break Effect is better, as long as you are not sacrificing other stats.
 
-SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, keeping her buffs and ultimate uptime higher. At least **143** SPD is recommended. Ruan Mei gains 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC Messenger Traversing Hackerspace. Like Break Effect, more SPD is better, as long as you are not sacrificing other stats.
+SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, keeping her buffs and ultimate uptime higher. At least **143** SPD is recommended. Ruan Mei has a total of 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC Messenger Traversing Hackerspace. Like Break Effect, more SPD is better, as long as you are not sacrificing other stats.
 
 Defensive stats such as Effect RES, HP, and DEF are also helpful for Ruan Mei. She is not meant to deal high amounts of DMG, so offensive stats would be useless. Furthermore, Ruan Mei wants to get hit a couple times in order to gain some energy. With some defensive stats, Ruan Mei's survivability will increase. However, it is important to focus on Break Effect and SPD first.
 
