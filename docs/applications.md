@@ -10,7 +10,7 @@ Our team is committed to creating a welcoming space for all Ruan Mei and Honkai:
 
     Discord Moderators are in charge of supervising channels in our [Discord server](https://discord.gg/ruanmei) and ensuring that server rules are followed. They enforce server rules and answer modmails in order to maintain a safe environment within the server.
     
-    [:material-arrow-right: Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSdMalZaE0vaQbTwBOHf0_CfK1T8TPpxm5U0UJ2reYbeRaAb6g/viewform?usp=sf_link)
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMalZaE0vaQbTwBOHf0_CfK1T8TPpxm5U0UJ2reYbeRaAb6g/viewform?usp=sf_link" target="_blank">:material-arrow-right: Apply here!</a>
     
 -   **Art Team :fontawesome-solid-paintbrush:**
 
@@ -18,7 +18,7 @@ Our team is committed to creating a welcoming space for all Ruan Mei and Honkai:
 
     The Art Team is in charge of creating assets for our community, ranging from emotes and stickers to community icons and banners. They help our community maintain a visually appealing Ruan Mei theme along with several emotes for members to express themselves.
     
-    [:material-arrow-right: Apply here!](https://docs.google.com/forms/d/e/1FAIpQLScgONHsD982olHEzaPL42u_5v5T67ZT34aUWLDBaq8UDO6AJg/viewform?usp=sf_link)
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScgONHsD982olHEzaPL42u_5v5T67ZT34aUWLDBaq8UDO6AJg/viewform?usp=sf_link" target="_blank">:material-arrow-right: Apply here!</a>
 
 -   **Event Team :material-party-popper:**
 
@@ -26,7 +26,7 @@ Our team is committed to creating a welcoming space for all Ruan Mei and Honkai:
 
     The Event Team is in charge of keeping our Discord server lively and engaged with fun events for members to enjoy. They may host events such as karaoke nights, giveaways, competitions, etc.
     
-    [:material-arrow-right: Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSetRKiSoTdVeOlgm-7FMgcvAm86U_NWy1SdMOFjQjQ9SIjjkg/viewform?usp=sf_link)
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSetRKiSoTdVeOlgm-7FMgcvAm86U_NWy1SdMOFjQjQ9SIjjkg/viewform?usp=sf_link" target="_blank">:material-arrow-right: Apply here!</a>
     
 -   **Reddit Moderators :fontawesome-brands-reddit:**
 
@@ -34,7 +34,7 @@ Our team is committed to creating a welcoming space for all Ruan Mei and Honkai:
 
     Reddit Moderators are in charge of managing and moderating our subreddit, [r/RuanMeiMains](https://www.reddit.com/r/RuanMeiMains/). They enforce subreddit rules, answer modmails, and make announcements in order to maintain a healthy atmosphere within the subreddit.
     
-    [:material-arrow-right: Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSdk6SJ-KfcuRqNj0AgsucurNw32std5yx5IS7o-rp05czLNmg/viewform?usp=sf_link)
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdk6SJ-KfcuRqNj0AgsucurNw32std5yx5IS7o-rp05czLNmg/viewform?usp=sf_link" target="_blank">:material-arrow-right: Apply here!</a>
     
 -   **Theorycrafting Team :simple-libreofficemath:**
 
@@ -42,7 +42,7 @@ Our team is committed to creating a welcoming space for all Ruan Mei and Honkai:
 
     The Theorycrafting Team is in charge of creating guides, infographics, and FAQs concerning Ruan Mei's and Honkai: Star Rail's meta. They make calculations to optimize Ruan Mei's gameplay, proofread the guides on our website, and help those who need assistance with using and building Ruan Mei.
     
-    [:material-arrow-right: Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfEiflXqcqtEZzaY2Mea7b0apv-PAwmyb8jSwR53f9VmhPAGQ/viewform?usp=sf_link)
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEiflXqcqtEZzaY2Mea7b0apv-PAwmyb8jSwR53f9VmhPAGQ/viewform?usp=sf_link" target="_blank">:material-arrow-right: Apply here!</a>
     
 -   **Bot Developer Team :octicons-code-review-16:**
 
@@ -50,6 +50,6 @@ Our team is committed to creating a welcoming space for all Ruan Mei and Honkai:
 
     The Bot Developer Team is in charge of managing our multipurpose modmail bot in our Discord server. They can add additional unique functions to it to entertain server members, and they are in charge of troubleshooting the bot when it is down.
     
-    [:material-arrow-right: Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSf725jYKdn8KH75zdTL805IWhghOqLyNOVAAcVYxt5nf8pRgw/viewform?usp=sf_link)
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSf725jYKdn8KH75zdTL805IWhghOqLyNOVAAcVYxt5nf8pRgw/viewform?usp=sf_link" target="_blank">:material-arrow-right: Apply here!</a>
     
 </div>
