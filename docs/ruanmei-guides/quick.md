@@ -1,5 +1,5 @@
 # Ruan Mei Quick Guide ❀
-##### _Updated for 1.6 Beta; Written by mr.swedishfish_
+##### _Updated for 1.6 Beta; Written by mr.swedishfish, Edited by xiaomein_
 > _"Without accelerating or postponing the arrival of death, life will always wither."_
 
 ![ruanmei](https://images-ext-1.discordapp.net/external/P0-LxWVSZxy16Be-KayQefXl4htjZGOKElaxlGDf1Z8/https/pbs.twimg.com/media/F_dDQ8MbwAA4Tqo.png?format=webp&quality=lossless&width=712&height=655)
