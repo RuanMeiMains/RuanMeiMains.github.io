@@ -32,7 +32,7 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
     Ruan Mei's just around the corner! Got a lot of funds saved up for Ruan Mei's banner? Sign up to stream your pulls in our Discord server, and hopefully stream luck will be on your side!
 
-    [:material-arrow-right: Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLScd7DEaUiCkYR0DA1DNhzDyKq24IU1ytojCHmG-7gUeWLIKNg/viewform)
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScd7DEaUiCkYR0DA1DNhzDyKq24IU1ytojCHmG-7gUeWLIKNg/viewform" target="_blank">:material-arrow-right: Sign up here!</a>
 
 -   **Our server shop is open!**
 
@@ -40,7 +40,7 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
     Start earning virtual currency by being active in our Discord server! You can grab some exclusive roles and collectibles in our server shop!
 
-    [:material-arrow-right: Head to our Discord server!](https://discord.gg/ruanmei)
+    <a href="https://discord.gg/ruanmei" target="_blank">:material-arrow-right: Head to our Discord server!</a>
 
 
 </div>
