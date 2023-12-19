@@ -13,7 +13,7 @@ Ruan Mei is a 5-star Ice Harmony character and Member #81 of Genius Society. As 
 Ruan Mei is a support character capable of increasing allies' Weakness Break Efficiency, SPD, and All-Type RES PEN(1). At the same time, Ruan Mei can also deal additional Break DMG whenever allies Weakness Break an enemy, causing the Weakness Broken enemies' actions to be further delayed.
 { .annotate }
 
-1.  RES PEN is short for resistance penetration. What is RES PEN and how does it work? Check out the [Trace Overview](#trace-overview) section and read more about it in her Ultimate description!
+1.  RES PEN is short for **resistance penetration**. What is RES PEN and how does it work? Check out the [Trace Overview](#trace-overview) section and read more about it in her Ultimate description!
 
 If you need a quick overview on Ruan Mei and how to build her, you can check the infographic below or check our [Quick Guide](quick.md).
 
@@ -23,7 +23,10 @@ If you need a quick overview on Ruan Mei and how to build her, you can check the
 </figure>
 
 ## Pros and Cons
-Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other units? While she is admittedly a luxury pick for most people as a limited 5-star character, she still provides a lot of utility as a strong support character, especially with her All-Type RES PEN, full-team buffs, and the fact that she's SP positive. Ruan Mei certainly lives up to the daunting title of the first limited Harmony character, but again, she's not a must pull if you don't care about her. If you don't care about Ruan Mei, though, why are you reading this?
+Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other units? While she is admittedly a luxury pick for most people as a limited 5-star character, she still provides a lot of utility as a strong support character, especially with her All-Type RES PEN, full-team buffs, and the fact that she's SP positive(1). Ruan Mei certainly lives up to the daunting title of the first limited Harmony character, but again, she's not a must pull if you don't care about her. If you don't care about Ruan Mei, though, why are you reading this?
+{ .annotate }
+
+1.  SP positive, or **skill point positive**, refers to when a character generates more skill points than uses them. Ruan Mei is considered SP positive because her skill, which uses one skill point, lasts for three turns. This means that two out of three of her turns will be basic attacks, generating a net positive amount of skill points for her team.
 
 <div class="grid" markdown>
 
@@ -47,7 +50,7 @@ Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other u
 </div>
 
 ## Playstyle Strategy
-Because Ruan Mei is SP positive (meaning she generates more skill points than uses them), it is recommended to go for a Skill > Basic > Basic playstyle. Her skill should be used before your DPS characters take action so that your DPS can be buffed. With Ruan Mei's technique, 2pc Vonwacq, or enough SPD, this can easily be achieved. With Ruan Mei's technique, you can even save one skill point at the start of battle.
+Because Ruan Mei is SP positive and her skill lasts for three turns, it is recommended to follow a Skill > Basic > Basic playstyle. Her skill should be used before your DPS characters take action so that your DPS can be buffed. With Ruan Mei's technique, 2pc Vonwacq, or enough SPD, this can easily be achieved. With Ruan Mei's technique, you can even save one skill point at the start of battle.
 
 Ideally, you want to cast Ruan Mei's ultimate every three turns (this will be referred to as 3T ult). This is so you can have as much ultimate uptime as possible. Ruan Mei's value mostly comes from her ultimate, so higher uptime means more buffs. The problem is that this is pretty difficult to achieve. Ruan Mei's signature light cone does not provide enough energy to achieve a 3T ult, and Energy Recharge buffs and stats are extremely rare.
 
@@ -66,7 +69,7 @@ Ruan Mei's traces are mainly focused on buffing her allies, specifically around 
 Ruan Mei's value comes from her ultimate and skill. As a Harmony character, she is not focused on dealing high amounts of damage. Rather, she focuses on buffing her own allies. Ruan Mei's ultimate and skill boost her allies' damage; her ultimate increases the RES PEN(1) of her allies, and her skill increases the overall damage and weakness break efficiency of her allies. Therefore, those are her two most valuable traces.
 { .annotate }
 
-1.  RES PEN is short for resistance penetration. What is RES PEN and how does it work? Check out the Trace Overview below and read more about it in her Ultimate description!
+1.  RES PEN is short for **resistance penetration**. What is RES PEN and how does it work? Check out the Trace Overview below and read more about it in her Ultimate description!
 
 Ruan Mei's ascension traces are also quite decent. Her second and fourth ascension traces are very useful in improving her support capabilities, and they should definitely be activated.
 
