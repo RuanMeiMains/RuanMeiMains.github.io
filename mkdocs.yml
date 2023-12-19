@@ -20,6 +20,9 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
 
+plugins:
+  - social
+
 site_name: 'Ruan Mei Mains ❀ Honkai: Star Rail'
 site_url: https://ruanmeimains.com/
 
