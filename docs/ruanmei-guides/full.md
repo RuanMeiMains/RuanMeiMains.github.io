@@ -5,7 +5,7 @@
 ![ruanmei](https://media.discordapp.net/attachments/1106786214608109669/1169130890685857802/F9vQImPaUAANvhK.png?ex=65826d7d&is=656ff87d&hm=96e78f887f703428c141741e7a06de53a5ad57806c05517e315b8c81312c9370&=&format=webp&quality=lossless&width=1165&height=655)
 
 ## Introduction
-Ruan Mei is a 5-star Ice Harmony character and Member #81 of Genius Society. As the first ever limited 5-star Harmony character, Ruan Mei was met with high expectations to compete against the other already-amazing Harmony characters, such as Tingyun, Bronya, and Asta. Does she hold a candle to them? Or is she outshined by their incredible support value? Read this guide to learn how to optimize Ruan Mei effectively and see how she can fit in your teams!
+Ruan Mei is a 5-star Ice Harmony character and Member #81 of the Genius Society. As the first-ever limited 5-star Harmony character, Ruan Mei faces high expectations. These expectations especially concern her performance in relation to other high-value Harmony characters, such as Tingyun, Bronya, and Asta, as well as her overall utility and usage. Does she hold a candle to them, or is she outshined by their incredible support value? Read this guide to learn how to optimize Ruan Mei effectively and see how she can fit into your teams!
 
 ![ruanmei](https://media.discordapp.net/attachments/1106792336668753971/1185219131188985928/ruan_mei_animations.gif?ex=658ed055&is=657c5b55&hm=f11b92b8e6e8abf27d220a99151b19ad9248beaaf4a282aed89155bfe2ee89e2&=&width=1162&height=654)
 
@@ -23,7 +23,7 @@ If you need a quick overview on Ruan Mei and how to build her, you can check the
 </figure>
 
 ## Pros and Cons
-Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other units? While she is admittedly a luxury pick for most people as a limited 5-star character, she still provides a lot of utility as a strong support character, especially with her All-Type RES PEN, full-team buffs, and the fact that she's SP positive(1). Ruan Mei certainly lives up to the daunting title of the first limited Harmony character, but again, she's not a must pull if you don't care about her. If you don't care about Ruan Mei, though, why are you reading this?
+Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other units? While she is admittedly high-cost for the average player as a limited 5-star character, she still provides a lot of utility as a strong support character. She certainly lives up to the daunting title of the first limited Harmony character, especially shining with her All-Type RES PEN, full-team buffs, and the fact that she's SP positive. However, she is not an absolute must-pull, so ultimately the choice is yours to make based on your own personal needs and opinions.
 { .annotate }
 
 1.  SP positive, or **skill point positive**, refers to when a character generates more skill points than uses them. Ruan Mei is considered SP positive because her skill, which uses one skill point, lasts for three turns. This means that two out of three of her turns will be basic attacks, generating a net positive amount of skill points for her team.
@@ -50,11 +50,11 @@ Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other u
 </div>
 
 ## Playstyle Strategy
-Because Ruan Mei is SP positive and her skill lasts for three turns, it is recommended to follow a Skill > Basic > Basic playstyle. Her skill should be used before your DPS characters take action so that your DPS can be buffed. With Ruan Mei's technique, 2pc Vonwacq, or enough SPD, this can easily be achieved. With Ruan Mei's technique, you can even save one skill point at the start of battle.
+Because Ruan Mei is SP positive and her skill lasts for three turns, it is recommended to follow a Skill > Basic > Basic playstyle. Her skill should generally be used before your DPS characters take action so that your DPS can be buffed. With Ruan Mei's technique, 2pc Vonwacq, or enough SPD, this can easily be achieved. Her technique also saves one skill point at the start of battle, allowing even easier access.
 
-Ideally, you want to cast Ruan Mei's ultimate every three turns (this will be referred to as 3T ult). This is so you can have as much ultimate uptime as possible. Ruan Mei's value mostly comes from her ultimate, so higher uptime means more buffs. The problem is that this is pretty difficult to achieve. Ruan Mei's signature light cone does not provide enough energy to achieve a 3T ult, and Energy Recharge buffs and stats are extremely rare.
+Ideally, you want to cast Ruan Mei's ultimate every three turns (this will be referred to as 3T ult). This is so you can have as much ultimate uptime as possible. Ruan Mei's value mostly comes from her ultimate, so higher uptime means more buffs. The problem is that this is pretty difficult to achieve. Her signature light cone does not provide enough energy to achieve a 3T ult, and Energy Recharge buffs and stats are extremely rare.
 
-Is 3T ult really necessary, though? Not really, but it is ideal. If you are comfortable with casting Ruan Mei's ultimate every four turns instead, then that's fine! While you may lose out on some buffs, Ruan Mei certainly isn't "unplayble" with a 4T ult. 
+Is 3T ult really necessary, though? Not really, but it is ideal. If you're comfortable with casting Ruan Mei's ultimate every four turns instead, then that's fine! While you may lose out on some buffs, Ruan Mei certainly isn't "unplayable" with a 4T ult. 
 
 Still, it is best to try to optimize your ultimate uptime as much as possible. Even if you can't achieve a 3T ult, you should still try to make the most of your energy and ult as much as you can with what you have.
 
@@ -66,7 +66,7 @@ Ruan Mei's traces are mainly focused on buffing her allies, specifically around 
 ### Trace Priority
 ![tracepriority](https://media.discordapp.net/attachments/1106792336668753971/1184909090649030696/ruan_mei_trace_priority_1.png?ex=658daf95&is=657b3a95&hm=ff8a43e1028f1d84d5d9f6cf67265a81c1d6e7d70cd5a6c0fd7806f93d8366d0&=&format=webp&quality=lossless&width=1438&height=375)
 
-Ruan Mei's value comes from her ultimate and skill. As a Harmony character, she is not focused on dealing high amounts of damage. Rather, she focuses on buffing her own allies. Ruan Mei's ultimate and skill boost her allies' damage; her ultimate increases the RES PEN(1) of her allies, and her skill increases the overall damage and weakness break efficiency of her allies. Therefore, those are her two most valuable traces.
+Ruan Mei's value comes from her ultimate and her skill. As a Harmony character, she focuses on buffing her allies rather than dealing high amounts of damage. Her ultimate and skill boost her allies' damage, her ultimate increases the RES PEN(1) of her allies, and her skill increases the overall damage and weakness break efficiency of her allies. This causes these two traces to be her most valued traces and the ones that should receive the most priority.
 { .annotate }
 
 1.  RES PEN is short for **resistance penetration**. What is RES PEN and how does it work? Check out the Trace Overview below and read more about it in her Ultimate description!
@@ -95,7 +95,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
     ![skill](https://media.discordapp.net/attachments/1106786214608109669/1174206170303565884/ruan_mei_skill.gif?ex=65826f36&is=656ffa36&hm=fa0814d549377bccf666f4dc64b4b625645b618f907e0e61e36ea01c1e13d4e9&=&width=1165&height=655)
 
-    This is one of Ruan Mei's valuable traces, so it is recommended to prioritize this trace. However, as Ruan Mei is SP positive, meaning that she will use a Skill > Basic > Basic playstyle, her skill does not need to be prioritized over her ultimate, which is her most important trace. Furthermore, as Ruan Mei's passives already buff her allies' DMG, leveling up her skill will lead to diminishing returns. Eventually, you will want to level this trace as much as possible, though.
+    This is one of Ruan Mei's most valuable traces. However, as mentioned above, Ruan Mei is SP positive, meaning that she will use a Skill > Basic > Basic playstyle. In turn, this means that her skill does not need to be prioritized over her ultimate, which is her most important trace. Furthermore, as Ruan Mei's passives already buff her allies' DMG, leveling up her skill will lead to diminishing returns. Despite this, you'll still want to level this trace as much as possible eventually. First prioritize her ultimate, and then prioritize this trace.
 
 === "Ultimate: Petals to Stream, Repose in Dream"
 
@@ -111,7 +111,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
     ![ult](https://media.discordapp.net/attachments/1106786214608109669/1174206169582161920/ruan_mei_ultimate.gif?ex=65826f36&is=656ffa36&hm=38236ed624dbfa4fb170d57c53d8eb231f36c66a1335a46064d88a5c2bd7d7c2&=&width=1165&height=655)
 
-    It is **highly recommended** to level this trace. This is Ruan Mei's bread and butter, and it is what makes her very valuable for your team. The reason why Ruan Mei's ultimate should be highly prioritized is due to the All-Type RES PEN that it provides, making Ruan Mei a universal shredder.
+    It is **highly recommended** to level Ruan Mei's ultimate. This is her bread and butter, and it is what makes her very valuable to your team. The reason why this trace should be highly prioritized is due to the All-Type RES PEN that it provides, making Ruan Mei a universal shredder.
 
     ??? tip "What is RES PEN and how does it work?"
     
@@ -133,7 +133,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
     ![talent](https://media.discordapp.net/attachments/887963616182145044/1185609987167359026/SkillIcon_1303_Passive.png?ex=65903c58&is=657dc758&hm=9dbeda488643a23fb2d85a9234a8cfa753ed974061f12c67284ef9aa255888c8&=&format=webp&quality=lossless&width=192&height=192){ align=left } Increases SPD for the team (excluding Ruan Mei). When allies Break an enemy target's Weakness, Ruan Mei deals to this enemy target Break DMG equal to a portion of her Ice Break DMG.
 
-    This trace is nice because it gives allies a free SPD boost. However, it does not increase SPD by very much, and it should not be relied on for SPD tuning. This trace shouldn't be prioritized over others.
+    This trace is nice to have, giving allies a free SPD boost. However, it does not increase SPD by very much, and it should not be relied on for SPD tuning, so it shouldn't be prioritized over others.
 
 === "A2: Candle Lights on Still Waters"
 
@@ -242,14 +242,14 @@ Ruan Mei's light cone situation is quite interesting. Her signature light cone, 
 
 | Light Cone  | Mathematical Comparisons TBD | Notes                                |
 | ----------- | -------------------------------- | ------------------------------------ |
-| ![sig](https://media.discordapp.net/attachments/1106794389759598662/1184427674735743057/past-self-in-mirror-item_icon.png?ex=658bef3b&is=65797a3b&hm=c0900e5f5d10f9bdce4fbcf3a092b02e72d80741794b97952ae8d61b739d73cd&=&format=webp&quality=lossless&width=100&height=100)|               TBD%                 | **Past Self in Mirror** is Ruan Mei's signature light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, the other benefits it provides are quite powerful. It greatly reduces the need for Break Effect, allowing you to invest in other stats. |
+| ![sig](https://media.discordapp.net/attachments/1106794389759598662/1184427674735743057/past-self-in-mirror-item_icon.png?ex=658bef3b&is=65797a3b&hm=c0900e5f5d10f9bdce4fbcf3a092b02e72d80741794b97952ae8d61b739d73cd&=&format=webp&quality=lossless&width=100&height=100)|               TBD%                 |  **Past Self in Mirror** is Ruan Mei's signature light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, the other benefits it provides are quite powerful. It greatly reduces the need for Break Effect, allowing you to invest in other stats. |
 | ![motps5](https://media.discordapp.net/attachments/1106794389759598662/1184428709093056572/memories-of-the-past-item_icon.png?ex=658bf031&is=65797b31&hm=094e208b3f4f86c13f3224829f295839383a5dbff2cb584a03ba84b307572396&=&format=webp&quality=lossless&width=100&height=100)     | TBD% | **Memories of the Past** is a great 4-star option for Ruan Mei. It provides Ruan Mei's most needed stats, break effect and energy. At **S4** and higher, it can compete with Ruan Mei's signature light cone due to the energy it provides. |
 | ![cogs](https://media.discordapp.net/attachments/1106794389759598662/1184428892291874916/meshing-cogs-item_icon.png?ex=658bf05d&is=65797b5d&hm=fefc175f11576cf86fcb3c2a5291a79257f17551a420209d2f762fa77b36978c&=&format=webp&quality=lossless&width=100&height=100)  | TBD% | **Meshing Cogs**, a popular budget light cone choice for Harmony characters due to the energy it provides, is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S3 Memories of the Past due to the energy it provides.|
 
 
 ## Relic Sets
 
-Ruan Mei needs mainly Break Effect, SPD, and Energy Regeneration Rate, as those are the stats that help improve her support capabilities the most. Because Ruan Mei is a support character, and Break DMG cannot crit, it is useless to focus on offensive stats such as CRIT and ATK. Below are some relic recommendations to optimize Ruan Mei.
+Ruan Mei mainly needs Break Effect, SPD, and Energy Regeneration Rate, as those are the stats that help improve her support capabilities the most. Because she is a support character and Break DMG cannot crit, offensive stats such as CRIT and ATK don't contribute anything to her playstyle. Do not invest in those. Below are some relic recommendations to optimize Ruan Mei.
 
 
 ### 4PC Relic Recommendations
@@ -330,11 +330,11 @@ For Ruan Mei's chest piece and planar sphere, choose whichever relic has better 
 ### Stat Priority
 ![statpriority](https://media.discordapp.net/attachments/1106792336668753971/1184955832849399828/ruan_mei_trace_priority_10.png?ex=658ddb1d&is=657b661d&hm=61ce9fb1d742feb080ee2cead797a5d171758a5fda4c77eaaac2cdec0777702e&=&format=webp&quality=lossless&width=1438&height=375)
 
-Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit revolves around Break Effect. Ruan Mei needs at least **180%** Break Effect in order to maximize her passive. More Break Effect is better, as long as you are not sacrificing other stats.
+Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit revolves around Break Effect. Ruan Mei needs at least **180%** Break Effect in order to maximize her passive. More Break Effect is generally always better as long as you're not sacrificing other stats.
 
-SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, keeping her buffs and ultimate uptime higher. At least **143** SPD is recommended. Ruan Mei has a total of 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC Messenger Traversing Hackerspace. Like Break Effect, more SPD is better, as long as you are not sacrificing other stats.
+SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, keeping her buffs and ultimate uptime higher. At least **143** SPD is recommended. Ruan Mei has a total of 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC Messenger Traversing Hackerspace. Like Break Effect, more SPD is better as long as you are not sacrificing other stats.
 
-Defensive stats such as Effect RES, HP, and DEF are also helpful for Ruan Mei. She is not meant to deal high amounts of DMG, so offensive stats would be useless. Furthermore, Ruan Mei wants to get hit a couple times in order to gain some energy. With some defensive stats, Ruan Mei's survivability will increase. However, it is important to focus on Break Effect and SPD first.
+Defensive stats such as Effect RES, HP, and DEF are also helpful for Ruan Mei. In combat, she wants to get hit a couple times in order to gain energy, meaning survivability is important to her. With some defensive stats, Ruan Mei's survivability will naturally increase. However, keep in mind that Break Effect and SPD should be prioritized over these stats.
 
 #### Energy Needs
 Ruan Mei requires as much energy as she can, as her ultimate is extremely valuable for her team.
@@ -361,7 +361,7 @@ Due to her universal buffs, such as SPD increase, DMG% increase, and All-Type RE
 | ![himeko](https://media.discordapp.net/attachments/1106792336668753971/1184873252141670410/1003.png?ex=658d8e35&is=657b1935&hm=4c110916c2d71e11dc1e9bb6c96c403e8aceca1162a51d4d7727037640fde94d&=&format=webp&quality=lossless&width=240&height=327) | **Himeko** isn't the most anti-synergistic with Ruan Mei due to the fact that she wants to break as many enemies as possible. However, Ruan Mei also extends weakness break, which means that it will take longer for Himeko to gain stacks and trigger her follow-up attack. She can still be used with Ruan Mei, but she is not really a recommended option.
 
 ### Team Composition Examples
-Below are some example team compositions for Ruan Mei. These are not the only team compositions that can be used with Ruan Mei. Rather, they are some notable examples to help players have an idea on how to use Ruan Mei.
+Below are some example team compositions for Ruan Mei. These are not the only team compositions that can be used with Ruan Mei; as mentioned before, she is an incredibly flexible unit. Rather, these teams are some notable examples to provide a general idea of how to use Ruan Mei.
 
 #### Kafka DoT
 ![dot](https://media.discordapp.net/attachments/1106792336668753971/1184913826102128820/ruan_mei_trace_priority_2.png?ex=658db3fe&is=657b3efe&hm=b849c1fdb7a2434a02bc417147d8e31b477632bfca76442ed9aae404a885de12&=&format=webp&quality=lossless&width=1438&height=375)
@@ -376,7 +376,7 @@ Below are some example team compositions for Ruan Mei. These are not the only te
 ![hyper](https://media.discordapp.net/attachments/1106792336668753971/1184926421538320394/ruan_mei_trace_priority_6.png?ex=658dbfb9&is=657b4ab9&hm=455b9f159b54076b1f8f8e2b48491cd94d7d3a37dcf553f72e76e4121aa3d859&=&format=webp&quality=lossless&width=1438&height=375)
 
 ## Character Comparisons
-Ruan Mei may be the first limited 5-star Harmony character, but she isn't the only Harmony or support character in the game. There are many other great characters to use, and some may even wonder how she may compare to those characters.
+Ruan Mei may be the first limited 5-star Harmony character, but she isn't the only Harmony or support character in the game. There are many other great characters to use, and many may wonder how she may compare to those characters.
 
 | Character   | Notes                            |
 | ----------- | -------------------------------- |
@@ -387,12 +387,12 @@ Ruan Mei may be the first limited 5-star Harmony character, but she isn't the on
 | ![yukong](https://media.discordapp.net/attachments/1106792336668753971/1184880519922585640/1207.png?ex=658d94f9&is=657b1ff9&hm=9511675368852310b55a9c8c276652e5d125c61408020a9ed1926acefa5bd10b&=&format=webp&quality=lossless&width=240&height=327) | **Yukong** is also a free-to-obtain character, making her another popular Harmony choice for players. However, without E6, Yukong's buff window is very small. Ruan Mei's buff window is much longer, making her a very comfortable choice for players. Yukong also buffs ATK% and CRIT while Ruan Mei buffs DMG%, so it is possible to run them together.
 
 ## Frequently Asked Questions
-If you didn't read through this guide thoroughly, you probably don't know the answers to these commonly asked questions. Don't worry, though. If you just skipped to the end to find the answers to these questions, we've got you covered.
+If you didn't read through this guide thoroughly, you probably don't know the answers to these commonly asked questions, but don't worry. If you just skipped to the end to find the answers to these questions, we've got you covered.
 
 ### E1 or Signature Light Cone?
 Ruan Mei's **E1** is highly recommended over her light cone. There are a couple great alternatives to Ruan Mei's signature light cone, and at high superimpositions, they may even outperform Ruan Mei's light cone. This is because Ruan Mei's light cone does not provide enough energy to ensure a 3T ult, and the Break Effect it gives at S1 is comparable to the amount of Break Effect S5 Memories of the Past gives.
 
-Conversely, Ruan Mei's E1 is incredibly valuable. It is her best eidolon; it ignores 20% DEF during Ruan Mei's ultimate. This is basically like having 4PC Genius of Brilliant Stars, which is a popular relic set for even non-Quantum DPS characters. That's how good DEF shred is.
+Conversely, Ruan Mei's E1 is incredibly valuable. As her best eidolon, it ignores 20% DEF during Ruan Mei's ultimate. This is basically like having 4PC Genius of Brilliant Stars, which is a popular relic set for even non-Quantum DPS characters. That's how good DEF shred is.
 
 ### ERR or BE rope?
 It is recommended to run an **ERR rope** over a BE rope. Ruan Mei's ultimate is very valuable and provides All-Type RES PEN, a very helpful buff. Energy Regeneration is also not easily obtained, as it cannot be gained via relic substats. The only relic with an Energy Regeneration main stat is the link rope, so that is the only Energy Regeneration you can possibly obtain via relics.
@@ -402,17 +402,17 @@ Break Effect, on the other hand, can be obtained via relic substats, Thief of Sh
 Because Ruan Mei's ultimate is so powerful, it is highly recommended to have as much Energy Regeneration as possible. This is why ERR rope is recommended over BE rope.
 
 ### Is 3T Ult Really Necessary?
-It is not necessary to be able to perform a 3T ult. However, a 3T ult is optimal. It is still recommended to try to aim for as high ultimate uptime as possible, even if you cannot achieve a 3T ult. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
+While a 3T Ult is optimal, it's not necessary. However, even if you cannot achieve a 3T ult, still aim for as high ultimate uptime as possible. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
 
 ### How much Break Effect is too much?
-While the recommended minimum Break Effect is 180%, you can definitely have more Break Effect. There is no limit to how much Break Effect to have, but you should not be sacrificing other stats for Break Effect. Once you hit 180% Break Effect, it is better to focus on other stats. If you have extra Break Effect to spare even after hitting the recommended stats, that's perfectly fine.
+While the recommended minimum Break Effect is 180%, you can definitely have more Break Effect. There is no limit to how much Break Effect to have, but you should not be sacrificing other stats for Break Effect. Once you hit 180% Break Effect, focus on other stats; if you have extra Break Effect to spare even after hitting the recommended stats, that's perfectly fine.
 
 ### Can I run a Break Effect rope?
-In all situations, a BE rope should only be used if you do not have an ERR rope. Even with other energy sources, having an ERR rope is still recommended. Furthermore, it is more beneficial for your team to cast Ruan Mei's ultimate more often, even if she does not have the recommended 180% BE minimum.
+In all situations, a BE rope should only be used if you do not have an ERR rope. Even with other energy sources, having an ERR rope is still recommended. It is generally more beneficial for your team to cast Ruan Mei's ultimate more often, even if she does not have the recommended 180% BE minimum.
 
 ## Closing & Final Thoughts
-In conclusion, Ruan Mei is a strong buffer who can fit in any team. She is likely future-proof and will remain a strong unit even in the future. Ruan Mei might be a luxury option, and she isn't meant to replace other Harmony units, but she shines in her own way. Also, it gives players a chance to invest in a stat that wasn't commonly invested in before.
+In conclusion, Ruan Mei is a strong buffer who can fit in any team. She is likely future-proof and will remain a strong unit even in the future. She is slightly costly, and she isn't meant to replace other Harmony units, but she shines in her own way. Also, it gives players a chance to invest in a stat that wasn't commonly invested in before.
 
-Huge thanks to our Theorycrafting Team for their work in creating this guide! From working on calculations to answering questions, they have contributed a lot into making this guide.
+Huge thanks to our Theorycrafting Team for their work in creating this guide! From working on calculations to answering questions, their contributions have been invaluable.
 
-This guide will be updated as we are able to test Ruan Mei during 1.6 and as future content changes Ruan Mei's playstyle. Thanks for reading, and we hope you found this guide helpful!
+This guide will be updated when we are able to test Ruan Mei during 1.6 and as future content changes Ruan Mei's playstyle. Thanks for reading, and we hope you found this guide helpful!
