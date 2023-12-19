@@ -21,7 +21,10 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - social
+  - social:
+      cards_layout: default/only/image
+      cards_layout_options:
+        background_image: docs/assets/images/background.jpg
 
 site_name: 'Ruan Mei Mains ❀ Honkai: Star Rail'
 site_url: https://ruanmeimains.com/
