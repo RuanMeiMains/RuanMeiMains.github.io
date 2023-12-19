@@ -23,7 +23,7 @@ If you need a quick overview on Ruan Mei and how to build her, you can check the
 </figure>
 
 ## Pros and Cons
-Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other units? While she is admittedly high-cost for the average player as a limited 5-star character, she still provides a lot of utility as a strong support character. She certainly lives up to the daunting title of the first limited Harmony character, especially shining with her All-Type RES PEN, full-team buffs, and the fact that she's SP positive. However, she is not an absolute must-pull, so ultimately the choice is yours to make based on your own personal needs and opinions.
+Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other units? While she is admittedly high-cost for the average player as a limited 5-star character, she still provides a lot of utility as a strong support character. She certainly lives up to the daunting title of the first limited Harmony character, especially shining with her All-Type RES PEN, full-team buffs, and the fact that she's SP positive(1). However, she is not an absolute must-pull, so ultimately the choice is yours to make based on your own personal needs and opinions.
 { .annotate }
 
 1.  SP positive, or **skill point positive**, refers to when a character generates more skill points than uses them. Ruan Mei is considered SP positive because her skill, which uses one skill point, lasts for three turns. This means that two out of three of her turns will be basic attacks, generating a net positive amount of skill points for her team.
