@@ -240,7 +240,7 @@ _Comparison graph will be added soon... when we are able to test Ruan Mei once 1
 
 Ruan Mei's light cone situation is quite interesting. Her signature light cone, while it is quite good due to the raw stats it offers, does not provide enough energy to achieve 3T ult. This makes other budget-friendly options a viable choice for Ruan Mei, and some can even compare to or outperform Ruan Mei's signature light cone. We won't deny that Ruan Mei's light cone is extremely beautiful, though.
 
-| Light Cone  | Mathematical Comparisons TBD | Notes                                |
+| Light Cone  | Mathematical Comparisons | Notes                                |
 | ----------- | -------------------------------- | ------------------------------------ |
 | ![sig](https://media.discordapp.net/attachments/1106794389759598662/1184427674735743057/past-self-in-mirror-item_icon.png?ex=658bef3b&is=65797a3b&hm=c0900e5f5d10f9bdce4fbcf3a092b02e72d80741794b97952ae8d61b739d73cd&=&format=webp&quality=lossless&width=100&height=100)|               TBD%                 |  **Past Self in Mirror** is Ruan Mei's signature light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, the other benefits it provides are quite powerful. It greatly reduces the need for Break Effect, allowing you to invest in other stats. |
 | ![motps5](https://media.discordapp.net/attachments/1106794389759598662/1184428709093056572/memories-of-the-past-item_icon.png?ex=658bf031&is=65797b31&hm=094e208b3f4f86c13f3224829f295839383a5dbff2cb584a03ba84b307572396&=&format=webp&quality=lossless&width=100&height=100)     | TBD% | **Memories of the Past** is Ruan Mei's best 4-star light cone. It provides Ruan Mei's most needed stats, break effect and energy. At **S3+**, Ruan Mei only needs to be hit once to ensure a 3T ultimate. At **S5**, it competes with Ruan Mei's signature light cone because it guarantees a 3T ultimate. |
@@ -336,8 +336,20 @@ SPD should also be prioritized, as it allows Ruan Mei to have more turns per cyc
 
 Defensive stats such as Effect RES, HP, and DEF are also helpful for Ruan Mei. In combat, she wants to get hit a couple times in order to gain energy, meaning survivability is important to her. With some defensive stats, Ruan Mei's survivability will naturally increase. However, keep in mind that Break Effect and SPD should be prioritized over these stats.
 
-#### Energy Needs
-Ruan Mei requires as much energy as she can, as her ultimate is extremely valuable for her team.
+### Energy Needs
+Ruan Mei requires as much energy as she can, as her ultimate is extremely valuable for her team. As mentioned before, it is ideal to cast a 3T ultimate for as much uptime as possible. However, 3T ultimate is difficult to achieve, so a 4T ultimate is fine as well if you absolutely cannot achieve a 3T ultimate. Below are some energy and light cone combinations to determine if you can achieve a 3T ultimate with Ruan Mei.
+
+Note that to achieve 124.4% ER, you must use an ERR rope and Penacony/Vonwacq. To achieve 119.4% ER, you must use an ERR rope. To achieve 105% ER, you must use Penacony/Vonwacq.
+
+| Total Energy | Light Cone | Turns Needed to Cast Ultimate | Notes
+|--------------|------------|-------------------------------|-------
+| 124.4% | S5 Meshing Cogs | **3** | Might be lacking in Break Effect with this build
+| 119.4% | S5 Meshing Cogs | **4** | someone tell me if you need to get hit once for 3t
+| 124.4% | No Cogs | **4** | someone tell me if you need to get hit once for 3t
+| 119.4% | No Cogs | **4** | pee pee poo poo
+| 100% | S5 Meshing Cogs | **4** | pee pee poo poo
+| 105% | No Cogs |**4-5** | Inconsistent rotation
+
 
 ## Teammates
 
