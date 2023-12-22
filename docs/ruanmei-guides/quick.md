@@ -20,7 +20,7 @@ Ruan Mei is a support character capable of increasing allies' Weakness Break Eff
 If you need a quick overview on how to build Ruan Mei, you can check the infographic below.
 
 <figure markdown>
-  ![infographic](https://media.discordapp.net/attachments/1179541323490013346/1184878825738346536/Ruan_Mei_FAQ_02.jpg?ex=658d9366&is=657b1e66&hm=477de49532f10bae2e48d3a8adbc79b986587a8c92fbbaa52fe33e733cbf3542&=&format=webp&width=1047&height=654)
+  ![infographic](https://media.discordapp.net/attachments/1179541323490013346/1187379294838718596/Ruan_Mei_FAQ_04.jpg?ex=6596ac24&is=65843724&hm=b2bd86b83aea7d8d667165f3befc7a24401b1e7ee9d5bacb45de37aef80cf4e7&=&format=webp&width=1048&height=655)
   <figcaption>Infographic designed by littlemari</figcaption>
 </figure>
 
@@ -124,8 +124,8 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 | Light Cone  | Mathematical Comparison TBD | Notes                                |
 | ----------- | -------------------------------- | ------------------------------------ |
 | ![sig](https://media.discordapp.net/attachments/1106794389759598662/1184427674735743057/past-self-in-mirror-item_icon.png?ex=658bef3b&is=65797a3b&hm=c0900e5f5d10f9bdce4fbcf3a092b02e72d80741794b97952ae8d61b739d73cd&=&format=webp&quality=lossless&width=100&height=100)|               TBD%                 | **Past Self in Mirror** is Ruan Mei's signature light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, it provides a lot of Break Effect and team-wide utility, allowing you to invest in other stats. |
-| ![motps5](https://media.discordapp.net/attachments/1106794389759598662/1184428709093056572/memories-of-the-past-item_icon.png?ex=658bf031&is=65797b31&hm=094e208b3f4f86c13f3224829f295839383a5dbff2cb584a03ba84b307572396&=&format=webp&quality=lossless&width=100&height=100)     | TBD% | **Memories of the Past** is Ruan Mei's best 4-star light cone. It provides Ruan Mei's most needed stats, break effect and energy. At **S4+**, it competes with Ruan Mei's signature light cone. |
-| ![cogs](https://images-ext-1.discordapp.net/external/mqbS_0VKfEnP_4bJ5deHp8X9jWSCqEvJHLAIIkZhNJ4/https/cdn.discordapp.com/emojis/1179112071309299792.png?format=webp&quality=lossless&width=100&height=100)  | TBD% | **Meshing Cogs** is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S3 Memories of the Past.|
+| ![motps5](https://media.discordapp.net/attachments/1106794389759598662/1184428709093056572/memories-of-the-past-item_icon.png?ex=658bf031&is=65797b31&hm=094e208b3f4f86c13f3224829f295839383a5dbff2cb584a03ba84b307572396&=&format=webp&quality=lossless&width=100&height=100)     | TBD% | **Memories of the Past** is Ruan Mei's best 4-star light cone. It provides Ruan Mei's most needed stats, break effect and energy. At **S3+**, Ruan Mei only needs to be hit once to ensure a 3T ultimate. At **S5**, it competes with Ruan Mei's signature light cone because it guarantees a 3T ultimate. |
+| ![cogs](https://images-ext-1.discordapp.net/external/mqbS_0VKfEnP_4bJ5deHp8X9jWSCqEvJHLAIIkZhNJ4/https/cdn.discordapp.com/emojis/1179112071309299792.png?format=webp&quality=lossless&width=100&height=100)  | TBD% | **Meshing Cogs** is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S2 Memories of the Past.|
 
 ## Relic Sets
 
