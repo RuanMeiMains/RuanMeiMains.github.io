@@ -2,14 +2,14 @@
 ##### _Updated for 1.6 Beta; Written by mr.swedishfish, Edited by xiaomein_
 > _"Without accelerating or postponing the arrival of death, life will always wither."_
 
-![ruanmei](https://images-ext-1.discordapp.net/external/P0-LxWVSZxy16Be-KayQefXl4htjZGOKElaxlGDf1Z8/https/pbs.twimg.com/media/F_dDQ8MbwAA4Tqo.png?format=webp&quality=lossless&width=712&height=655)
+![ruanmei](https://media.discordapp.net/attachments/887963616182145044/1187686451605950514/ruan_mei_trailer_1.gif?ex=6597ca34&is=65855534&hm=7a6a8362eb08145fd535003785b0a47b9585d86941fd9c72a299ef03b596364a&=&width=1165&height=655)
 
 ## Introduction
 Too lazy to read the full guide? Don't worry, we've got the TLDR for you. 
 
 Ruan Mei is a 5-star Ice Harmony character and Member #81 of Genius Society. She is an incredibly flexible unit who can fit in any team with her universal buffs. Read this guide to learn how to optimize Ruan Mei effectively and see how she can fit in your teams!
 
-![ruanmei](https://media.discordapp.net/attachments/1106792336668753971/1185219131188985928/ruan_mei_animations.gif?ex=658ed055&is=657c5b55&hm=f11b92b8e6e8abf27d220a99151b19ad9248beaaf4a282aed89155bfe2ee89e2&=&width=1162&height=654)
+![ruanmei](https://media.discordapp.net/attachments/1106786214608109669/1187688531502567494/ruan_mei_trailer_2.gif?ex=6597cc24&is=65855724&hm=069f1aa8d11afd00f97799943ea6b006b84c3d26ffa68b617934274814a9bd61&=&width=1165&height=655)
 
 ## Ruan Mei TLDR
 Ruan Mei is a support character capable of increasing allies' Weakness Break Efficiency, SPD, and All-Type RES PEN(1). At the same time, Ruan Mei can also deal additional Break DMG whenever allies Weakness Break an enemy, causing the Weakness Broken enemies' actions to be further delayed.
