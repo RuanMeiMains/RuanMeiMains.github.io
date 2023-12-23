@@ -2,14 +2,14 @@
 ##### _Updated for 1.6 Beta; Written by mr.swedishfish, Edited by xiaomein_
 > _"Without accelerating or postponing the arrival of death, life will always wither."_
 
-![ruanmei](https://images-ext-1.discordapp.net/external/P0-LxWVSZxy16Be-KayQefXl4htjZGOKElaxlGDf1Z8/https/pbs.twimg.com/media/F_dDQ8MbwAA4Tqo.png?format=webp&quality=lossless&width=712&height=655)
+![ruanmei](https://media.discordapp.net/attachments/887963616182145044/1187686451605950514/ruan_mei_trailer_1.gif?ex=6597ca34&is=65855534&hm=7a6a8362eb08145fd535003785b0a47b9585d86941fd9c72a299ef03b596364a&=&width=1165&height=655)
 
 ## Introduction
 Too lazy to read the full guide? Don't worry, we've got the TLDR for you. 
 
 Ruan Mei is a 5-star Ice Harmony character and Member #81 of Genius Society. She is an incredibly flexible unit who can fit in any team with her universal buffs. Read this guide to learn how to optimize Ruan Mei effectively and see how she can fit in your teams!
 
-![ruanmei](https://media.discordapp.net/attachments/1106792336668753971/1185219131188985928/ruan_mei_animations.gif?ex=658ed055&is=657c5b55&hm=f11b92b8e6e8abf27d220a99151b19ad9248beaaf4a282aed89155bfe2ee89e2&=&width=1162&height=654)
+![ruanmei](https://media.discordapp.net/attachments/1106786214608109669/1187688531502567494/ruan_mei_trailer_2.gif?ex=6597cc24&is=65855724&hm=069f1aa8d11afd00f97799943ea6b006b84c3d26ffa68b617934274814a9bd61&=&width=1165&height=655)
 
 ## Ruan Mei TLDR
 Ruan Mei is a support character capable of increasing allies' Weakness Break Efficiency, SPD, and All-Type RES PEN(1). At the same time, Ruan Mei can also deal additional Break DMG whenever allies Weakness Break an enemy, causing the Weakness Broken enemies' actions to be further delayed.
@@ -20,7 +20,7 @@ Ruan Mei is a support character capable of increasing allies' Weakness Break Eff
 If you need a quick overview on how to build Ruan Mei, you can check the infographic below.
 
 <figure markdown>
-  ![infographic](https://media.discordapp.net/attachments/1179541323490013346/1184878825738346536/Ruan_Mei_FAQ_02.jpg?ex=658d9366&is=657b1e66&hm=477de49532f10bae2e48d3a8adbc79b986587a8c92fbbaa52fe33e733cbf3542&=&format=webp&width=1047&height=654)
+  ![infographic](https://media.discordapp.net/attachments/1179541323490013346/1187379294838718596/Ruan_Mei_FAQ_04.jpg?ex=6596ac24&is=65843724&hm=b2bd86b83aea7d8d667165f3befc7a24401b1e7ee9d5bacb45de37aef80cf4e7&=&format=webp&width=1048&height=655)
   <figcaption>Infographic designed by littlemari</figcaption>
 </figure>
 
@@ -124,8 +124,8 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 | Light Cone  | Mathematical Comparison TBD | Notes                                |
 | ----------- | -------------------------------- | ------------------------------------ |
 | ![sig](https://media.discordapp.net/attachments/1106794389759598662/1184427674735743057/past-self-in-mirror-item_icon.png?ex=658bef3b&is=65797a3b&hm=c0900e5f5d10f9bdce4fbcf3a092b02e72d80741794b97952ae8d61b739d73cd&=&format=webp&quality=lossless&width=100&height=100)|               TBD%                 | **Past Self in Mirror** is Ruan Mei's signature light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, it provides a lot of Break Effect and team-wide utility, allowing you to invest in other stats. |
-| ![motps5](https://media.discordapp.net/attachments/1106794389759598662/1184428709093056572/memories-of-the-past-item_icon.png?ex=658bf031&is=65797b31&hm=094e208b3f4f86c13f3224829f295839383a5dbff2cb584a03ba84b307572396&=&format=webp&quality=lossless&width=100&height=100)     | TBD% | **Memories of the Past** is Ruan Mei's best 4-star light cone. It provides Ruan Mei's most needed stats, break effect and energy. At **S4+**, it competes with Ruan Mei's signature light cone. |
-| ![cogs](https://images-ext-1.discordapp.net/external/mqbS_0VKfEnP_4bJ5deHp8X9jWSCqEvJHLAIIkZhNJ4/https/cdn.discordapp.com/emojis/1179112071309299792.png?format=webp&quality=lossless&width=100&height=100)  | TBD% | **Meshing Cogs** is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S3 Memories of the Past.|
+| ![motps5](https://media.discordapp.net/attachments/1106794389759598662/1184428709093056572/memories-of-the-past-item_icon.png?ex=658bf031&is=65797b31&hm=094e208b3f4f86c13f3224829f295839383a5dbff2cb584a03ba84b307572396&=&format=webp&quality=lossless&width=100&height=100)     | TBD% | **Memories of the Past** is Ruan Mei's best 4-star light cone. It provides Ruan Mei's most needed stats, break effect and energy. At **S3+**, Ruan Mei only needs to be hit once to ensure a 3T ultimate. At **S5**, it competes with Ruan Mei's signature light cone because it guarantees a 3T ultimate. |
+| ![cogs](https://images-ext-1.discordapp.net/external/mqbS_0VKfEnP_4bJ5deHp8X9jWSCqEvJHLAIIkZhNJ4/https/cdn.discordapp.com/emojis/1179112071309299792.png?format=webp&quality=lossless&width=100&height=100)  | TBD% | **Meshing Cogs** is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S2 Memories of the Past.|
 
 ## Relic Sets
 
