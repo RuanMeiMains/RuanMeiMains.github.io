@@ -1,5 +1,5 @@
 # Welcome to Ruan Mei Mains! ❀
-We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Rail! This community is created by Ruan Mei fans, for Ruan Mei fans! Check out our various social platforms and resources!
+We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Rail! Ruan Mei Mains is the hub for all things Ruan Mei, created by Ruan Mei fans, for Ruan Mei fans. Check out our various social platforms and resources!
 
 [Join our Discord! :fontawesome-brands-discord:{ .discord }](https://discord.gg/ruanmei){ .md-button .md-button--primary target="_blank" } [Check out our Reddit! :fontawesome-brands-reddit:{ .reddit }](https://reddit.com/r/RuanMeiMains){ .md-button .md-button--primary target="_blank" }
 
@@ -21,24 +21,24 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
     ---
 
-    Huge thanks to our Theorycrafting Team for creating our Ruan Mei Guide! Need help building Ruan Mei? Look no further!
+    Huge thanks to our Theorycrafting Team for working on our Ruan Mei Guide! Need help building Ruan Mei? Look no further! Some details may be a work in progress.
 
     [:material-arrow-right: Check it out!](ruanmei-guides/full.md)
 
 
--   **Stream your Ruan Mei pulls!**
+-   **AMA with Emi Lo, Ruan Mei's EN VA!**
 
     ---
 
-    Ruan Mei's just around the corner! Got a lot of funds saved up for Ruan Mei's banner? Sign up to stream your pulls in our Discord server, and hopefully stream luck will be on your side!
+    Come meet Ruan Mei's English voice actor, Emi Lo! We will be interviewing them with your questions that you may submit <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbcCyiTBBrq9_LUytq5puhRHo8DFMO5t2JVVIaZ9mevEymaA/viewform?usp=sf_link" target="_blank">here</a>, or you can sign up during the event to ask them a question onstage!
 
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScd7DEaUiCkYR0DA1DNhzDyKq24IU1ytojCHmG-7gUeWLIKNg/viewform" target="_blank">:material-arrow-right: Sign up here!</a>
+    <a href="https://discord.com/events/1106785082028597258/1189048041240539176" target="_blank">:material-arrow-right: RSVP here!</a>
 
 -   **Our server shop is open!**
 
     ---
 
-    Start earning virtual currency by being active in our Discord server! You can grab some exclusive roles and collectibles in our server shop!
+    Start earning virtual currency by being active in our Discord server! You can grab some exclusive roles and collectibles in our server shop with the currency you earn. Check it out by sending ?currency in our Discord server!
 
     <a href="https://discord.gg/ruanmei" target="_blank">:material-arrow-right: Head to our Discord server!</a>
 
@@ -47,8 +47,8 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 ## Upcoming Events
 
-<div data-tockify-component="mini" data-tockify-calendar="ruanmeimains"></div>
-<script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-07edb69a-aeb5-4657-861c-d93c719150a3" data-elfsight-app-lazy></div>
 
 ## Join our Community!
 
