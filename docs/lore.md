@@ -98,6 +98,8 @@ Not much is known about Ruan Mei's home planet. However, Ruan Mei has referred t
   <figcaption>Ruan Mei's home planet was one blessed by the Abundance.</figcaption>
 </figure>
 
+>*"The soft wind beckons the early spring, a joyous mood does it bring. A chill wake from rest, the plum blossom in a mess. Where is the home I miss, only remembered in drunken bliss."*
+
 ### Simulated Universe
 >*"I nurture the prototypes of the universe and the Aeons."*
 
