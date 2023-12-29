@@ -1,5 +1,5 @@
 ---
-description: Welcome to Ruan Mei Mains, the hub for all things relating to Genius Society #81!
+description: Welcome to Ruan Mei Mains, the hub for all things relating to Genius Society #81! Check out our social platforms, resources, events, and more!
 ---
 
 # Welcome to Ruan Mei Mains! ❀
