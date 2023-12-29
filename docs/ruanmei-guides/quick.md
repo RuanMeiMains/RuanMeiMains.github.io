@@ -1,6 +1,6 @@
 # Ruan Mei Quick Guide ❀
-##### _Updated for 1.6 Beta; Written by mr.swedishfish, Edited by xiaomein_
-> _"Without accelerating or postponing the arrival of death, life will always wither."_
+##### _Updated for 1.6; Written by mr.swedishfish, Edited by xiaomein_
+> _"We may accelerate or postpone the arrival of death, but life will always wither. Though we will one day all be reduced to particles, we can still reach new heights."_
 
 ![ruanmei](https://media.discordapp.net/attachments/887963616182145044/1187686451605950514/ruan_mei_trailer_1.gif?ex=6597ca34&is=65855534&hm=7a6a8362eb08145fd535003785b0a47b9585d86941fd9c72a299ef03b596364a&=&width=1165&height=655)
 
@@ -138,18 +138,29 @@ Ruan Mei needs mainly Break Effect, SPD, and Energy Regeneration Rate, as those 
 
 === "4PC Thief of Shooting Meteor"
     ![thief](https://media.discordapp.net/attachments/1106794389759598662/1184423874125897728/71010.png?ex=658bebb1&is=657976b1&hm=6d2726b4b213acc7018fa5d8e628a9b8dfc84b75975326736330290f28b78075&=&format=webp&quality=lossless&width=180&height=180){ align=left }
-
+    
     * Greatly increases Break Effect
     * Regenerates energy for Ruan Mei if she breaks the enemy
+    * Recommended if you are lacking Break Effect and/or ultimate uptime
 
-=== "2PC Thief 2PC Messenger"
+=== "2PC Thief 2PC Hackerspace"
 
     ![messenger](https://media.discordapp.net/attachments/1106792336668753971/1184949758905811015/image1.png?ex=658dd575&is=657b6075&hm=75eba60db4511b1339a67737ba84bb6f8e8cce230bbd15912b6727e48fe10f42&=&format=webp&quality=lossless&width=180&height=180){ align=left }
-    
+
     * Increases Break Effect
     * Increases SPD
+    * Recommended if you are lacking SPD
+
+=== "4PC Messenger Traversing Hackerspace"
+
+    ![messenger](https://media.discordapp.net/attachments/887963616182145044/1189854372545429554/71021.png?ex=659fad3c&is=658d383c&hm=c5e4cff86d6b6122f3f26bd296a56c626a92866e40b354cd76e71ff733a504ad&=&format=webp&quality=lossless&width=180&height=180){ align=left }
+
+    * Increases Break Effect
+    * Increases SPD for all allies
+    * Recommended only if you have enough Break Effect and ultimate uptime
 
 </div>
+
 
 ### 2PC Planar Ornament Recommendations
 
