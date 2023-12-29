@@ -1,3 +1,7 @@
+---
+description: Take a deeper dive into Ruan Mei's lore and learn about her character, story, and potential theories!
+---
+
 # Ruan Mei Lore Analysis
 ##### *Contains 1.6 spoilers; Written by mr.swedishfish, Edited by rei_dayo*
 > *"Life exists during a very short window of time, all destined to wilt in the end."*
@@ -60,7 +64,7 @@ In the Simulated Universe, Ruan Mei is best known for her famous occurence, one 
   <figcaption>Ruan Mei makes sure to reward the Trailblazer with her occurence.</figcaption>
 </figure>
 
-This is the incentive Ruan Mei gives to the playerbase, the Trailblazer. Her occurence is an example of the "reward" she gives us in order to make the Trailblazer do her bidding. This, along with Ruan Mei's sweet words and actions, gives the Trailblazer an illusion of receiving "love" from her. Even if she does not truly care for the Trailblazer, or anyone for that matter, she understands that the Trailblazer is useful to her, and she acts accordingly in order to gain what she needs from the Trailblazer.
+This is the incentive Ruan Mei gives to the playerbase, the Trailblazer. Her occurence is an example of the "reward" she gives us in order to make the Trailblazer do her bidding.[^1] This, along with Ruan Mei's sweet words and actions, gives the Trailblazer an illusion of receiving "love" from her. Even if she does not truly care for the Trailblazer, or anyone for that matter, she understands that the Trailblazer is useful to her, and she acts accordingly in order to gain what she needs from the Trailblazer.
 
 Is this manipulation? Yes, it is. However, Ruan Mei does not find anything wrong about this. As long as both sides gain benefits and are satisfied, there is no problem to her. Ruan Mei rewards the Trailblazer for helping her, and if the Trailblazer isn't satisfied, she will simply offer more rewards. To Ruan Mei, that is what "love" is. She does not understand such emotions on a deeper level, and she has learned that living beings will do anything when given the proper incentives.
 
@@ -208,3 +212,10 @@ Below are some possible theories relating to Ruan Mei. They are not confirmed to
 ### Denizens of Abundance
 ### Reviving her Parents
 
+## Sources
+[^1]: [Myriad Celestia Trailer — "Transcendent Ruan Tunes, Blushing Mei Blooms" | Honkai: Star Rail](https://www.youtube.com/watch?v=zLbGzCuxLy4)
+[^2]: [Ruan Mei Trailer — "In All Does Life Flow" | Honkai: Star Rail](https://www.youtube.com/watch?v=xrovyt1awpk)
+[^3]: [Ruan Mei Character Story: Part I](https://wiki.hoyolab.com/pc/hsr/entry/1638)
+[^4]: [Ruan Mei Character Story: Part II](https://wiki.hoyolab.com/pc/hsr/entry/1638)
+[^5]: [Ruan Mei Character Story: Part III](https://wiki.hoyolab.com/pc/hsr/entry/1638)
+[^6]: [Ruan Mei Character Story: Part IV](https://wiki.hoyolab.com/pc/hsr/entry/1638)
