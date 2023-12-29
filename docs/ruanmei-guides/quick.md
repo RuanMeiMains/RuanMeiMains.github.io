@@ -1,6 +1,6 @@
 # Ruan Mei Quick Guide ❀
-##### _Updated for 1.6 Beta; Written by mr.swedishfish, Edited by xiaomein_
-> _"Without accelerating or postponing the arrival of death, life will always wither."_
+##### _Updated for 1.6; Written by mr.swedishfish, Edited by xiaomein_
+> _"We may accelerate or postpone the arrival of death, but life will always wither. Though we will one day all be reduced to particles, we can still reach new heights."_
 
 ![ruanmei](https://media.discordapp.net/attachments/887963616182145044/1187686451605950514/ruan_mei_trailer_1.gif?ex=6597ca34&is=65855534&hm=7a6a8362eb08145fd535003785b0a47b9585d86941fd9c72a299ef03b596364a&=&width=1165&height=655)
 
@@ -126,6 +126,9 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 | ![sig](https://media.discordapp.net/attachments/1106794389759598662/1184427674735743057/past-self-in-mirror-item_icon.png?ex=658bef3b&is=65797a3b&hm=c0900e5f5d10f9bdce4fbcf3a092b02e72d80741794b97952ae8d61b739d73cd&=&format=webp&quality=lossless&width=100&height=100)|               TBD%                 | **Past Self in Mirror** is Ruan Mei's signature light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, it provides a lot of Break Effect and team-wide utility, allowing you to invest in other stats. |
 | ![motps5](https://media.discordapp.net/attachments/1106794389759598662/1184428709093056572/memories-of-the-past-item_icon.png?ex=658bf031&is=65797b31&hm=094e208b3f4f86c13f3224829f295839383a5dbff2cb584a03ba84b307572396&=&format=webp&quality=lossless&width=100&height=100)     | TBD% | **Memories of the Past** is Ruan Mei's best 4-star light cone. It provides Ruan Mei's most needed stats, break effect and energy. At **S3+**, Ruan Mei only needs to be hit once to ensure a 3T ultimate. At **S5**, it competes with Ruan Mei's signature light cone because it guarantees a 3T ultimate. |
 | ![cogs](https://images-ext-1.discordapp.net/external/mqbS_0VKfEnP_4bJ5deHp8X9jWSCqEvJHLAIIkZhNJ4/https/cdn.discordapp.com/emojis/1179112071309299792.png?format=webp&quality=lossless&width=100&height=100)  | TBD% | **Meshing Cogs** is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S2 Memories of the Past.|
+| ![dance](https://media.discordapp.net/attachments/887963616182145044/1190240740501110824/dance-dance-dance-item_icon.png?ex=65a11512&is=658ea012&hm=5dc135a5e5a29b48a08e1c6b6dc2f63ac1f203625d5c876cecbee1ce00409145&=&format=webp&quality=lossless&width=100&height=100) | TBD% | **Dance! Dance! Dance!** is a possible option due to its basic utility, which advances forward all allies upon casting the wearer's ultimate. However, because it does not provide any of Ruan Mei's needed stats, it is not recommended over the above options.
+| ![planetary](https://media.discordapp.net/attachments/887963616182145044/1190241254278185030/planetary-rendezvous-item_icon.png?ex=65a1158c&is=658ea08c&hm=8a15a4db3154ead5be9d14c0bbcd54b98f71143be4a83ddc39e9bfaff4b6852a&=&format=webp&quality=lossless&width=100&height=100) | TBD% | **Planetary Rendezvous** is an option for Ruan Mei if you are using her in Ice teams. However, Ruan Mei already provides DMG buffs for her allies, and having more leads to diminishing returns. Furthermore, this light cone does not provide Break Effect or Energy, Ruan Mei's most needed stats.
+| ![bronya](https://media.discordapp.net/attachments/887963616182145044/1190243456195502152/but-the-battle-isnt-over-item_icon.png?ex=65a11799&is=658ea299&hm=3fb6d0e223c3841a127f435928db11bef81cfe309f5437a379a3189d0a9b3768&=&format=webp&quality=lossless&width=100&height=100) | TBD% | **But the Battle Isn't Over** is generally NOT recommended unless at high superimpositions. The only part of it that benefits Ruan Mei is the energy it provides, but it is not enough to justify using it over the above options.
 
 ## Relic Sets
 
@@ -138,18 +141,29 @@ Ruan Mei needs mainly Break Effect, SPD, and Energy Regeneration Rate, as those 
 
 === "4PC Thief of Shooting Meteor"
     ![thief](https://media.discordapp.net/attachments/1106794389759598662/1184423874125897728/71010.png?ex=658bebb1&is=657976b1&hm=6d2726b4b213acc7018fa5d8e628a9b8dfc84b75975326736330290f28b78075&=&format=webp&quality=lossless&width=180&height=180){ align=left }
-
+    
     * Greatly increases Break Effect
     * Regenerates energy for Ruan Mei if she breaks the enemy
+    * Recommended if you are lacking Break Effect and/or ultimate uptime
 
-=== "2PC Thief 2PC Messenger"
+=== "2PC Thief 2PC Hackerspace"
 
     ![messenger](https://media.discordapp.net/attachments/1106792336668753971/1184949758905811015/image1.png?ex=658dd575&is=657b6075&hm=75eba60db4511b1339a67737ba84bb6f8e8cce230bbd15912b6727e48fe10f42&=&format=webp&quality=lossless&width=180&height=180){ align=left }
-    
+
     * Increases Break Effect
     * Increases SPD
+    * Recommended if you are lacking SPD
+
+=== "4PC Messenger Traversing Hackerspace"
+
+    ![messenger](https://media.discordapp.net/attachments/887963616182145044/1189854372545429554/71021.png?ex=659fad3c&is=658d383c&hm=c5e4cff86d6b6122f3f26bd296a56c626a92866e40b354cd76e71ff733a504ad&=&format=webp&quality=lossless&width=180&height=180){ align=left }
+
+    * Increases Break Effect
+    * Increases SPD for all allies
+    * Recommended only if you have enough Break Effect and ultimate uptime
 
 </div>
+
 
 ### 2PC Planar Ornament Recommendations
 
