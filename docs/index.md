@@ -1,3 +1,7 @@
+---
+description: Welcome to Ruan Mei Mains, the hub for all things relating to Genius Society #81! Check out our social platforms, resources, events, and more!
+---
+
 # Welcome to Ruan Mei Mains! ❀
 We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Rail! Ruan Mei Mains is the hub for all things Ruan Mei, created by Ruan Mei fans, for Ruan Mei fans. Check out our various social platforms and resources!
 
