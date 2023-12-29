@@ -1,3 +1,7 @@
+---
+description: Need help building Ruan Mei? Check out this full and comprehensive guide by Ruan Mei Mains!
+---
+
 # Ruan Mei Full Guide ❀
 ##### _Updated for 1.6; Written by sealary and mr.swedishfish, Edited by xiaomein, m4raku, and euphriia_
 > _"Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — it is a gift."_
