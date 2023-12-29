@@ -14,7 +14,7 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
     ---
 
-    Our website is in its early stages, but you can check out our various resources, guides, and social platforms here!
+    Our website is in its early stages with some unfinished parts, but you can check out our various resources, guides, and social platforms here!
 
 
 -   **Check out our Ruan Mei Guide!**
