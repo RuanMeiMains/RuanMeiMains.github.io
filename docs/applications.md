@@ -1,3 +1,7 @@
+---
+description: Join the Ruan Mei Mains staff team and apply for any available positions!
+---
+
 # Join our Team! ❀
 Our team is committed to creating a welcoming space for all Ruan Mei and Honkai: Star Rail enjoyers. While all work is voluntary, we believe in having fun, being ambitious, and focusing on creativity. If you're interested in joining our staff team, please read the staff position descriptions below and select the application link for your preferred position. Applications are accepted on a rolling basis, and forms may be closed if the positions are closed at the moment.
 
