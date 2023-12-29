@@ -1,6 +1,6 @@
 # Ruan Mei Full Guide ❀
-##### _Updated for 1.6 Beta; Written by sealary and mr.swedishfish, Edited by xiaomein and m4raku_
-> _"Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — that's a gift."_
+##### _Updated for 1.6; Written by sealary and mr.swedishfish, Edited by xiaomein, m4raku, and euphriia_
+> _"Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — it is a gift."_
 
 ![ruanmei](https://media.discordapp.net/attachments/1106786214608109669/1169130890685857802/F9vQImPaUAANvhK.png?ex=65826d7d&is=656ff87d&hm=96e78f887f703428c141741e7a06de53a5ad57806c05517e315b8c81312c9370&=&format=webp&quality=lossless&width=1165&height=655)
 
@@ -263,8 +263,9 @@ Ruan Mei mainly needs Break Effect, SPD, and Energy Regeneration Rate, as those 
     
     * Greatly increases Break Effect
     * Regenerates energy for Ruan Mei if she breaks the enemy
+    * Recommended if you are lacking Break Effect and/or ultimate uptime
 
-=== "2PC Thief 2PC Messenger"
+=== "2PC Thief 2PC Hackerspace"
 
     ![messenger](https://media.discordapp.net/attachments/1106792336668753971/1184949758905811015/image1.png?ex=658dd575&is=657b6075&hm=75eba60db4511b1339a67737ba84bb6f8e8cce230bbd15912b6727e48fe10f42&=&format=webp&quality=lossless&width=180&height=180){ align=left }
     
@@ -272,6 +273,17 @@ Ruan Mei mainly needs Break Effect, SPD, and Energy Regeneration Rate, as those 
 
     * Increases Break Effect
     * Increases SPD
+    * Recommended if you are lacking SPD
+
+=== "4PC Messenger Traversing Hackerspace"
+
+    ![messenger](https://media.discordapp.net/attachments/887963616182145044/1189854372545429554/71021.png?ex=659fad3c&is=658d383c&hm=c5e4cff86d6b6122f3f26bd296a56c626a92866e40b354cd76e71ff733a504ad&=&format=webp&quality=lossless&width=180&height=180){ align=left }
+    
+    Increases SPD by 6%. When the wearer uses their Ultimate on an ally, SPD for all allies increases by 12% for 1 turn(s).
+
+    * Increases Break Effect
+    * Increases SPD for all allies
+    * Recommended only if you have enough Break Effect and ultimate uptime
 
 </div>
 
@@ -337,6 +349,8 @@ SPD should also be prioritized, as it allows Ruan Mei to have more turns per cyc
 Defensive stats such as Effect RES, HP, and DEF are also helpful for Ruan Mei. In combat, she wants to get hit a couple times in order to gain energy, meaning survivability is important to her. With some defensive stats, Ruan Mei's survivability will naturally increase. However, keep in mind that Break Effect and SPD should be prioritized over these stats.
 
 ### Energy Needs
+*NOTE: THIS SECTION IS UNFINISHED AND UNDER CONSTRUCTION.*
+
 Ruan Mei requires as much energy as she can, as her ultimate is extremely valuable for her team. As mentioned before, it is ideal to cast a 3T ultimate for as much uptime as possible. However, 3T ultimate is difficult to achieve, so a 4T ultimate is fine as well if you absolutely cannot achieve a 3T ultimate. Below are some energy and light cone combinations to determine if you can achieve a 3T ultimate with Ruan Mei.
 
 Note that to achieve 124.4% ER, you must use an ERR rope and Penacony/Vonwacq. To achieve 119.4% ER, you must use an ERR rope. To achieve 105% ER, you must use Penacony/Vonwacq.
@@ -359,7 +373,7 @@ Due to her universal buffs, such as SPD increase, DMG% increase, and All-Type RE
 
 | Character   | Notes                            |
 | ----------- | -------------------------------- |
-| ![asta](https://media.discordapp.net/attachments/887963616182145044/1184806490591211561/1009.png?ex=658d5007&is=657adb07&hm=5465b9c0ccc0d4fb39b3033f32bec00eec3e4f58a37c5a045ed2c593a84e4ac1&=&format=webp&quality=lossless&width=240&height=327) | **Asta** is a great budget option to use with Ruan Mei. She naturally has incredibly high weakness break efficiency, so she can break very often, which goes well with Ruan Mei's kit. Fire characters also have a high break multiplier, so a higher break effect allows for more break damage. Furthermore, both Asta and Ruan Mei buff speed, so you will be able to have several turns before the enemy does. Another great thing about Asta is that she buffs ATK% while Ruan Mei buffs DMG%, which allows for less diminishing returns.
+| ![asta](https://media.discordapp.net/attachments/887963616182145044/1184806490591211561/1009.png?ex=658d5007&is=657adb07&hm=5465b9c0ccc0d4fb39b3033f32bec00eec3e4f58a37c5a045ed2c593a84e4ac1&=&format=webp&quality=lossless&width=240&height=327) | **Asta** is a great budget option to use with Ruan Mei. She naturally has incredibly toughness damage, so she can break very often, which goes well with Ruan Mei's kit. Fire characters also have a high break multiplier, so a higher break effect allows for more break damage. Furthermore, both Asta and Ruan Mei buff speed, so you will be able to have several turns before the enemy does. Another great thing about Asta is that she buffs ATK% while Ruan Mei buffs DMG%, which allows for less diminishing returns.
 | ![sw](https://media.discordapp.net/attachments/887963616182145044/1184806670874980432/1006.png?ex=658d5032&is=657adb32&hm=5e32e7b719e5db5a01abb0b891ef35b41e2f93934a58ac792e9e7e7a3157cbad&=&format=webp&quality=lossless&width=240&height=327) | **Silver Wolf** is a teammate who will pair well with Ruan Mei. Her main gimmick revolves around weakness implant, and Ruan Mei is focused around teams who will break the enemy. Silver Wolf guarantees that your team will be able to break the enemy and use Ruan Mei to her full potential. Also, Silver Wolf's DEF shred is valuable, and she deals a decent amount of toughness break damage herself. She especially shines with Ruan Mei when using a break effect-focused build.
 | ![xueyi](https://media.discordapp.net/attachments/887963616182145044/1184806723035340871/1214.png?ex=658d503f&is=657adb3f&hm=71d383e06a9e760dac3b1f4bc059bf9d6bfbfd3309511f6102b713eb7ddb53ac&=&format=webp&quality=lossless&width=240&height=327) | **Xueyi** gains a DMG boost based on her Break Effect, a stat that Ruan Mei increases for her allies. Furthermore, Xueyi's ultimate deals Toughness DMG regardless of their weakness element, which allows for easier breaking of the enemy. Xueyi is also a 4-star character, making her more accessible for F2P players.
 | ![sushang](https://media.discordapp.net/attachments/1106792336668753971/1184882224340946944/1206.png?ex=658d9690&is=657b2190&hm=698c7bc178617dc3a4986ea805b6a4f81790ea403efecc89522a567cdd9724bb&=&format=webp&quality=lossless&width=240&height=327) | **Sushang** benefits from Break Effect, and she benefits greatly from enemies being weakness broken, making her a great option to go with Ruan Mei. Additionally, Sushang has high weakness break efficiency, which allows her to break often. Physical characters also have a high break multiplier, so a higher break effect allows for more break damage. Furthermore, Sushang is a 4-star character, which means she is more accessible for F2P players.
