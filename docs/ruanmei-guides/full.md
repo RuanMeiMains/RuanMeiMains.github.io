@@ -3,7 +3,7 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 ---
 
 # Ruan Mei Full Guide ❀
-##### _Updated for 1.6; Written by sealary and mr.swedishfish, Edited by xiaomein, m4raku, and euphriia_
+##### _Updated for 1.6; Written by sealary and mr.swedishfish, Edited by xiaomein, m4raku, and euphriia, Calculations provided by agentyoda, m4raku, drachk, and sealary_
 > _"Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — it is a gift."_
 
 ![ruanmei](https://media.discordapp.net/attachments/1106786214608109669/1169130890685857802/F9vQImPaUAANvhK.png?ex=65826d7d&is=656ff87d&hm=96e78f887f703428c141741e7a06de53a5ad57806c05517e315b8c81312c9370&=&format=webp&quality=lossless&width=1165&height=655)
@@ -63,7 +63,7 @@ Ideally, you want to cast Ruan Mei's ultimate every three turns (this will be re
   <figcaption>Example of a 3T ultimate with S4 MotP by sealary.</figcaption>
 </figure>
 
-Is 3T ult really necessary, though? Not really, but it is ideal. If you're comfortable with casting Ruan Mei's ultimate every four turns instead, then that's fine! While you may lose out on some buffs, Ruan Mei certainly isn't "unplayable" with a 4T ult. 
+Is 3T ult really necessary, though? Not really, but it is ideal. It is more important to reach the minimum recommended Break Effect (180%) before focusing on a 3T ult. If you're comfortable with casting Ruan Mei's ultimate every four turns instead, then that's fine! While you may lose out on some buffs, Ruan Mei certainly isn't "unplayable" with a 4T ult. Again, it is more important to focus on having at least 180% Break Effect. 
 
 Still, it is best to try to optimize your ultimate uptime as much as possible. Even if you can't achieve a 3T ult, you should still try to make the most of your energy and ult as much as you can with what you have. It is best to aim for 4T ult as a minimum goal and 3T as the ideal.
 
@@ -252,7 +252,7 @@ _Comparison graph will be added soon..._
 
 ## Light Cones
 
-Ruan Mei's light cone situation is quite interesting. Her signature light cone, while it is quite good due to the raw stats it offers, does not provide enough energy to achieve 3T ult. This makes other budget-friendly options a viable choice for Ruan Mei, and some can even compare to or outperform Ruan Mei's signature light cone. We won't deny that Ruan Mei's light cone is extremely beautiful, though.
+Ruan Mei's light cone situation is quite interesting. Her signature light cone, while it is quite good due to the raw stats it offers, does not provide enough energy to achieve 3T ult. This makes other budget-friendly options a viable choice for Ruan Mei, and some can even compare to or outperform Ruan Mei's signature light cone. We won't deny that Ruan Mei's light cone is extremely beautiful, though. If you are unsure of which light cone works best for your energy needs, check out our [Energy Needs](#energy-needs) section.
 
 | Light Cone  | Mathematical Comparisons | Notes                                |
 | ----------- | -------------------------------- | ------------------------------------ |
@@ -366,20 +366,27 @@ SPD should also be prioritized, as it allows Ruan Mei to have more turns per cyc
 Defensive stats such as Effect RES, HP, and DEF are also helpful for Ruan Mei. In combat, she wants to get hit a couple times in order to gain energy, meaning survivability is important to her. With some defensive stats, Ruan Mei's survivability will naturally increase. However, keep in mind that Break Effect and SPD should be prioritized over these stats.
 
 ### Energy Needs
-*NOTE: THIS SECTION IS UNFINISHED AND UNDER CONSTRUCTION.*
 
-Ruan Mei requires as much energy as she can, as her ultimate is extremely valuable for her team. As mentioned before, it is ideal to cast a 3T ultimate for as much uptime as possible. However, 3T ultimate is difficult to achieve, so a 4T ultimate is fine as well if you absolutely cannot achieve a 3T ultimate. Below are some energy and light cone combinations to determine if you can achieve a 3T ultimate with Ruan Mei.
+Ruan Mei requires as much energy as she can, as her ultimate is extremely valuable for her team. As mentioned before, it is ideal to cast a 3T ultimate for as much uptime as possible. However, 3T ultimate is difficult to achieve, so a 4T ultimate is fine as well if you are lacking in Break Effect. Below are some energy and light cone combinations to determine if you can achieve a 3T or 4T ultimate with Ruan Mei.
+
+A special case is if you have Huohuo on your team. Huohuo will lower your rotation by one turn.
 
 Note that to achieve 124.4% ER, you must use an ERR rope and Penacony/Vonwacq. To achieve 119.4% ER, you must use an ERR rope. To achieve 105% ER, you must use Penacony/Vonwacq.
 
-| Total Energy | Light Cone | Turns Needed to Cast Ultimate | Notes
+| Total Energy | Light Cone | Turns to Cast Ultimate | Notes
 |--------------|------------|-------------------------------|-------
-| 124.4% | S5 Meshing Cogs | **3** | Might be lacking in Break Effect with this build
-| 119.4% | S5 Meshing Cogs | **4** | someone tell me if you need to get hit once for 3t
-| 124.4% | No Cogs | **4** | someone tell me if you need to get hit once for 3t
-| 119.4% | No Cogs | **4** | pee pee poo poo
-| 100% | S5 Meshing Cogs | **4** | pee pee poo poo
-| 105% | No Cogs |**4-5** | Inconsistent rotation
+| 124.4% | S1 Signature | **4** | With this build, you may need to be hit once or twice to achieve 3T ult. This build is recommended because Ruan Mei's signature light cone already provides a lot of Break Effect, allowing you to focus on Energy Regeneration.
+| 119.4% | S1 Signature | **4** | With this build, you may need to be hit once or twice to achieve 3T ult. It is not recommended to use this build unless you cannot reach 180% Break Effect.
+| 124.4% | S5 MotP | **3** | This build is **highly recommended**, as you can comfortably 3T ult with this build without losing out on the necessary Break Effect.
+| 119.4% | S5 MotP | **4** | With this build, you may need to be hit once or twice to achieve 3T ult.
+| 124.4% | S3 MotP | **4** | With this build, **you will only need to be hit once to achieve 3T ult**.
+| 119.4% | S3 MotP | **4** | With this build, you may need to be hit once or twice to achieve 3T ult.
+| 124.4% | S5 Meshing Cogs | **3** | While this build achieves 3T ult, you may be lacking in Break Effect. If you have less than **170%** Break Effect with this build, use Talia/BE rope instead.
+| 119.4% | S5 Meshing Cogs | **4** | If you are lacking in Break Effect, it is recommended to use this build. You will be able to have more Break Effect, and **you will only need to be hit once to achieve 3T ult**.
+| 100% | S5 Meshing Cogs | **4** | You can use this build if you are severely lacking in Break Effect. However, if you are able to reach the minimum 180% Break Effect without Talia/BE rope, use Penacony/Vonwacq/ERR rope instead.
+| 124.4% | Other | **4** | This build will comfortably put you at 4T ult, but you may be lacking in Break Effect.
+| 119.4% | Other | **4** | This build will comfortably put you at 4T ult, and with 2PC Talia, it will help you reach the necessary Break Effect.
+| 105% | Other |**4-5** | This rotation is inconsistent and is generally not recommended.
 
 
 ## Teammates
@@ -445,13 +452,16 @@ Break Effect, on the other hand, can be obtained via relic substats, Thief of Sh
 Because Ruan Mei's ultimate is so powerful, it is highly recommended to have as much Energy Regeneration as possible. This is why ERR rope is recommended over BE rope.
 
 ### Is 3T Ult Really Necessary?
-While a 3T ult is optimal, it's not necessary. However, even if you cannot achieve a 3T ult, still aim for as high ultimate uptime as possible. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
+While a 3T ult is optimal, it's not necessary. It is better to focus on achieving the minimum amount of Break Effect (180%) before focusing on achieving a 3T ult. However, even if you cannot achieve a 3T ult, still aim for as high ultimate uptime as possible. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
+
+### How much Break Effect can I sacrifice for 3T Ult?
+It is recommended to first aim for 180% Break Effect, then to focus on 3T ult. If you have less than **170%** Break Effect, it is better to settle for a 4T ult instead, as losing out on the recommended Break Effect negatively affects Ruan Mei more than having less ultimate uptime. However, it is not recommended to settle for anything more than a 4T ult. A 5T ult is not recommended, and using an ERR rope is still recommended over a Break Effect rope. You can see what combination of light cones and ERR works best for you in our [Energy Needs](#energy-needs) section.
 
 ### How much Break Effect is too much?
 While the recommended minimum Break Effect is 180%, you can definitely have more Break Effect. There is no limit to how much Break Effect to have, but you should not be sacrificing other stats for Break Effect. Once you hit 180% Break Effect, focus on other stats; if you have extra Break Effect to spare even after hitting the recommended stats, that's perfectly fine.
 
 ### Can I run a Break Effect rope?
-In all situations, a BE rope should only be used if you do not have an ERR rope. Even with other energy sources, having an ERR rope is still recommended. It is generally more beneficial for your team to cast Ruan Mei's ultimate more often, even if she does not have the recommended 180% BE minimum.
+In all situations, a Break Effect rope should only be used if you do not have an ERR rope. This goes for when you cannot reach 180% Break Effect as well. Even with other energy sources, having an ERR rope is still recommended. It is generally more beneficial for your team to cast Ruan Mei's ultimate more often, and an ERR rope is the largest source of energy for any character. Sacrificing over 19% energy for more Break Effect, which is a stat that can be obtained via relic substats, is not worth it. The only exception for this is if you are willing to 4T ult with S5 Meshing Cogs.
 
 ## Closing & Final Thoughts
 In conclusion, Ruan Mei is a strong buffer who can fit in any team. She is likely future-proof and will remain a strong unit even in the future. She is slightly costly, and she isn't meant to replace other Harmony units, but she shines in her own way. Also, it gives players a chance to invest in a stat that wasn't commonly invested in before.
