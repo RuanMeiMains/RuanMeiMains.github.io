@@ -47,7 +47,7 @@ Why should you use and build Ruan Mei? Should you pull for Ruan Mei over other u
 === "CONS"
     ![sigh](https://media.discordapp.net/attachments/1166817978084503593/1173936435246678116/ruan_mei_sigh.png?ex=658aae80&is=65783980&hm=220897f295ffccb6bf894f6efec74ef18544e0beccf3322ddfc33018dda9b87a&=&format=webp&quality=lossless&width=250&height=250){ align=left }
 
-    - Ruan Mei a limited 5-star character, so she's not as easily accessible as other characters
+    - Ruan Mei is a limited 5-star character, so she's not as easily accessible as other characters
     - Ruan Mei doesn't replace existing Harmony characters who are already considered very good
     - Ruan Mei is not a "must pull" for your account
 
@@ -58,11 +58,21 @@ Because Ruan Mei is SP positive and her skill lasts for three turns, it is recom
 
 Ideally, you want to cast Ruan Mei's ultimate every three turns (this will be referred to as 3T ult). This is so you can have as much ultimate uptime as possible. Ruan Mei's value mostly comes from her ultimate, so higher uptime means more buffs. The problem is that this is pretty difficult to achieve. Her signature light cone does not provide enough energy to achieve a 3T ult, and Energy Recharge buffs and stats are extremely rare.
 
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/run3ah?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<figure markdown>
+  <figcaption>Example of a 3T ultimate with S4 MotP by sealary.</figcaption>
+</figure>
+
 Is 3T ult really necessary, though? Not really, but it is ideal. If you're comfortable with casting Ruan Mei's ultimate every four turns instead, then that's fine! While you may lose out on some buffs, Ruan Mei certainly isn't "unplayable" with a 4T ult. 
 
-Still, it is best to try to optimize your ultimate uptime as much as possible. Even if you can't achieve a 3T ult, you should still try to make the most of your energy and ult as much as you can with what you have.
+Still, it is best to try to optimize your ultimate uptime as much as possible. Even if you can't achieve a 3T ult, you should still try to make the most of your energy and ult as much as you can with what you have. It is best to aim for 4T ult as a minimum goal and 3T as the ideal.
 
-_(Gameplay video will be shown here soon... when Ruan Mei goes live and we can record gameplay footage.)_
+If you are unsure if you are able to achieve a 3T or 4T ultimate with what you have, you can check our [Energy Needs](#energy-needs) section in this guide!
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/fgk1sw?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<figure markdown>
+  <figcaption>Example of a 4T ultimate with S2 Dance! Dance! Dance! by sealary.</figcaption>
+</figure>
 
 ## Traces
 Ruan Mei's traces are mainly focused on buffing her allies, specifically around break mechanics. She relies on a high amount of break effect, and she buffs break effect and weakness break efficiency for her allies.
@@ -172,7 +182,7 @@ Most players won't be pulling for eidolons, but in case you are someone who want
 
 ### Eidolon Comparisons
 
-_Comparison graph will be added soon... when we are able to test Ruan Mei once 1.6 is live._
+_Comparison graph will be added soon..._
 
 ### Eidolon Overview
 
@@ -186,7 +196,7 @@ _Comparison graph will be added soon... when we are able to test Ruan Mei once 1
 
     * Ruan Mei's best eidolon
     * Between E1 and LC, prioritize E1
-    * Offers unconditional DEF shred (think 4pc Genius set)
+    * Offers unconditional DEF shred (think 4PC Genius set)
 
 === "E2: Reedside Promenade"
 
@@ -391,7 +401,7 @@ Due to her universal buffs, such as SPD increase, DMG% increase, and All-Type RE
 | Character   | Notes                            |
 | ----------- | -------------------------------- |
 | ![clara](https://media.discordapp.net/attachments/1106792336668753971/1184873420530385066/1107.png?ex=658d8e5d&is=657b195d&hm=3aaedb62ceeb2dd50856ec46c8cfc0cc636a80bade100f189c05320c008021bc&=&format=webp&quality=lossless&width=240&height=327) | **Clara** is one character who absolutely won't work with Ruan Mei. Clara relies on getting hit in order to counter enemies, but Ruan Mei helps keep enemies weakness broken. If enemies are broken, then Clara can't get hit.
-| ![himeko](https://media.discordapp.net/attachments/1106792336668753971/1184873252141670410/1003.png?ex=658d8e35&is=657b1935&hm=4c110916c2d71e11dc1e9bb6c96c403e8aceca1162a51d4d7727037640fde94d&=&format=webp&quality=lossless&width=240&height=327) | **Himeko** isn't the most anti-synergistic with Ruan Mei due to the fact that she wants to break as many enemies as possible. However, Ruan Mei also extends weakness break, which means that it will take longer for Himeko to gain stacks and trigger her follow-up attack. She can still be used with Ruan Mei, but she is not really a recommended option.
+| ![himeko](https://media.discordapp.net/attachments/1106792336668753971/1184873252141670410/1003.png?ex=658d8e35&is=657b1935&hm=4c110916c2d71e11dc1e9bb6c96c403e8aceca1162a51d4d7727037640fde94d&=&format=webp&quality=lossless&width=240&height=327) | **Himeko** isn't the most anti-synergistic with Ruan Mei due to the fact that she wants to break as many enemies as possible. However, Ruan Mei also extends weakness break, which means that it will take longer for Himeko to gain stacks and trigger her follow-up attack. She can still be used with Ruan Mei, but she is not really a recommended option over other characters.
 
 ### Team Composition Examples
 Below are some example team compositions for Ruan Mei. These are not the only team compositions that can be used with Ruan Mei; as mentioned before, she is an incredibly flexible unit. Rather, these teams are some notable examples to provide a general idea of how to use Ruan Mei.
@@ -435,7 +445,7 @@ Break Effect, on the other hand, can be obtained via relic substats, Thief of Sh
 Because Ruan Mei's ultimate is so powerful, it is highly recommended to have as much Energy Regeneration as possible. This is why ERR rope is recommended over BE rope.
 
 ### Is 3T Ult Really Necessary?
-While a 3T Ult is optimal, it's not necessary. However, even if you cannot achieve a 3T ult, still aim for as high ultimate uptime as possible. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
+While a 3T ult is optimal, it's not necessary. However, even if you cannot achieve a 3T ult, still aim for as high ultimate uptime as possible. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
 
 ### How much Break Effect is too much?
 While the recommended minimum Break Effect is 180%, you can definitely have more Break Effect. There is no limit to how much Break Effect to have, but you should not be sacrificing other stats for Break Effect. Once you hit 180% Break Effect, focus on other stats; if you have extra Break Effect to spare even after hitting the recommended stats, that's perfectly fine.
