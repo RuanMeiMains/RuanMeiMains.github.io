@@ -53,7 +53,7 @@ Ruan Mei lacks empathy and doesn't form closer relationships with anyone. She al
 >
 > — Ruan Mei Character Story: Part IV
 
-Despite this, Ruan Mei is able to put up a good facade in front of others. She clearly understands what society decides is right or wrong, even if she herself does not have any moral direction. She will never say anything rude, and she does not try to make people upset. Ruan Mei uses this understanding to her advantage by saying and doing things to please people when it benefits her.
+Despite this, Ruan Mei is able to put up a good facade in front of others. She clearly understands what society decides is right or wrong, even if she herself does not have any moral direction. She will never say anything rude, nor does she try to make people upset. Ruan Mei uses this understanding to her advantage by saying and doing things to please people when it benefits her.
 
 This behavior stems from her understanding of "love." As a child, Ruan Mei understood that love came in different forms. One type of love, the one she particularly liked the most, was love by rewarding. As a child, Ruan Mei preferred to do things when rewarded with her favorite snacks and desserts. She quickly realized that to get people to do what she wanted them to do, she needed to give them an incentive.
 
