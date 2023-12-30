@@ -172,7 +172,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
     ![a6](https://media.discordapp.net/attachments/887963616182145044/1185610250666115203/SkillIcon_1303_SkillTree1.png?ex=65903c97&is=657dc797&hm=c2fc1f0f571214973d43aa6399895d46303d6be1503cbdf326975aa912bc7f1c&=&format=webp&quality=lossless&width=192&height=192){ align=left } Increases Break Effect by 20% for all allies.
 
-    This trace is decent, but it's not as valuable as the other ascension stats. Still, it is recommended to prioritize this trace. It helps make reaching the recommended 180% Break Effect threshold easier, allowing you to invest in other stats, and it benefits any allies who need Break Effect.
+    This trace is decent, but it's not as valuable as the other ascension stats. Still, it is recommended to prioritize this trace. It helps make reaching the recommended 180% Break Effect threshold easier, allowing you to invest in other stats, and it benefits any allies who need Break Effect. **NOTE: THIS TRACE DOES NOT TAKE EFFECT UNTIL YOU ARE IN BATTLE.**
 
 </div>
 
@@ -359,7 +359,7 @@ For Ruan Mei's chest piece and planar sphere, choose whichever relic has better 
 ### Stat Priority
 ![statpriority](https://media.discordapp.net/attachments/1106792336668753971/1184955832849399828/ruan_mei_trace_priority_10.png?ex=658ddb1d&is=657b661d&hm=61ce9fb1d742feb080ee2cead797a5d171758a5fda4c77eaaac2cdec0777702e&=&format=webp&quality=lossless&width=1438&height=375)
 
-Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit revolves around Break Effect. Ruan Mei needs at least **180%** Break Effect in order to maximize her passive. More Break Effect is generally always better as long as you're not sacrificing other stats.
+Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit revolves around Break Effect. Ruan Mei needs at least **180%** Break Effect in total in order to maximize her passive. **Ruan Mei's Inert Respiration trace does not take effect until you are in battle**, so technically, you only need **160%** Break Effect. However, for the sake of consistency, the minimum will be referred as 180%. More Break Effect is generally always better as long as you're not sacrificing other stats.
 
 SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, keeping her buffs and ultimate uptime higher. At least **143** SPD is recommended. Ruan Mei has a total of 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC Messenger Traversing Hackerspace. Like Break Effect, more SPD is better as long as you are not sacrificing other stats.
 
