@@ -267,11 +267,14 @@ Because Ruan Mei's ultimate is so powerful, it is highly recommended to have as 
 ### Is 3T Ult Really Necessary?
 It is not necessary to be able to perform a 3T ult. However, a 3T ult is optimal. It is still recommended to try to aim for as high ultimate uptime as possible, even if you cannot achieve a 3T ult. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
 
-### How much Break Effect is too much?
-While the recommended minimum Break Effect is 180%, you can definitely have more Break Effect. There is no limit to how much Break Effect to have, but you should not be sacrificing other stats for Break Effect. Once you hit 180% Break Effect, it is better to focus on other stats. If you have extra Break Effect to spare even after hitting the recommended stats, that's perfectly fine.
+### How much Break Effect can I sacrifice for 3T Ult?
+It is recommended to first aim for 180% Break Effect, then to focus on 3T ult. If you have less than **170%** Break Effect, it is better to settle for a 4T ult instead, as losing out on the recommended Break Effect negatively affects Ruan Mei more than having less ultimate uptime. However, it is not recommended to settle for anything more than a 4T ult. A 5T ult is not recommended, and using an ERR rope is still recommended over a Break Effect rope. For more information on Ruan Mei's energy needs, you can check out our [Full Guide](full.md).
 
-### Can I run a BE rope?
-In all situations, a BE rope should only be used if you do not have an ERR rope. Even with other energy sources, having an ERR rope is still recommended. Furthermore, it is more beneficial for your team to cast Ruan Mei's ultimate more often, even if she does not have the recommended 180% BE minimum.
+### How much Break Effect is too much?
+While the recommended minimum Break Effect is 180%, you can definitely have more Break Effect. There is no limit to how much Break Effect to have, but you should not be sacrificing other stats for Break Effect. Once you hit 180% Break Effect, focus on other stats; if you have extra Break Effect to spare even after hitting the recommended stats, that's perfectly fine.
+
+### Can I run a Break Effect rope?
+In all situations, a Break Effect rope should only be used if you do not have an ERR rope. This goes for when you cannot reach 180% Break Effect as well. Even with other energy sources, having an ERR rope is still recommended. It is generally more beneficial for your team to cast Ruan Mei's ultimate more often, and an ERR rope is the largest source of energy for any character. Sacrificing over 19% energy for more Break Effect, which is a stat that can be obtained via relic substats, is not worth it.
 
 ## Closing & Final Thoughts
 In conclusion, Ruan Mei is a strong buffer who can fit in any team. She is future-proof and will remain a strong unit even in the future. Ruan Mei might be a luxury option, and she isn't meant to replace other Harmony units, but she shines in her own way. Also, it gives players a chance to invest in a stat that wasn't commonly invested in before.
