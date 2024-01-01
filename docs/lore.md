@@ -110,7 +110,7 @@ She is known to have contributed to the Simulated Universe DevLog for Lan since 
 >
 > — Ruan Mei Character Story: Part I
 
-Not much is known about Ruan Mei's home planet. The icy planet depicted in her Myriad Celestia Trailer, "No Man's Land," may be her home. However, it is most likely not, as in the Trailblaze Mission featuring her, the Trailblazer is given the option to ask whether she has researched there before. She responds that she and her mother spent 11 polar nights there. The possibility of this being her home cannot be completely eradicated, still, as she doesn't seem to have any recollection of her home. According to her character story II, "Since then, whenever someone asked her about her 'home,' there would be a flash of confusion in her eyes. She seems to have forgotten everything."
+Not much is known about Ruan Mei's home planet. The icy planet depicted in her Myriad Celestia Trailer, "No Man's Land," may be her home. However, it is most likely not, as in the Trailblaze Mission featuring her, the Trailblazer is given the option to ask whether she has researched there before. She responds that she and her mother spent 11 polar nights there. The possibility of this being her home cannot be completely eradicated, still, as she doesn't seem to have any recollection of her home. According to Ruan Mei's Character Story II, "Since then, whenever someone asked her about her 'home,' there would be a flash of confusion in her eyes. She seems to have forgotten everything."
 
 Ruan Mei also may be from the Xianzhou Alliance, due to her home world being blessed by the Abundance and her Chinese roots. 
 
