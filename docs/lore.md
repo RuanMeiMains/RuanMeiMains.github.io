@@ -173,7 +173,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 
     <figure markdown>
       ![hertamei](https://media.discordapp.net/attachments/887963616182145044/1190623163818705036/image.png?ex=65a2793a&is=6590043a&hm=dfbf61ad5de1f6c926d01e2a4d2388cd2d4dad05807c2d3c6c1952e4dd9c93e4&=&format=webp&quality=lossless&width=1116&height=655)
-      <figcaption>Ruan Mei and Herta work together often for the Simulated Universe.</figcaption>
+      <figcaption>Ruan Mei and Herta often work together for the Simulated Universe.</figcaption>
     </figure>
 
     Herta and Ruan Mei regard each other as equals. When asked by the Trailblazer if Ruan Mei is a great person, Herta responds, "That's like asking 'Is Herta a great person?' The answer is obvious!" She even regards Ruan Mei as a "master of creation" and someone who is very capable, ambitious, and intelligent. While Herta may be competitive and often thinks she is the best, she does not deny that Ruan Mei's achievements are incredible. Still, she may be blunt about Ruan Mei, such as when she finds it hilarious that the IPC described Ruan Mei as "lowkey" or when she points out that Ruan Mei only accidentally saved an ecosystem because it was an unintentional byproduct of her research.
