@@ -33,7 +33,9 @@ Ruan Mei is Member #81 of the Genius Society, specializing in biology and life s
   <figcaption>Even Ruan Mei's window is DNA-themed!</figcaption>
 </figure>
 
-Ruan Mei is described as an elegant and ambitious genius. She will do anything to study her research topic, even sacrificing basic needs for the sake of science — her character story II states that "She was so engrossed in her research that she never ate regularly." Ruan Mei is also very meticulous and thoughtful, which is reflected in her skills in embroidery, music, and even laboratory work. This is further illustrated by how Ruan Mei gifted Asta a hand-embroidered charm after Asta complimented it. In When the Stars of Ingenuity Shine, she also states "A single error in detailed research can generate issues, and I despise matters that escape my control."
+Ruan Mei is described as an elegant and ambitious genius. She will do anything to study her research topic, even sacrificing basic needs for the sake of science — her Character Story II states that "She was so engrossed in her research that she never ate regularly." 
+
+Ruan Mei is also very meticulous and thoughtful, which is reflected in her skills in embroidery, music, and even laboratory work. This is further illustrated by how Ruan Mei gifted Asta a hand-embroidered charm after Asta complimented it. In When the Stars of Ingenuity Shine, she also states "A single error in detailed research can generate issues, and I despise matters that escape my control."
 
 While Ruan Mei is a scientist, she enjoys the arts and desserts as well. Ruan Mei loves traditional theater and opera, and she plays a ruan, a Chinese stringed instrument. She is also known to love desserts, and she can almost always be seen eating a pastry. According to one of her lines in "When the Stars of Ingenuity Shine," she enjoys the drinks of fellow Genius Society member, #55 Yu Qingtu. 
 
@@ -68,16 +70,28 @@ This is the incentive Ruan Mei gives to the playerbase, the Trailblazer. Her Occ
 
 Is this manipulation? Yes, it is. However, Ruan Mei does not find anything wrong about this. As long as both sides gain benefits and are satisfied, there is no problem for her. Ruan Mei rewards the Trailblazer for helping her, and if the Trailblazer isn't satisfied, she will simply offer more rewards. To Ruan Mei, that is what "love" is. She does not understand such emotions on a deeper level and herself admits that she doesn't understand "love." All she has learned is that living beings will do anything when given the proper incentives. She uses this to her advantage, noting that "Children will become more well-behaved when they see random rewards."[^1]
 
-Ruan Mei also generally finds emotions and human sentiments, such as attachment, love, and relationships with others, an inconvenience. In her Myriad Celestia Trailer, she states that "'Attachment' involves the insular cortex, which controls anxiety and pain...The laws of "emotion" can be easily broken down." Due to her nature as a scientist who trusts only her research, Ruan Mei expresses visible dissatisfaction with the capriciousness of emotions and views attachment similarly. When her parents died, a major takeaway of hers was that "Only science... never lets anyone down"[^4]. When explaining to the Trailblazer why she elects to remove their memory, she states that the connection between her and the Trailblazer, an inherently complex one, will be destroyed. She also states that she thinks this will be more relaxing for both parties.
+Ruan Mei also generally finds emotions and human sentiments, such as attachment, love, and relationships with others, an inconvenience. In her Myriad Celestia Trailer, she states that "'Attachment' involves the insular cortex, which controls anxiety and pain...The laws of "emotion" can be easily broken down." To Ruan Mei, emotions are simply unnecessary and something that hinders living beings.
 
-Her character story II also indicates that although she does not understand it, she does feel deeper emotion, as she expresses visible grief in the face of her parents' death. However, her form of grief is different than the typical idea one conjures when thinking of "grief." She does not cry; instead, she views the situation as a "let-down" and a chain of failed promises. Nevertheless, their deaths catapulted her into a period of obsessive research, and she took their names (Ruan and Mei) as her own in tribute. 
+<figure markdown>
+  ![emotions](https://media.discordapp.net/attachments/887963616182145044/1191361453807112333/ruan_mei_trailer_2.gif?ex=65a528d1&is=6592b3d1&hm=6713bf7dbe0ba4132e598b411a8ea9b128b23f40686c830e2ac87a01c3f7077d&=&width=1165&height=655)
+  <figcaption>Ruan Mei believes that emotions and attachment are unnecessary.</figcaption>
+</figure>
+
+Due to her nature as a scientist who trusts only her research, Ruan Mei expresses visible dissatisfaction with the capriciousness of emotions and views attachment similarly. When her parents died, a major takeaway of hers was that "Only science... never lets anyone down"[^4]. Furthermore, when explaining to the Trailblazer why she elects to remove their memory, she states that the connection between her and the Trailblazer, an inherently complex one, will be destroyed. Ruan Mei also states that she thinks this will be more relaxing for both parties, as to her, having an emotional connection with someone is bothersome.
+
+Ruan Mei's Character Story II also indicates that although she does not understand it, Ruan Mei does feel deeper emotion, as she expresses visible grief in the face of her parents' death. However, her form of grief is different than the typical idea one conjures when thinking of "grief." She does not cry; instead, she views the situation as a "let-down" and a chain of failed promises. She understands how she is "supposed" to feel according to society's expectations, but she does not feel that way herself. Nevertheless, their deaths catapulted Ruan Mei into a period of obsessive research, and she took their names (Ruan and Mei) as her own in tribute. 
 
 ### Research
-> *"I increasingly understand that I long for more fundamental research."*
+> *"When I discovered how easy it was to cultivate a 'planet,' I began to feel... empty. I increasingly understand that I long for more fundamental research."*
 
 Ruan Mei's research is centered on the topic of life and its "essence." She also seems to have an interest in immortality, stating that "Life is countless and varied in form...Its beauty is like a myriad of flowers, and I want to pluck the one that never wilts."[^7] She firmly believes that life, while taking on a variety of forms, is always the same at its very core. According to her, all life is simple underneath its exterior. She endeavors to find and understand this kindling of life and believes that when she does, many of the questions she has posed will be solved. If one were to trace life back to its very roots, she believes that only one equation is necessary to solve the mysteries that life has to offer. 
 
 She is shown to neither care nor know what to do with the results of all of her experiments. This can be seen with the life forms she creates that the Trailblazer encountered, as well as her research with biology on other planets. She frequently breaks the known laws of life and leaves experimental sites with an explosion of seemingly impossible results. Despite this, she doesn't seem to care and views her growing reputation for her groundbreaking studies as a nuisance. She also views much of research as too insignificant for her: she was disappointed by how easy cultivating a planet was and longed for something more "fundamental."
+
+<figure markdown>
+  ![planet](https://media.discordapp.net/attachments/887963616182145044/1191355697611411577/image.png?ex=65a52374&is=6592ae74&hm=11ca156ce96ecf06abd8ca65780a1466997f374c69cf124d2be0aa830ac6d226&=&format=webp&quality=lossless&width=1165&height=655)
+  <figcaption>Ruan Mei only cares about her research: finding the origin of life.</figcaption>
+</figure>
 
 After her encounter with Nous, Ruan Mei became increasingly interested in the Aeons and became even more obsessive with her research. At this point, part of her intense perseverance is to draw the eye of Nous again, as it seems to have been an incredible experience for her. Aeons (and their Emanators) fascinate Ruan Mei, and the only reason she accepted her invitation to the Genius Society was so she could research more about the Aeons in the Simulated Universe. This constant drive can also cause her to feel lost and confused at times since her experiments are coming to a standstill, as can be seen in the Trailblaze Mission before she decides to emulate an Emanator.
 
@@ -101,11 +115,16 @@ In Chinese culture, plum blossoms symbolize perseverance, as they are one of the
 >
 > — Ruan Mei, about the Genius Society
 
-Initially, Ruan Mei did not want to join the Genius Society, viewing it as an interruption to her life as a recluse. She even threw away the invitation that she received from them. It was only after Herta invited her to work on the Simulated Universe, and by extension the study of Aeons, that she accepted the invitation. 
+Initially, Ruan Mei did not want to join the Genius Society, viewing it as an interruption to her life as a recluse. She even threw away the invitation that she received from them. It was only after Herta invited her to work on the Simulated Universe, and by extension the study of Aeons, that she accepted the invitation.
+
+<figure markdown>
+  ![genius](https://media.discordapp.net/attachments/887963616182145044/1191356877364269056/image.png?ex=65a5248d&is=6592af8d&hm=fcf6bd813335be488859be277320dff7607188fa7145fe77abd10d4ce6b227ac&=&format=webp&quality=lossless&width=1165&height=655)
+  <figcaption>Ruan Mei, like the other Genius Society members, is quite aloof.</figcaption>
+</figure>
 
 After her encounter with Nous, Ruan Mei seems to have experienced a burning fascination with Aeons and an even deeper interest in "life." According to her character story IV, "Only the word 'Aeon' can stir her heart. Everything else in the universe is a mere distraction." As such, she viewed everything else about the Simulated Universe as not worth her time. She did, however, enjoy the meetings between her, Herta, Screwllum, and Stephen Lloyd. 
 
-She is known to have contributed to the Simulated Universe DevLog for Lan since Herta couldn't find any records on Lan in the IPC.
+Ruan Mei is known to have contributed to the Simulated Universe DevLog for Lan since Herta couldn't find any records on Lan in the IPC.
 
 ### Hometown
 > *"Starting from their home, a planet blessed by Abundance, they boarded research aircraft and set off to more worlds."*
