@@ -101,7 +101,9 @@ In Chinese culture, plum blossoms symbolize perseverance, as they are one of the
 >
 > — Ruan Mei, about the Genius Society
 
-Initially, Ruan Mei did not want to join the Genius Society, viewing it as an interruption to her life as a recluse. It was only after Herta invited her to work on the Simulated Universe, and by extension the study of Aeons, that she accepted the invitation. After her encounter with Nous, Ruan Mei seems to have experienced a burning fascination with Aeons and an even deeper interest in "life." According to her character story IV, "Only the word 'Aeon' can stir her heart. Everything else in the universe is a mere distraction." As such, she viewed everything else about the Simulated Universe as not worth her time. She did, however, enjoy the meetings between her, Herta, Screwllum, and Stephen Lloyd. 
+Initially, Ruan Mei did not want to join the Genius Society, viewing it as an interruption to her life as a recluse. She even threw away the invitation that she received from them. It was only after Herta invited her to work on the Simulated Universe, and by extension the study of Aeons, that she accepted the invitation. 
+
+After her encounter with Nous, Ruan Mei seems to have experienced a burning fascination with Aeons and an even deeper interest in "life." According to her character story IV, "Only the word 'Aeon' can stir her heart. Everything else in the universe is a mere distraction." As such, she viewed everything else about the Simulated Universe as not worth her time. She did, however, enjoy the meetings between her, Herta, Screwllum, and Stephen Lloyd. 
 
 She is known to have contributed to the Simulated Universe DevLog for Lan since Herta couldn't find any records on Lan in the IPC.
 
@@ -110,14 +112,18 @@ She is known to have contributed to the Simulated Universe DevLog for Lan since 
 >
 > — Ruan Mei Character Story: Part I
 
-Not much is known about Ruan Mei's home planet. The icy planet depicted in her Myriad Celestia Trailer, "No Man's Land," may be her home. However, it is most likely not, as in the Trailblaze Mission featuring her, the Trailblazer is given the option to ask whether she has researched there before. She responds that she and her mother spent 11 polar nights there. The possibility of this being her home cannot be completely eradicated, still, as she doesn't seem to have any recollection of her home. According to Ruan Mei's Character Story II, "Since then, whenever someone asked her about her 'home,' there would be a flash of confusion in her eyes. She seems to have forgotten everything."
+Not much is known about Ruan Mei's home planet. Even Ruan Mei herself has forgotten her home after spending so much time researching. According to Ruan Mei's Character Story II, "...whenever someone asked her about her 'home,' there would be a flash of confusion in her eyes. She seems to have forgotten everything." She does not feel any connection to her roots, and she left her home behind when she was accepted into the Genius Society.
 
-Ruan Mei also may be from the Xianzhou Alliance, due to her home world being blessed by the Abundance and her Chinese roots. 
+The icy planet depicted in her Myriad Celestia Trailer, "No Man's Land," may be her home. However, it is most likely not, as in the Trailblaze Mission featuring her, the Trailblazer is given the option to ask whether she has researched there before. She responds that she and her mother spent 11 polar nights there. The possibility of this being her home cannot be completely eradicated, still, as she doesn't seem to have any recollection of her home.
+
+Ruan Mei also may be from the Xianzhou Alliance, due to her home world being blessed by the Abundance and her Chinese roots. However, this is not confirmed, either.
 
 <figure markdown>
   ![nomansland](https://media.discordapp.net/attachments/887963616182145044/1189904718814781450/image.png?ex=659fdc20&is=658d6720&hm=4e094c9fba164bae2b64536204a03003ff14d6039fcf3853baeaa81f27bb73df&=&format=webp&quality=lossless&width=1165&height=655)
   <figcaption>Ruan Mei's home planet was one blessed by the Abundance.</figcaption>
 </figure>
+
+As a child, Ruan Mei explored other worlds with her mother to go on scientific expeditions. She would research other forms of life in those planets she visted, and she would try to find evidence of life in barren places such as No Man's Land. However, due to Ruan Mei leaving her home and visiting other places at such a young age, she did not feel attached to her own home world.
 
 >*"The soft wind beckons the early spring, a joyous mood does it bring. A chill wake from rest, the plum blossom in a mess. Where is the home I miss, only remembered in drunken bliss."*
 
