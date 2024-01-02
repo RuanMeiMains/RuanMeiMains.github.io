@@ -18,7 +18,7 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
     ---
 
-    Our website is in its early stages with some unfinished parts, but you can check out our various resources, guides, and social platforms here!
+    Our website is in its early stages with some unfinished parts, but you can check out our various resources, guides, and social platforms here! We will be regularly updating our website, so feedback is welcome!
 
 
 -   **Check out our Ruan Mei Guide!**
@@ -30,13 +30,13 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
     [:material-arrow-right: Check it out!](ruanmei-guides/full.md)
 
 
--   **AMA with Emi Lo, Ruan Mei's EN VA!**
+-   **New vanity roles in our Discord server!**
 
     ---
 
-    Come meet Ruan Mei's English voice actor, Emi Lo! We will be interviewing them with your questions that you may submit <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbcCyiTBBrq9_LUytq5puhRHo8DFMO5t2JVVIaZ9mevEymaA/viewform?usp=sf_link" target="_blank">here</a>, or you can sign up during the event to ask them a question onstage!
+    Our server now has roles for those who have Max Traced Ruan Mei, cleared MOC with 36 stars, received Ruan Mei during her first banner, and more! Check how to qualify and apply for these roles by sending /info and /submit with our new Role Submission bot!
 
-    <a href="https://discord.com/events/1106785082028597258/1189048041240539176" target="_blank">:material-arrow-right: RSVP here!</a>
+    <a href="https://discord.gg/ruanmei" target="_blank">:material-arrow-right: Head to our Discord server!</a>
 
 -   **Our server shop is open!**
 
