@@ -178,13 +178,13 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
       <figcaption>Ruan Mei and Herta often work together for the Simulated Universe.</figcaption>
     </figure>
 
-    Herta and Ruan Mei regard each other as equals. When asked by the Trailblazer if Ruan Mei is a great person, Herta responds, "That's like asking 'Is Herta a great person?' The answer is obvious!" She even regards Ruan Mei as a "master of creation" and someone who is very capable, ambitious, and intelligent. While Herta may be competitive and often thinks she is the best, she does not deny that Ruan Mei's achievements are incredible. Still, she may be blunt about Ruan Mei, such as when she finds it hilarious that the IPC described Ruan Mei as "lowkey" or when she points out that Ruan Mei only accidentally saved an ecosystem because it was an unintentional byproduct of her research.
-  
     >*"This is a strange, instinctive feeling. That one named 'Herta' is rather similar to me. I mean... similar on a deeper level."*
     >
     > — Ruan Mei Character Story: Part IV
 
-    When Ruan Mei first met Herta, she felt indifferent and even annoyed by her. She only joined Herta's Simulated Universe because it would help Ruan Mei research more about Aeons. However, over time, she learned to interact more with her colleagues. Ruan Mei realized that she and Herta were both people who would ignore anything for their research, and she felt closer to Herta because of this similarity. While studying Aeons is still her top priority and her motivation to continue the Simulated Universe project, she also is willing to work with Herta.
+    Herta and Ruan Mei regard each other as equals. When asked by the Trailblazer if Ruan Mei is a great person, Herta responds, "That's like asking 'Is Herta a great person?' The answer is obvious!" She even regards Ruan Mei as a "master of creation" and someone who is very capable, ambitious, and intelligent. While Herta may be competitive and often thinks she is the best, she does not deny that Ruan Mei's achievements are incredible. Still, she may be blunt about Ruan Mei, such as when she finds it hilarious that the IPC described Ruan Mei as "lowkey" or when she points out that Ruan Mei only accidentally saved an ecosystem because it was an unintentional byproduct of her research.
+
+    When Ruan Mei first met Herta, she felt indifferent and even annoyed by her. She only joined Herta's Simulated Universe project because it would help Ruan Mei research more about Aeons. However, over time, she learned to interact more with her colleagues. Ruan Mei realized that she and Herta were both people who would ignore anything for their research, and she felt closer to Herta because of this similarity. While studying Aeons is still her top priority and her motivation to continue the Simulated Universe project, she also is willing to work with Herta. The success of Herta's project shows that they work well together, even if they may not interact often outside of work matters.
 
 === "Screwllum, #76"
     > *"Screwllum and I have very different understandings of life, but I don't think he realizes it. Fortunately, our communication is limited to matters related to the Simulated Universe."*
