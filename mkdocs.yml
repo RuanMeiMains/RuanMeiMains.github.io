@@ -73,7 +73,6 @@ theme:
     admonition:
       tip: octicons/question-16
     annotation: material/help-circle
-  custom_dir: overrides/.icons
 
 extra:
   social:
