@@ -17,9 +17,15 @@ Ruan Mei is a 5-star Ice Harmony character and Member #81 of the Genius Society.
 Ruan Mei is a support character capable of increasing allies' Weakness Break Efficiency, SPD, and All-Type RES PEN(1). At the same time, Ruan Mei can also deal additional Break DMG whenever allies Weakness Break an enemy, causing the Weakness Broken enemies' actions to be further delayed.
 { .annotate }
 
-1.  RES PEN is short for **resistance penetration**. What is RES PEN and how does it work? Check out the [Trace Overview](#trace-overview) section and read more about it in her Ultimate description!
+1.  RES PEN is short for **resistance penetration**. What is RES PEN and how does it work? Check out the [Trace Overview](#trace-overview "Ruan Mei Trace Overview") section and read more about it in her Ultimate description!
 
-If you need a quick overview on Ruan Mei and how to build her, you can check the infographic below or check our [Quick Guide](quick.md).
+*[RES PEN]: Resistance Penetration
+*[SP]: Skill Point
+*[3T ult]: 3-Turn Ultimate
+*[4T ult]: 4-Turn Ultimate
+*[MotP]: Memories of the Past
+
+If you need a quick overview on Ruan Mei and how to build her, you can check the infographic below or check our [Quick Guide](quick.md "Ruan Mei Quick Guide").
 
 <figure markdown>
   ![infographic](https://media.discordapp.net/attachments/1179541323490013346/1187379294838718596/Ruan_Mei_FAQ_04.jpg?ex=6596ac24&is=65843724&hm=b2bd86b83aea7d8d667165f3befc7a24401b1e7ee9d5bacb45de37aef80cf4e7&=&format=webp&width=1048&height=655)
@@ -67,7 +73,7 @@ Is 3T ult really necessary, though? Not really, but it is ideal. It is more impo
 
 Still, it is best to try to optimize your ultimate uptime as much as possible. Even if you can't achieve a 3T ult, you should still try to make the most of your energy and ult as much as you can with what you have. It is best to aim for 4T ult as a minimum goal and 3T as the ideal.
 
-If you are unsure if you are able to achieve a 3T or 4T ultimate with what you have, you can check our [Energy Needs](#energy-needs) section in this guide!
+If you are unsure if you are able to achieve a 3T or 4T ultimate with what you have, you can check our [Energy Needs](#energy-needs "Ruan Mei Energy Needs") section in this guide!
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/fgk1sw?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 <figure markdown>
@@ -190,7 +196,7 @@ _Comparison graph will be added soon..._
 
 === "E1: Neuronic Embroidery"
     
-    ![e1](https://media.discordapp.net/attachments/1106786214608109669/1184896364325388369/image-removebg-preview_9.png?ex=658da3bb&is=657b2ebb&hm=0133a09bd67d6ca60dcb6831558a3ee006d64de5cc8c36eaae84f71199039e12&=&format=webp&quality=lossless&width=200&height=200){ align=left }
+    ![e1](https://media.discordapp.net/attachments/887963616182145044/1197527563950624828/1303_Rank_1.png?ex=65bb9774&is=65a92274&hm=b08fd41fae45716097e9e44f8936129f4631664da239f5d2a6f6001417a777d7&=&format=webp&quality=lossless&width=200&height=200){ align=left }
 
     While the Ultimate's field is deployed, the DMG dealt by all allies ignores 20% of the target's DEF.
 
@@ -200,7 +206,7 @@ _Comparison graph will be added soon..._
 
 === "E2: Reedside Promenade"
 
-    ![e2](https://media.discordapp.net/attachments/1106786214608109669/1184896363960475668/image-removebg-preview_10.png?ex=658da3bb&is=657b2ebb&hm=d7fc698f1ddf28306f4f7eb6a24c73fb59fce8ef8e695efb0837142dee8bed70&=&format=webp&quality=lossless&width=200&height=200){ align=left }
+    ![e2](https://media.discordapp.net/attachments/887963616182145044/1197527567134117948/1303_Rank_2.png?ex=65bb9774&is=65a92274&hm=699bed520ad9d74c4bacd671e05aaa1a98c05aafded0f91144d871b6edcf9148&=&format=webp&quality=lossless&width=200&height=200){ align=left }
 
     With Ruan Mei on the field, all allies increase their ATK by 40% when dealing damage to enemies with Weakness Break.
 
@@ -220,7 +226,7 @@ _Comparison graph will be added soon..._
 
 === "E4: Chatoyant Éclat"
 
-    ![e4](https://media.discordapp.net/attachments/1106786214608109669/1184896362987397120/image-removebg-preview_13.png?ex=658da3bb&is=657b2ebb&hm=64e1ae5e5f01cc09cec64cfff66ed10f324faa04f55fd0323d9f5e26f37cbf02&=&format=webp&quality=lossless&width=200&height=200){ align=left }
+    ![e4](https://media.discordapp.net/attachments/887963616182145044/1197527565406048316/1303_Rank_4.png?ex=65bb9774&is=65a92274&hm=f7b4f2b3aaaa4adb770b890a6d7411a56ef8dd0c7d4a0a22099a6697f2708d1b&=&format=webp&quality=lossless&width=200&height=200){ align=left }
 
     When an enemy target's Weakness is Broken, Ruan Mei's Break Effect increases by 100% for 3 turn(s).
 
@@ -230,7 +236,7 @@ _Comparison graph will be added soon..._
 
 === "E5: Languid Barrette"
 
-    ![e5](https://media.discordapp.net/attachments/1106786214608109669/1184896363260035093/image-removebg-preview_12.png?ex=658da3bb&is=657b2ebb&hm=b2dd6ed847cbbc671abdc2346eacc32b27221cd53ab85d48f6c77c4da354c565&=&format=webp&quality=lossless&width=200&height=200){ align=left }
+    ![e5](https://media.discordapp.net/attachments/887963616182145044/1197527564722384976/1303_Rank_5.png?ex=65bb9774&is=65a92274&hm=2f7c29ec85d33cb08bd1accb1fdb9971ff10539461a601067489136ad3d3a7b8&=&format=webp&quality=lossless&width=200&height=200){ align=left }
 
     Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10.
 
@@ -240,7 +246,7 @@ _Comparison graph will be added soon..._
 
 === "E6: Sash Cascade"
 
-    ![e6](https://media.discordapp.net/attachments/1106786214608109669/1184896362697998367/image-removebg-preview_15.png?ex=658da3bb&is=657b2ebb&hm=0d9973b10d781a44209b73315250aa1cd39cec3641a0e7e8cdf60772eb1546ff&=&format=webp&quality=lossless&width=200&height=200){ align=left }
+    ![e6](https://media.discordapp.net/attachments/887963616182145044/1197527566291054622/1303_Rank_6.png?ex=65bb9774&is=65a92274&hm=3c991b836693309faadc3a72fa10896bfd82d1ce5733488f8982477121d3a1cb&=&format=webp&quality=lossless&width=200&height=200){ align=left }
 
     Extends the duration of the Ultimate's field by 1 turn(s). The Talent's Break DMG multiplier additionally increases by 200%.
 
@@ -252,11 +258,11 @@ _Comparison graph will be added soon..._
 
 ## Light Cones
 
-Ruan Mei's light cone situation is quite interesting. Her signature light cone, while it is quite good due to the raw stats it offers, does not provide enough energy to achieve 3T ult. This makes other budget-friendly options a viable choice for Ruan Mei, and some can even compare to or outperform Ruan Mei's signature light cone. We won't deny that Ruan Mei's light cone is extremely beautiful, though. If you are unsure of which light cone works best for your energy needs, check out our [Energy Needs](#energy-needs) section.
+Ruan Mei's light cone situation is quite interesting. Her signature light cone, while it is quite good due to the raw stats it offers, does not provide enough energy to achieve 3T ult. This makes other budget-friendly options a viable choice for Ruan Mei, and some can even compare to or outperform Ruan Mei's signature light cone. We won't deny that Ruan Mei's light cone is extremely beautiful, though. If you are unsure of which light cone works best for your energy needs, check out our [Energy Needs](#energy-needs "Ruan Mei Energy Needs") section.
 
 | Light Cone  | Mathematical Comparisons | Notes                                |
 | ----------- | -------------------------------- | ------------------------------------ |
-| ![sig](https://media.discordapp.net/attachments/1106794389759598662/1184427674735743057/past-self-in-mirror-item_icon.png?ex=658bef3b&is=65797a3b&hm=c0900e5f5d10f9bdce4fbcf3a092b02e72d80741794b97952ae8d61b739d73cd&=&format=webp&quality=lossless&width=100&height=100)|               TBD%                 |  **Past Self in Mirror** is Ruan Mei's signature light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, the other benefits it provides are quite powerful. It greatly reduces the need for Break Effect, allowing you to invest in other stats. |
+| ![sig](https://media.discordapp.net/attachments/1106794389759598662/1184427674735743057/past-self-in-mirror-item_icon.png?ex=658bef3b&is=65797a3b&hm=c0900e5f5d10f9bdce4fbcf3a092b02e72d80741794b97952ae8d61b739d73cd&=&format=webp&quality=lossless&width=100&height=100)|               TBD%                 |  **Past Self in Mirror** is Ruan Mei's signature light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, the other benefits it provides are quite powerful. It greatly reduces the need for Break Effect, allowing you to invest in other stats. Furthermore, a 4T ult rotation with this light cone is more SP positive than a 3T ult rotation with S5 MotP.|
 | ![motps5](https://media.discordapp.net/attachments/1106794389759598662/1184428709093056572/memories-of-the-past-item_icon.png?ex=658bf031&is=65797b31&hm=094e208b3f4f86c13f3224829f295839383a5dbff2cb584a03ba84b307572396&=&format=webp&quality=lossless&width=100&height=100)     | TBD% | **Memories of the Past** is Ruan Mei's best 4-star light cone. It provides Ruan Mei's most needed stats, break effect and energy. At **S3+**, Ruan Mei only needs to be hit once to ensure a 3T ultimate. At **S5**, it competes with Ruan Mei's signature light cone because it guarantees a 3T ultimate. |
 | ![cogs](https://media.discordapp.net/attachments/1106794389759598662/1184428892291874916/meshing-cogs-item_icon.png?ex=658bf05d&is=65797b5d&hm=fefc175f11576cf86fcb3c2a5291a79257f17551a420209d2f762fa77b36978c&=&format=webp&quality=lossless&width=100&height=100)  | TBD% | **Meshing Cogs**, a popular budget light cone choice for Harmony characters due to the energy it provides, is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S2 Memories of the Past due to the energy it provides.|
 | ![dance](https://media.discordapp.net/attachments/887963616182145044/1190240740501110824/dance-dance-dance-item_icon.png?ex=65a11512&is=658ea012&hm=5dc135a5e5a29b48a08e1c6b6dc2f63ac1f203625d5c876cecbee1ce00409145&=&format=webp&quality=lossless&width=100&height=100) | TBD% | **Dance! Dance! Dance!** is a possible option due to its basic utility, which advances forward all allies upon casting the wearer's ultimate. However, because it does not provide any of Ruan Mei's needed stats, it is not recommended over the above options.
@@ -374,8 +380,8 @@ A special case is if you have Huohuo on your team. Huohuo will lower your rotati
 Note that to achieve 124.4% ER, you must use an ERR rope and Penacony/Vonwacq. To achieve 119.4% ER, you must use an ERR rope. To achieve 105% ER, you must use Penacony/Vonwacq.
 
 | Total Energy | Light Cone | Turns to Cast Ultimate | Notes
-|--------------|------------|-------------------------------|-------
-| 124.4% | S1 Signature | **4** | With this build, you may need to be hit once or twice to achieve 3T ult. This build is recommended because Ruan Mei's signature light cone already provides a lot of Break Effect, allowing you to focus on Energy Regeneration.
+|--------------|------------|------------------------|-------
+| 124.4% | S1 Signature | **4** | With this build, you may need to be hit once or twice to achieve 3T ult. This build is **recommended** because it allows you to focus on Energy Regeneration, and it is the most SP positive among the ones listed here.
 | 119.4% | S1 Signature | **4** | With this build, you may need to be hit once or twice to achieve 3T ult. It is not recommended to use this build unless you cannot reach 180% Break Effect.
 | 124.4% | S5 MotP | **3** | This build is **highly recommended**, as you can comfortably 3T ult with this build without losing out on the necessary Break Effect.
 | 119.4% | S5 MotP | **4** | With this build, you may need to be hit once or twice to achieve 3T ult.
@@ -431,7 +437,7 @@ Ruan Mei may be the first limited 5-star Harmony character, but she isn't the on
 
 | Character   | Notes                            |
 | ----------- | -------------------------------- |
-| ![bronya](https://media.discordapp.net/attachments/1106792336668753971/1184864750899834890/1101.png?ex=658d864a&is=657b114a&hm=5e3a8f0eb7a442e0c218c80365a7337843db914faab3af4873c76433d0bc69ba&=&format=webp&quality=lossless&width=240&height=327) | **Bronya** is currently the only other 5-star Harmony character, and as a Harmony character she is focused on buffing their allies' DMG. However, that is where their similarities end. Bronya is focused on single-target buffs, while Ruan Mei buffs the entire team at once. Furthermore, Bronya's kit revolves around increasing ATK% and CRIT DMG, whereas Ruan Mei's kit focuses on increasing Weakness Break Efficiency, Break Effect, and SPD. Because they are so different, it is better to consider what you need and which DPS character you are using. As a standard character, however, Bronya is easier to obtain than Ruan Mei.
+| ![bronya](https://media.discordapp.net/attachments/1106792336668753971/1184864750899834890/1101.png?ex=658d864a&is=657b114a&hm=5e3a8f0eb7a442e0c218c80365a7337843db914faab3af4873c76433d0bc69ba&=&format=webp&quality=lossless&width=240&height=327) | **Bronya** is currently the only other 5-star Harmony character, and as a Harmony character, she is focused on buffing her allies' DMG. However, that is where their similarities end. Bronya is focused on single-target buffs, while Ruan Mei buffs the entire team at once. Furthermore, Bronya's kit revolves around increasing ATK% and CRIT DMG, whereas Ruan Mei's kit focuses on increasing Weakness Break Efficiency, Break Effect, and SPD. Because they are so different, it is better to consider what you need and which DPS character you are using. As a standard character, however, Bronya is easier to obtain than Ruan Mei.
 | ![tingyun](https://media.discordapp.net/attachments/1106792336668753971/1184867622261641287/1202.png?ex=658d88f6&is=657b13f6&hm=84f6ded0b64a89254087bc85717a21be0ff99aa165d6d5898283ace20110b72e&=&format=webp&quality=lossless&width=240&height=327) | **Tingyun** is generally regarded as one of the best characters in the game due to how versatile and universal she is as a support. It's even better that she's a 4* character, making her very accessible for F2P players. Tingyun's ultimate, which restores energy for allies, is also something extremely useful. However, again, as Ruan Mei and Tingyun do different things, you should use whoever benefits your team more. You can even use both characters together. Tingyun buffs ATK% while Ruan Mei buffs DMG%, which reduces diminishing returns.
 | ![asta](https://media.discordapp.net/attachments/887963616182145044/1184806490591211561/1009.png?ex=658d5007&is=657adb07&hm=5465b9c0ccc0d4fb39b3033f32bec00eec3e4f58a37c5a045ed2c593a84e4ac1&=&format=webp&quality=lossless&width=240&height=327) | **Asta** is a popular Harmony option for many players due to her being completely free to obtain. Despite being a budget-friendly character, Asta provides a lot of value due to her ATK% buffs and her huge flat SPD boost from her ultimate. While Ruan Mei and Asta may seem similar due to the fact that they both provide buffs and increase SPD, they are quite different. Ruan Mei buffs DMG%, while Asta buffs ATK%. This makes Asta someone who runs very well with Ruan Mei, rather than someone to be replaced by Ruan Mei.
 | ![pela](https://media.discordapp.net/attachments/1106792336668753971/1184880058305876028/1106.png?ex=658d948b&is=657b1f8b&hm=b89a7c5e310823bdb0a2245cc38d0c124128adc188261c52bfa60c3494aca501&=&format=webp&quality=lossless&width=240&height=327) | **Pela** is a Nihility character, while Ruan Mei is a Harmony character. However, as both are Ice supports, they may be compared quite often, especially for Ice DMG-focused teams. Because Ruan Mei and Pela are both different characters who provide different things, it is again recommended to run them together if possible. However, if you must choose one or the other, choose whoever benefits your DPS more. Ruan Mei buffs Break Effect and Weakness Break Efficiency, which might be more valuable to certain characters.
@@ -456,7 +462,7 @@ Because Ruan Mei's ultimate is so powerful, it is highly recommended to have as 
 While a 3T ult is optimal, it's not necessary. It is better to focus on achieving the minimum amount of Break Effect (180%) before focusing on achieving a 3T ult. However, even if you cannot achieve a 3T ult, still aim for as high ultimate uptime as possible. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
 
 ### How much Break Effect can I sacrifice for 3T Ult?
-It is recommended to first aim for 180% Break Effect, then to focus on 3T ult. If you have less than **170%** Break Effect, it is better to settle for a 4T ult instead, as losing out on the recommended Break Effect negatively affects Ruan Mei more than having less ultimate uptime. However, it is not recommended to settle for anything more than a 4T ult. A 5T ult is not recommended, and using an ERR rope is still recommended over a Break Effect rope. You can see what combination of light cones and ERR works best for you in our [Energy Needs](#energy-needs) section.
+It is recommended to first aim for 180% Break Effect, then to focus on 3T ult. If you have less than **170%** Break Effect, it is better to settle for a 4T ult instead, as losing out on the recommended Break Effect negatively affects Ruan Mei more than having less ultimate uptime. However, it is not recommended to settle for anything more than a 4T ult. A 5T ult is not recommended, and using an ERR rope is still recommended over a Break Effect rope. You can see what combination of light cones and ERR works best for you in our [Energy Needs](#energy-needs "Ruan Mei Energy Needs") section.
 
 ### How much Break Effect is too much?
 While the recommended minimum Break Effect is 180%, you can definitely have more Break Effect. There is no limit to how much Break Effect to have, but you should not be sacrificing other stats for Break Effect. Once you hit 180% Break Effect, focus on other stats; if you have extra Break Effect to spare even after hitting the recommended stats, that's perfectly fine.
