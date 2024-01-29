@@ -25,6 +25,7 @@ extra_css:
 
 plugins:
   - glightbox
+  - search
   - social:
       cards_layout: default/only/image
       cards_layout_options:
