@@ -15,6 +15,8 @@ markdown_extensions:
   - footnotes
 
 extra_javascript:
+  - https://www.googletagmanager.com/gtag/js?id=G-BMDLZHQGKD
+  - javascripts/gtag.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
 
@@ -22,6 +24,7 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
+  - glightbox
   - social:
       cards_layout: default/only/image
       cards_layout_options:
@@ -29,12 +32,17 @@ plugins:
 
 site_name: 'Ruan Mei Mains ❀ Honkai: Star Rail'
 site_url: https://ruanmeimains.com/
+copyright: Copyright &copy; 2024 Ruan Mei Mains
 
 nav:
   - Home: 'index.md'
   - Ruan Mei Guides:
     - 'Ruan Mei Quick Guide': 'ruanmei-guides/quick.md'
     - 'Ruan Mei Full Guide': 'ruanmei-guides/full.md'
+  - Ruan Mei Theorycrafting:
+    - 'Energy Needs Spreadsheet': 'https://docs.google.com/spreadsheets/d/1ANEOjrHkxMxnnuqOsES4egLCY6UJteJjsoq9il_Z9gw/edit?usp=sharing" target="_blank'
+    - 'DMG Calculations Spreadsheet': 'https://docs.google.com/spreadsheets/d/1xRtOm5Kf5sam41cd61SwPDuq5v48ZoTf6yn32ejs8bw/edit?usp=drive_link" target="_blank'
+    - 'Break Effect Visualization': 'https://docs.google.com/spreadsheets/d/1ZmImrMw5LGYzS0l8sABENw1oIeXD8EB5w3eRt-8yYws/edit?usp=drive_link" target="_blank'
   - Ruan Mei Lore: 'lore.md'
   - Socials:
     - 'Discord': 'https://discord.gg/ruanmei" target="_blank'
@@ -64,6 +72,7 @@ theme:
     admonition:
       tip: octicons/question-16
     annotation: material/help-circle
+  custom_dir: overrides/.icons
 
 extra:
   social:
@@ -73,3 +82,4 @@ extra:
       link: https://reddit.com/r/RuanMeiMains" target="_blank
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/ruanmeidaily__" target="_blank
+  generator: false
