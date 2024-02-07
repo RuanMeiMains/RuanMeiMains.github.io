@@ -3,7 +3,7 @@ description: Take a deeper dive into Ruan Mei's lore and learn about her charact
 ---
 
 # Ruan Mei Lore Analysis
-##### *Contains 1.6 spoilers; Written by mr.swedishfish and euphriia, Edited by rei_dayo* | MANY SECTIONS ARE UNDER CONSTRUCTION
+##### *Written by mr.swedishfish and euphriia, Edited by rei_dayo* | MANY SECTIONS ARE UNDER CONSTRUCTION
 > *"Life exists during a very short window of time, all destined to wilt in the end."*
 
 ![ruanmei](https://media.discordapp.net/attachments/1106786214608109669/1189817255433879613/ruan_mei_demo.gif?ex=659f8aab&is=658d15ab&hm=37805eb8e3b3849a44bc3f6ef60ac1b0c71edec9a2691d4b19b201baabb332b7&=&width=1165&height=655)
@@ -155,6 +155,10 @@ Ruan Mei also may be from the Xianzhou Alliance, due to her home world being ble
 ### Simulated Universe
 >*"I nurture the prototypes of the universe and the Aeons."*
 
+### Other Experiments
+- fragmentum creecher
+- creating a genius
+
 ## Relationships
 
 ### Genius Society Members
@@ -191,10 +195,28 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — Ruan Mei, about Screwllum
 
+    Ruan Mei and Screwllum certainly have very opposing ideas about life. One is a biologist who cultivates living organisms, while the other believes in supporting the rights of mechanical beings. While they both acknowledge and respect each other's beliefs, they do not consider each other as friends. They simply have a work relationship.
+
+    Ruan Mei's understanding of life is quite literal. A living being must be organic with the ability to grow, breathe, reproduce, and most imporantly, die. She views experiences such as emotions unnecessary and contradictory. Contrastingly, Screwllum believes in life in a metaphorical sense. One is truly living if they are experiencing and fulfilling life's moments. It doesn't matter if they are alive, it matters if they are living their life.
+
+    > *"Though I and Miss Ruan Mei have drastically different understandings about life, I completely comprehend her love for the life sciences."*
+    >
+    > — Screwllum, about Ruan Mei's understanding about "life"
+
+    An example that displays Ruan Mei's sense of literalism is in the *Geniuses' Repose* light cone. Screwllum is perfectly capable of eating "normal" food that humans eat. In fact, he even enjoys them. However, during their dessert break, Ruan Mei served Screwllum machine oil instead of tea and pastries. Because he was a robot, she did not acknowledge his ability to consume food like a living being.
+
+    However, both respect their differences in beliefs, and it is due to these very differences that they work together well when creating the Simulated Universe. Ruan Mei is in charge of creating the lifeform simulations, the creatures that live and breathe and interact with the Trailblazer, while Screwllum is in charge of the mechanical and engineering aspects of the project.
+
 === "Stephen Lloyd, #84"
     > *"Put a watermelon parfait in Herta's office and Stephen is sure to show up. Remember, the pumpkin ones will never attract him — those are for warding him off."*
     >
     > — Ruan Mei, about Stephen Lloyd
+
+    Due to Stephen Lloyd's extremely avoidant personality as well as Ruan Mei's introverted behavior, the two do not seem to interact very much. However, due to Stephen Lloyd's background in running fruit stands, he seems to enjoy fruit-related foods. Because Ruan Mei enjoys pastries, enjoying desserts may be something the two may have in common.
+
+    Ruan Mei talks about Stephen Lloyd as if he is some sort of creature that needs to be studied. She talks about baiting him with desserts to "summon" him or using a pumpkin parfait to "ward" him off. While this is quite consistent with her personality, as Ruan Mei does not really care about concepts such as empathy and humanity, the way she acknowledges him is still different from the other Genius Society members such as Herta or Screwllum. It may be due to the fact that the two hardly ever interact, nor do they ever seem to need to interact, that Ruan Mei finds him almost unfamiliar and unknown.
+
+    The only connection that Ruan Mei and Stephen Lloyd have is Ruan Mei's curio, the A-Ruan Pouch. Ruan Mei created this curio in order to "carry the universe in her pocket," though she had to seal it when its dimensionality kept expanding. Stephen Lloyd considered this curio as his most important companion due to the fact that he could hide inside it to avoid his family.
 
 === "Yu Qingtu, #55"
     > *"Yu Qingtu, Genius Society's #55, has an impressive taste in music. On account of her fantastic friendship with Ruan Mei, she once made a drink — to which she gave an eye-catching name taken from the title of her favorite ancient Amber Era music — as a gift."*
@@ -209,7 +231,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 
     Though there isn't a lot of known information about Yu Qingtu, it can easily be understood why Ruan Mei and Yu Qingtu may get along well. Both enjoy music; Ruan Mei plays the ruan and enjoys traditional opera while Yu Qingtu "has an impressive taste in music"[^8]. They both also enjoy creating food-related things. Ruan Mei loves tasting and making desserts, and Yu Qingtu is known for mixing cocktails. It can be inferred that the two enjoy the finer things in life, like the arts and fine dining.
 
-    One of Yu Qingtu's Simulated Universe curios, The Pinkest Collision, refers to a cocktail that Yu Qingtu made for Ruan Mei. The curio increases the user's Break Effect, which works well with Ruan Mei's skills.
+    One of Yu Qingtu's Simulated Universe curios, The Pinkest Collision, refers to a cocktail that Yu Qingtu created for Ruan Mei as a gift. The curio increases the user's Break Effect, which works well with Ruan Mei's skills.
 
     It is likely that due to Ruan Mei's introverted and hermetic nature, she may not have any other friends except for Yu Qingtu.
 
@@ -228,6 +250,8 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — Herta, about Tayzzyronth
 
+    ![lab](https://media.discordapp.net/attachments/887963616182145044/1196838969296560218/1345669.png?ex=65b91626&is=65a6a126&hm=764fa33a4cd580a0fc5846159f506e746b49102f9bccfdf8a71ab3240edd5b3f&=&format=webp&quality=lossless&width=1165&height=655)
+
 </div>
 
 ### Family Members
@@ -238,12 +262,18 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — Ruan Mei, about her name
 
+    - mom brain tissue thing
+    - her parents are still "there"
+    - promise to protect them
+
 === "Grandmother"
     > *"Unbeknownst to the girl, her grandmother has always been watching her through the monitor, day after day for countless years.*
     >
     > *'A-Ruan... My A-Ruan. When we finally meet again, would it be...?'"*
     >
     > — Ruan Mei Character Story: Part IV
+
+    - grandma is in the intelligentsia guild
 
 
 </div>
@@ -256,14 +286,28 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — Ruan Mei Character Story: Part III
 
+    Ruan Mei fails to understand the emotions of the lifeforms she has created, and she does not seem to have much connection towards them. Unsurprisingly, Ruan Mei's creations view her as a mother figure. It is only natural instinct to feel love towards the person who created you. However, Ruan Mei truly cannot understand this. She knows that her creations love her and view her as their guardian, but she cannot comprehend why they feel that way or why she should reciprocate their love.
+
+    It is important to note that while Ruan Mei doesn't understand the emotional connection between her and her creations, it does not mean that she feels absolutely nothing towards them. As much as Ruan Mei dislikes to admit it, she is a human with emotions as well. She just does not have a strong understanding or acceptance of her emotions. 
+
+    When Ruan Mei leaves Herta Space Station to continue with her research, leaving behind her critters, she still asks the Trailblazer about them. She is concerned for their wellbeing, and she even asks for a "family picture" of her critters later on. Ruan Mei acknowledges the existence of prominent critters such as Ashy Paste and Molten Cheese Tart, who wrote a letter of support to her, and she genuinely hopes that the two will get along well.
+
     <figure markdown>
       ![creations](https://media.discordapp.net/attachments/1106792336668753971/1189870513846222928/ruan_mei_creations.png?ex=659fbc45&is=658d4745&hm=5494f90b45e08fa44145a58e3242b7e9fd2493bc87194752e3d4699cd650468e&=&format=webp&quality=lossless&width=1224&height=655)
       <figcaption>Ruan Mei's creations yearn for her love.</figcaption>
     </figure>
 
+    > *"About the progress of my research... I'm not at liberty to state directly. However, you can look at this "puppet." No need to be shocked. It indeed possesses language and emotional capabilities, and can gain various states depending on its mood. If you like, you can keep it. It's not a big deal, just a small experiment. How to take care of it? Do you mean how you can... "nurture" it? Well, that's still a bit complex, but I'll see if I can draft a simplified formula for your purposes."*
+    >
+    > — Ruan Mei, about her research
+
+    Most of the time, however, Ruan Mei views her creations as simply experiments that need to be studied, and nothing more. If they are a "failed" experiment that does not meet her expectations, she casts them aside. She won't kill them, but she won't know what to do with them. Ruan Mei even offers to give her "experiments" away if she does not need them anymore. This is shown when she leaves behind several critters at the Herta Space Station for the Department of Ecology to take care of. She simply does not care about them afterwards.
+
+    When taking care of her creations, Ruan Mei views it more of a required task rather than an act of care. When giving the Trailblazer one of her creations, which she refers to as a "puppet" with intelligent and emotional capabilities, she states that she can draft a formula to nurture the creature. Instead of instructing the Trailblazer what to do, she instead uses a scientific formula, showing how she views her creation as a mere experiment rather than a companion or pet. How quickly and indifferently she was willing to give it away also illustrates how Ruan Mei does not have a connection with her creations.
+
 
 === "Trailblazer"
-    >*"Worry not, my dear... 'assistant.' I will definitely 'reward' you."*
+    > *"Worry not, my dear... 'assistant.' I will definitely 'reward' you."*
 
 
 </div>
@@ -272,7 +316,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 Below are some possible theories about Ruan Mei. Please keep in mind that these theories are not confirmed to be true and are simply inferences based on the currently available material on Ruan Mei. 
 
 ### Becoming an Aeon
-### Denizens of Abundance
+### Being a member of the Sanctus Medicus
 ### Reviving her Parents
 
 ## Sources
