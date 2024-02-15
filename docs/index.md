@@ -18,23 +18,23 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
     ---
 
-    Our website is in its early stages with some unfinished parts, but you can check out our various resources, guides, and social platforms here! We will be regularly updating our website, so feedback is welcome!
+    Our website is in its early stages with some unfinished parts, but you can check out our various resources, guides, and social platforms here! We will be regularly updating and expanding our website, so feedback is welcome!
 
 
--   **Check out our Ruan Mei Guide!**
+-   **Our Ruan Mei Guide is updated for 2.0!**
 
     ---
 
-    Huge thanks to our Theorycrafting Team for working on our Ruan Mei Guide! Need help building Ruan Mei? Look no further! Some details may be a work in progress.
+    Huge thanks to our Theorycrafting Team for working on our Ruan Mei Guide! Penacony got you confused? Need help building Ruan Mei? Look no further! Some details may be a work in progress.
 
-    [:material-arrow-right: Check it out!](ruanmei-guides/full.md)
+    [:material-arrow-right: Check it out!](ruanmei-guides/full.md "Ruan Mei Full Guide")
 
 
 -   **New vanity roles in our Discord server!**
 
     ---
 
-    Our server now has roles for those who have Max Traced Ruan Mei, cleared MOC with 36 stars, received Ruan Mei during her first banner, and more! Check how to qualify and apply for these roles by sending /info and /submit with our new Role Submission bot!
+    Our server now has roles for those who have Max Traced Ruan Mei, cleared MOC with 36 stars, cleared PF with 12 stars, received Ruan Mei during her first banner, and more! Check how to qualify and apply for these roles by sending `/info` and `/submit` with our Role Submission bot!
 
     <a href="https://discord.gg/ruanmei" target="_blank">:material-arrow-right: Head to our Discord server!</a>
 
@@ -42,7 +42,7 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
     ---
 
-    Start earning virtual currency by being active in our Discord server! You can grab some exclusive roles and collectibles in our server shop with the currency you earn. Check it out by sending ?currency in our Discord server!
+    Start earning virtual currency by being active and playing games in our Discord server! You can grab some exclusive roles and collectibles in our server shop with the currency you earn. Check it out by sending `?currency` in our Discord server!
 
     <a href="https://discord.gg/ruanmei" target="_blank">:material-arrow-right: Head to our Discord server!</a>
 
