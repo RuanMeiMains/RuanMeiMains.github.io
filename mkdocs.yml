@@ -37,8 +37,8 @@ copyright: Copyright &copy; 2024 Ruan Mei Mains
 nav:
   - Home: 'index.md'
   - Ruan Mei Guides:
-    - 'Ruan Mei Quick Guide': 'ruanmei-guides/quick.md'
     - 'Ruan Mei Full Guide': 'ruanmei-guides/full.md'
+    - 'Ruan Mei Quick Guide': 'ruanmei-guides/quick.md'
   - Ruan Mei Theorycrafting:
     - 'Energy Needs Spreadsheet': 'https://docs.google.com/spreadsheets/d/1ANEOjrHkxMxnnuqOsES4egLCY6UJteJjsoq9il_Z9gw/edit?usp=sharing" target="_blank'
     - 'DMG Calculations Spreadsheet': 'https://docs.google.com/spreadsheets/d/1xRtOm5Kf5sam41cd61SwPDuq5v48ZoTf6yn32ejs8bw/edit?usp=drive_link" target="_blank'
