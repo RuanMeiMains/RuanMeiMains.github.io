@@ -23,7 +23,7 @@ The following are the newest additions and changes to our guide with the release
 **Seele** has been added to the list of anti-synergies with Ruan Mei due to the fact that Ruan Mei can "steal" Seele's kills, preventing her from triggering her Resurgence passive. However, Ruan Mei is still a top pick for Seele due to her universal buffs.
 
 ## Introduction
-Ruan Mei is a 5-star Ice Harmony character and Member #81 of the Genius Society. As the first-ever limited 5-star Harmony character, Ruan Mei faces high expectations. These expectations especially concern her performance in relation to other high-value Harmony characters, such as Tingyun, Bronya, and Asta, as well as her overall utility and usage. Does she hold a candle to them, or is she outshined by their incredible support value? Read this guide to learn how to optimize Ruan Mei effectively and see how she can fit into your teams!
+Ruan Mei is a 5-star Ice Harmony character and Member #81 of the Genius Society. As the first-ever limited 5-star Harmony character, Ruan Mei faces high expectations. These expectations especially concern her performance in relation to other high-value Harmony characters, such as Tingyun, Bronya, and Asta, as well as her overall utility and usage. Does she hold a candle to them, or is she outshined by their incredible support value? Read this guide to learn how to optimize Ruan Mei effectively, find out her best builds, and see how she can fit into your teams!
 
 ![ruanmei](https://media.discordapp.net/attachments/1106792336668753971/1185219131188985928/ruan_mei_animations.gif?ex=658ed055&is=657c5b55&hm=f11b92b8e6e8abf27d220a99151b19ad9248beaaf4a282aed89155bfe2ee89e2&=&width=1162&height=654)
 
