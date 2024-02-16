@@ -168,6 +168,11 @@ Ruan Mei also may be from the Xianzhou Alliance, due to her home world being ble
 
 Ruan Mei's relationship with the Genius Society is questionable at best. Of course, as the Genius Society is full of socially inept introverts, Ruan Mei also being one, she does not bother to interact with or befriend other members. Due to joining the Simulated Universe project, she was forced to socialize with Herta, Screwllum, and Stephen Lloyd, all of whom she seems indifferent about. She does slightly enjoy their meetings at times, but that is about its extent. The only other Genius Society member Ruan Mei has been known to interact with is Yu Qingtu, whom Ruan Mei is good friends with.
 
+<figure markdown>
+  ![geniussociety](https://media.discordapp.net/attachments/887963616182145044/1207946102909702155/image.png?ex=65e17e79&is=65cf0979&hm=4cd70444eb9f589c1a5138f8811b26b57b1a3cfe74deabdb497ce07074f91666&=&format=webp&quality=lossless&width=1318&height=655)
+  <figcaption>Ruan Mei maintains a work-relationship with the Genius Society.</figcaption>
+</figure>
+
 <div class="grid" markdown>
 
 === "Herta, #83"
@@ -199,6 +204,11 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 
     Ruan Mei's understanding of life is quite literal. A living being must be organic with the ability to grow, breathe, reproduce, and most imporantly, die. She views experiences such as emotions unnecessary and contradictory. Contrastingly, Screwllum believes in life in a metaphorical sense. One is truly living if they are experiencing and fulfilling life's moments. It doesn't matter if they are alive, it matters if they are living their life.
 
+    <figure markdown>
+      ![screwmei](https://media.discordapp.net/attachments/1186781620146024596/1207968289914093608/image.png?ex=65e19323&is=65cf1e23&hm=03f6cd618bfbaefb317f85bfa6bb8471fa57ba4db3ec664df57ac30b8b1ec98a&=&format=webp&quality=lossless&width=1146&height=655)
+      <figcaption>Ruan Mei and Screwllum respect each other despite different beliefs.</figcaption>
+    </figure>
+
     > *"Though I and Miss Ruan Mei have drastically different understandings about life, I completely comprehend her love for the life sciences."*
     >
     > — Screwllum, about Ruan Mei's understanding about "life"
@@ -214,7 +224,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 
     Due to Stephen Lloyd's extremely avoidant personality as well as Ruan Mei's introverted behavior, the two do not seem to interact very much. However, due to Stephen Lloyd's background in running fruit stands, he seems to enjoy fruit-related foods. Because Ruan Mei enjoys pastries, enjoying desserts may be something the two may have in common.
 
-    Ruan Mei talks about Stephen Lloyd as if he is some sort of creature that needs to be studied. She talks about baiting him with desserts to "summon" him or using a pumpkin parfait to "ward" him off. While this is quite consistent with her personality, as Ruan Mei does not really care about concepts such as empathy and humanity, the way she acknowledges him is still different from the other Genius Society members such as Herta or Screwllum. It may be due to the fact that the two hardly ever interact, nor do they ever seem to need to interact, that Ruan Mei finds him almost unfamiliar and unknown.
+     ![pouch](https://media.discordapp.net/attachments/1186781620146024596/1207961792517775370/942850241125487b1902d412540f9306_1899347757396442244.png?ex=65e18d16&is=65cf1816&hm=5f8785978ca36704c81cf45c65bebc87653f969c2e80d723fa4c3211ea209938&=&format=webp&quality=lossless&width=384&height=384){ align=left } Ruan Mei talks about Stephen Lloyd as if he is some sort of creature that needs to be studied. She talks about baiting him with desserts to "summon" him or using a pumpkin parfait to "ward" him off. While this is quite consistent with her personality, as Ruan Mei does not really care about concepts such as empathy and humanity, the way she acknowledges him is still different from the other Genius Society members such as Herta or Screwllum. It may be due to the fact that the two hardly ever interact, nor do they ever seem to need to interact, that Ruan Mei finds him almost unfamiliar and unknown.
 
     The only connection that Ruan Mei and Stephen Lloyd have is Ruan Mei's curio, the A-Ruan Pouch. Ruan Mei created this curio in order to "carry the universe in her pocket," though she had to seal it when its dimensionality kept expanding. Stephen Lloyd considered this curio as his most important companion due to the fact that he could hide inside it to avoid his family.
 
@@ -245,6 +255,8 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — Ruan Mei Character Story: Part III
 
+    ![nous](https://media.discordapp.net/attachments/887963616182145044/1170089235030741063/image.png?ex=65d8f884&is=65c68384&hm=09db441f69d04afb77c885bedd17cd55b353d0ca1745049379b75587c568d4a6&=&format=webp&quality=lossless&width=1161&height=655)
+
 === "Tayzzyronth"
     > *"Tayzzyronth the Propagation! I don't know why Ruan Mei is so interested in them. Perhaps because they made such a ruckus with the Swarm Disaster they created."*
     >
@@ -261,6 +273,11 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     > *"In the grand fabric of life, both parents are equal, and thus my name takes the last name of each of my parents."*
     >
     > — Ruan Mei, about her name
+
+    <figure markdown>
+      ![letter](https://media.discordapp.net/attachments/887963616182145044/1207948956038856805/image.png?ex=65e18121&is=65cf0c21&hm=63fa1df805b3649e322320b4626bf773630fae9c8dd20a1a332976230533cda6&=&format=webp&quality=lossless&width=825&height=463)
+      <figcaption>Ruan Mei is shown writing to her mother about their past.</figcaption>
+    </figure>
 
     - mom brain tissue thing
     - her parents are still "there"
@@ -288,13 +305,18 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 
     Ruan Mei fails to understand the emotions of the lifeforms she has created, and she does not seem to have much connection towards them. Unsurprisingly, Ruan Mei's creations view her as a mother figure. It is only natural instinct to feel love towards the person who created you. However, Ruan Mei truly cannot understand this. She knows that her creations love her and view her as their guardian, but she cannot comprehend why they feel that way or why she should reciprocate their love.
 
+    <figure markdown>
+      ![creations](https://media.discordapp.net/attachments/1106792336668753971/1189870513846222928/ruan_mei_creations.png?ex=659fbc45&is=658d4745&hm=5494f90b45e08fa44145a58e3242b7e9fd2493bc87194752e3d4699cd650468e&=&format=webp&quality=lossless&width=1224&height=655)
+      <figcaption>Ruan Mei's creations yearn for her love.</figcaption>
+    </figure>
+
     It is important to note that while Ruan Mei doesn't understand the emotional connection between her and her creations, it does not mean that she feels absolutely nothing towards them. As much as Ruan Mei dislikes to admit it, she is a human with emotions as well. She just does not have a strong understanding or acceptance of her emotions. 
 
     When Ruan Mei leaves Herta Space Station to continue with her research, leaving behind her critters, she still asks the Trailblazer about them. She is concerned for their wellbeing, and she even asks for a "family picture" of her critters later on. Ruan Mei acknowledges the existence of prominent critters such as Ashy Paste and Molten Cheese Tart, who wrote a letter of support to her, and she genuinely hopes that the two will get along well.
 
     <figure markdown>
-      ![creations](https://media.discordapp.net/attachments/1106792336668753971/1189870513846222928/ruan_mei_creations.png?ex=659fbc45&is=658d4745&hm=5494f90b45e08fa44145a58e3242b7e9fd2493bc87194752e3d4699cd650468e&=&format=webp&quality=lossless&width=1224&height=655)
-      <figcaption>Ruan Mei's creations yearn for her love.</figcaption>
+      ![letter](https://media.discordapp.net/attachments/1106791361157541898/1207637938159231006/molten-cheese-tart-and-ashy-paste-letter-to-ruan-mei-seen-v0-cxv4pfxshd9c1.png?ex=65e05f79&is=65cdea79&hm=83ed8b0db05d9f7c70e892033e1fa7cd6b32cb9a96b27fee5a0415cb9832ba54&=&format=webp&quality=lossless&width=1440&height=634)
+      <figcaption>"Walk your own path, Ruan Mei! We'll always support you!"</figcaption>
     </figure>
 
     > *"About the progress of my research... I'm not at liberty to state directly. However, you can look at this "puppet." No need to be shocked. It indeed possesses language and emotional capabilities, and can gain various states depending on its mood. If you like, you can keep it. It's not a big deal, just a small experiment. How to take care of it? Do you mean how you can... "nurture" it? Well, that's still a bit complex, but I'll see if I can draft a simplified formula for your purposes."*
