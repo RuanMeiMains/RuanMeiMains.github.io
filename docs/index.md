@@ -7,7 +7,7 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 [Join our Discord! :fontawesome-brands-discord:{ .discord }](https://discord.gg/ruanmei){ .md-button .md-button--primary target="_blank" } [Check out our Reddit! :fontawesome-brands-reddit:{ .reddit }](https://reddit.com/r/RuanMeiMains){ .md-button .md-button--primary target="_blank" }
 
-![rmmbanner](https://media.discordapp.net/attachments/1106792127268139119/1153721115135442954/Ruan_Mei_Banner-01-01.jpg?format=webp&width=1165&height=655)
+![rmmbanner](https://i.postimg.cc/L5QNpt7N/image.png)
 
 ## What's New
 ### _Check out the latest news and updates!_
@@ -58,9 +58,10 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 [discord.gg/ruanmei :fontawesome-brands-discord:{ .discord } ](https://discord.gg/ruanmei){ .md-button target="_blank" } [r/RuanMeiMains :fontawesome-brands-reddit:{ .reddit } ](https://www.reddit.com/r/RuanMeiMains/){ .md-button target="_blank" }   [@ruanmeidaily__ :fontawesome-brands-twitter:{ .twitter } ](https://twitter.com/ruanmeidaily__){ .md-button target="_blank" }
 
-![tea](https://media.discordapp.net/attachments/887963616182145044/1185594839241347082/ezgif.com-resize_6.gif?ex=65902e3c&is=657db93c&hm=b8cef6a03012c0787dc6d22b66fdf197217f550a2ab3551444c6c29fbcd3ad96&=&width=320&height=480){ align=left style='border-radius: 6px; margin-top: 0' } <iframe src="https://discord.com/widget?id=1106785082028597258&theme=dark" width="320" height="480" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" style="border-radius: 6px"></iframe>
+![tea](https://i.postimg.cc/kMRc6b03/ezgif-com-resize-6.gif){ align=left width=320 style='border-radius: 6px; margin-top: 0' } <iframe src="https://discord.com/widget?id=1106785082028597258&theme=dark" title="discord.gg/ruanmei" footer="Come hangout with us!" width="320" height="480" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" style="border-radius: 6px"></iframe>
 
 ## Support Us
 Donate to our Ko-fi! Ruan Mei Mains is a completely voluntary organization, and many of our resources are funded out of pocket. Your support helps us improve our community! All donations go towards event prizes, giveaways, and community resources.
 
 [Support us on Ko-fi! :fontawesome-solid-mug-hot: ](https://ko-fi.com/ruanmeimains){ .md-button target="_blank" }
+
