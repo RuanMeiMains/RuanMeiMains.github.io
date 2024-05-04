@@ -6,7 +6,7 @@ description: Take a deeper dive into Ruan Mei's lore and learn about her charact
 ##### *Written by mr.swedishfish and euphriia, Edited by rei_dayo* | MANY SECTIONS ARE UNDER CONSTRUCTION
 > *"Life exists during a very short window of time, all destined to wilt in the end."*
 
-![ruanmei](https://media.discordapp.net/attachments/1106786214608109669/1189817255433879613/ruan_mei_demo.gif?ex=659f8aab&is=658d15ab&hm=37805eb8e3b3849a44bc3f6ef60ac1b0c71edec9a2691d4b19b201baabb332b7&=&width=1165&height=655)
+![ruanmei](assets/images/lore/ruan_mei_demo.gif)
 
 ## Introduction
 > *"Ruan Mei possesses extraordinary perception and cognitive integration abilities, easily capturing microscopic details of reality and synthesizing them into a torrent of information within her mind."*
@@ -18,7 +18,7 @@ Ruan Mei is referred to by several different titles by other people: biologist, 
 As someone who never reveals her true intentions or character, it is difficult to truly understand who Ruan Mei truly is. What are her motives? What is her true goal? Why does she act the way she does? She is a mystery, shrouded in uncertainties. Here, we take a deeper dive into Ruan Mei's character, who she really is, and possible theories surrounding her.
 
 <figure markdown>
-  ![ruanmei](https://media.discordapp.net/attachments/887963616182145044/1190228036075929672/image.png?ex=65a1093d&is=658e943d&hm=6f1fcb0e2603dc94ae63f6718d0889b3b6167b8da56a910eb9badef3179c7afd&=&format=webp&quality=lossless&width=1216&height=654)
+  ![ruanmei](assets/images/lore/ruanmei1.png)
   <figcaption>Elegant, artistic, and intelligent. Let's learn more about Ruan Mei!</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ As someone who never reveals her true intentions or character, it is difficult t
 Ruan Mei is Member #81 of the Genius Society, specializing in biology and life sciences. She works alongside Herta, Screwllum, and Stephen Lloyd to create the Simulated Universe. Herta describes Ruan Mei as a "master of creation," as she specializes in developing organisms and the life sciences. This is reflected in her skill animations, hairpins, dress designs, garter, and bracelet, which are all shaped like DNA helixes.
 
 <figure markdown>
-  ![ruanmei](https://media.discordapp.net/attachments/887963616182145044/1187686451605950514/ruan_mei_trailer_1.gif?ex=6597ca34&is=65855534&hm=7a6a8362eb08145fd535003785b0a47b9585d86941fd9c72a299ef03b596364a&=&width=1165&height=655)
+  ![ruanmei](assets/images/lore/ruan_mei_trailer_1.gif)
   <figcaption>Even Ruan Mei's window is DNA-themed!</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Ruan Mei is shown to be very introverted. She dislikes talking to people more th
 Ruan Mei lacks empathy and doesn't form closer relationships with anyone. According to her, "I do not have a life outside of research. People always think this price is unimaginable, but it seems rather acceptable to me."[^7] She also does not feel an attachment to the lifeforms she creates, despite them having a strong attachment to her, and does not know what to do with them most of the time. Due to her past, Ruan Mei has learned to not trust anyone, causing her to act superficially and avoid people altogether. This can also cause her to be overly cautious when dealing with others.
 
 <figure markdown>
-  ![solitary](https://media.discordapp.net/attachments/887963616182145044/1190226344894795786/image.png?ex=65a107a9&is=658e92a9&hm=89076bb50e9c814d2f285a32b708d816d1f1d8439ed1d3eebb71b46862dc6cb2&=&format=webp&quality=lossless&width=1165&height=655)
+  ![solitary](assets/images/lore/solitary.png)
   <figcaption>Ruan Mei is a solitary person who enjoys being alone.</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ This behavior stems from her understanding of "love." As a child, Ruan Mei under
 In the Simulated Universe, Ruan Mei is best known for her famous Occurrence, one that gives either all blessings of a certain Path or 2000 Cosmic Fragments (which is a large amount). With the Occurrence, it obviously becomes much easier to complete the Simulated Universe run. Getting her Occurrence usually causes most players to become excited because of rarity and because they know that it will help them immensely. Because of this, some people associate Ruan Mei with an image of generosity.
 
 <figure markdown>
-  ![reward](https://media.discordapp.net/attachments/887963616182145044/1190225232401813534/image.png?ex=65a106a0&is=658e91a0&hm=faaa73883a3b78502e0fd01a2357e19052a6651930e047f4a6569d419fe204fe&=&format=webp&quality=lossless&width=1165&height=655)
+  ![reward](assets/images/lore/reward.png)
   <figcaption>Ruan Mei makes sure to reward the Trailblazer with her Occurrence.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Is this manipulation? Yes, it is. However, Ruan Mei does not find anything wrong
 Ruan Mei also generally finds emotions and human sentiments, such as attachment, love, and relationships with others, an inconvenience. In her Myriad Celestia Trailer, she states that "'Attachment' involves the insular cortex, which controls anxiety and pain...The laws of "emotion" can be easily broken down." To Ruan Mei, emotions are simply unnecessary and something that hinders living beings.
 
 <figure markdown>
-  ![emotions](https://media.discordapp.net/attachments/887963616182145044/1191361453807112333/ruan_mei_trailer_2.gif?ex=65a528d1&is=6592b3d1&hm=6713bf7dbe0ba4132e598b411a8ea9b128b23f40686c830e2ac87a01c3f7077d&=&width=1165&height=655)
+  ![emotions](assets/images/lore/ruan_mei_trailer_2.gif)
   <figcaption>Ruan Mei believes that emotions and attachment are unnecessary.</figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Ruan Mei's research is centered on the topic of life and its "essence." She also
 Ruan Mei firmly believes that life, while taking on a variety of forms, is always the same at its very core. According to her, all life is simple underneath its exterior. She endeavors to find and understand this kindling of life and believes that when she does, many of the questions she has posed will be solved. If one were to trace life back to its very roots, she believes that only one equation is necessary to solve the mysteries that life has to offer. 
 
 <figure markdown>
-  ![planet](https://media.discordapp.net/attachments/887963616182145044/1191355697611411577/image.png?ex=65a52374&is=6592ae74&hm=11ca156ce96ecf06abd8ca65780a1466997f374c69cf124d2be0aa830ac6d226&=&format=webp&quality=lossless&width=1165&height=655)
+  ![planet](assets/images/lore/planet.png)
   <figcaption>Ruan Mei only cares about her research: finding the origin of life.</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ After her encounter with Nous, Ruan Mei became increasingly interested in the Ae
 Ruan Mei's overall design theme is based on plum blossoms. The character "Mei" in her name, 阮 梅, shares the same character 梅 (meaning plum) as in 梅花, or meihua, meaning plum blossom. Plum blossoms can also be seen in almost any official artwork having to do with Ruan Mei. Furthermore, Ruan Mei plays a ruan, a Chinese stringed instrument seen in her official artwork, and it is used as her weapon of choice.
 
 <figure markdown>
-  ![ult](https://media.discordapp.net/attachments/1106786214608109669/1174206169582161920/ruan_mei_ultimate.gif?ex=65826f36&is=656ffa36&hm=38236ed624dbfa4fb170d57c53d8eb231f36c66a1335a46064d88a5c2bd7d7c2&=&width=1165&height=655)
+  ![ult](assets/images/lore/ruan_mei_ultimate.gif)
   <figcaption>Ruan Mei plays a ruan, and her themes are based on the meihua.</figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ In Chinese culture, plum blossoms symbolize perseverance, as they are one of the
 Initially, Ruan Mei did not want to join the Genius Society, viewing it as an interruption to her life as a recluse. She even threw away the invitation that she received from them. It was only after Herta invited her to work on the Simulated Universe, and by extension the study of Aeons, that she accepted the invitation.
 
 <figure markdown>
-  ![genius](https://media.discordapp.net/attachments/887963616182145044/1191356877364269056/image.png?ex=65a5248d&is=6592af8d&hm=fcf6bd813335be488859be277320dff7607188fa7145fe77abd10d4ce6b227ac&=&format=webp&quality=lossless&width=1165&height=655)
+  ![genius](assets/images/lore/genius.png)
   <figcaption>Ruan Mei, like the other Genius Society members, is quite aloof.</figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ Not much is known about Ruan Mei's home planet. Even Ruan Mei herself has forgot
 As a child, Ruan Mei explored other worlds with her mother to go on scientific expeditions. She would research other forms of life in those planets she visted, and she would try to find evidence of life in barren places such as No Man's Land, the icy planet depicted in her Myriad Celestia Trailer. However, due to Ruan Mei leaving her home and visiting other places at such a young age, she did not feel attached to her own home world.
 
 <figure markdown>
-  ![nomansland](https://media.discordapp.net/attachments/887963616182145044/1189904718814781450/image.png?ex=659fdc20&is=658d6720&hm=4e094c9fba164bae2b64536204a03003ff14d6039fcf3853baeaa81f27bb73df&=&format=webp&quality=lossless&width=1165&height=655)
+  ![nomansland](assets/images/lore/nomansland.png)
   <figcaption>Ruan Mei's home planet was one blessed by the Abundance.</figcaption>
 </figure>
 
@@ -169,7 +169,7 @@ Ruan Mei also may be from the Xianzhou Alliance, due to her home world being ble
 Ruan Mei's relationship with the Genius Society is questionable at best. Of course, as the Genius Society is full of socially inept introverts, Ruan Mei also being one, she does not bother to interact with or befriend other members. Due to joining the Simulated Universe project, she was forced to socialize with Herta, Screwllum, and Stephen Lloyd, all of whom she seems indifferent about. She does slightly enjoy their meetings at times, but that is about its extent. The only other Genius Society member Ruan Mei has been known to interact with is Yu Qingtu, whom Ruan Mei is good friends with.
 
 <figure markdown>
-  ![geniussociety](https://media.discordapp.net/attachments/887963616182145044/1207946102909702155/image.png?ex=65e17e79&is=65cf0979&hm=4cd70444eb9f589c1a5138f8811b26b57b1a3cfe74deabdb497ce07074f91666&=&format=webp&quality=lossless&width=1318&height=655)
+  ![geniussociety](assets/images/lore/geniussociety.png)
   <figcaption>Ruan Mei maintains a work-relationship with the Genius Society.</figcaption>
 </figure>
 
@@ -183,7 +183,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     Ruan Mei and Herta respect each other as colleagues. They trust each other on a work level and acknowledge the talents and achievements of the other. However, neither cares enough about the other to get closer than that. Herta is someone who is very focused on the projects she is interested in, and she will ignore everything else she deems not worth her attention. Similarly, Ruan Mei is only interested in her own research topics, and while she will do anything to advance her research, she will not try to get close to anyone she works with.
 
     <figure markdown>
-      ![hertamei](https://media.discordapp.net/attachments/887963616182145044/1190623163818705036/image.png?ex=65a2793a&is=6590043a&hm=dfbf61ad5de1f6c926d01e2a4d2388cd2d4dad05807c2d3c6c1952e4dd9c93e4&=&format=webp&quality=lossless&width=1116&height=655)
+      ![hertamei](assets/images/lore/hertamei.png)
       <figcaption>Ruan Mei and Herta often work together for the Simulated Universe.</figcaption>
     </figure>
 
@@ -205,7 +205,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     Ruan Mei's understanding of life is quite literal. A living being must be organic with the ability to grow, breathe, reproduce, and most imporantly, die. She views experiences such as emotions unnecessary and contradictory. Contrastingly, Screwllum believes in life in a metaphorical sense. One is truly living if they are experiencing and fulfilling life's moments. It doesn't matter if they are alive, it matters if they are living their life.
 
     <figure markdown>
-      ![screwmei](https://media.discordapp.net/attachments/1186781620146024596/1207968289914093608/image.png?ex=65e19323&is=65cf1e23&hm=03f6cd618bfbaefb317f85bfa6bb8471fa57ba4db3ec664df57ac30b8b1ec98a&=&format=webp&quality=lossless&width=1146&height=655)
+      ![screwmei](assets/images/lore/screwmei.png)
       <figcaption>Ruan Mei and Screwllum respect each other despite different beliefs.</figcaption>
     </figure>
 
@@ -224,7 +224,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 
     Due to Stephen Lloyd's extremely avoidant personality as well as Ruan Mei's introverted behavior, the two do not seem to interact very much. However, due to Stephen Lloyd's background in running fruit stands, he seems to enjoy fruit-related foods. Because Ruan Mei enjoys pastries, enjoying desserts may be something the two may have in common.
 
-     ![pouch](https://media.discordapp.net/attachments/1186781620146024596/1207961792517775370/942850241125487b1902d412540f9306_1899347757396442244.png?ex=65e18d16&is=65cf1816&hm=5f8785978ca36704c81cf45c65bebc87653f969c2e80d723fa4c3211ea209938&=&format=webp&quality=lossless&width=384&height=384){ align=left } Ruan Mei talks about Stephen Lloyd as if he is some sort of creature that needs to be studied. She talks about baiting him with desserts to "summon" him or using a pumpkin parfait to "ward" him off. While this is quite consistent with her personality, as Ruan Mei does not really care about concepts such as empathy and humanity, the way she acknowledges him is still different from the other Genius Society members such as Herta or Screwllum. It may be due to the fact that the two hardly ever interact, nor do they ever seem to need to interact, that Ruan Mei finds him almost unfamiliar and unknown.
+     ![pouch](assets/images/lore/pouch.png){ align=left } Ruan Mei talks about Stephen Lloyd as if he is some sort of creature that needs to be studied. She talks about baiting him with desserts to "summon" him or using a pumpkin parfait to "ward" him off. While this is quite consistent with her personality, as Ruan Mei does not really care about concepts such as empathy and humanity, the way she acknowledges him is still different from the other Genius Society members such as Herta or Screwllum. It may be due to the fact that the two hardly ever interact, nor do they ever seem to need to interact, that Ruan Mei finds him almost unfamiliar and unknown.
 
     The only connection that Ruan Mei and Stephen Lloyd have is Ruan Mei's curio, the A-Ruan Pouch. Ruan Mei created this curio in order to "carry the universe in her pocket," though she had to seal it when its dimensionality kept expanding. Stephen Lloyd considered this curio as his most important companion due to the fact that he could hide inside it to avoid his family.
 
@@ -233,7 +233,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — *The Pinkest Collision* Curio
 
-    ![pinkestcollision](https://media.discordapp.net/attachments/887963616182145044/1189898948530425896/latest.png?ex=659fd6c0&is=658d61c0&hm=9adb740d13430ab72ba137dc6fb0aa06a07ced957c354dd51a34fd7f3f55b433&=&format=webp&quality=lossless&width=384&height=384){ align=left }
+    ![pinkestcollision](assets/images/lore/pinkestcollision.png){ align=left }
 
     Yu Qingtu, #55 of the Genius Society, is known to be Ruan Mei's very close friend. Ruan Mei herself has stated that she enjoys her time with Yu Qingtu every time they meet, which is quite out of character for a known hermit who does not enjoy being around people.
 
@@ -255,14 +255,14 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — Ruan Mei Character Story: Part III
 
-    ![nous](https://media.discordapp.net/attachments/887963616182145044/1170089235030741063/image.png?ex=65d8f884&is=65c68384&hm=09db441f69d04afb77c885bedd17cd55b353d0ca1745049379b75587c568d4a6&=&format=webp&quality=lossless&width=1161&height=655)
+    ![nous](assets/images/lore/nous.png)
 
 === "Tayzzyronth"
     > *"Tayzzyronth the Propagation! I don't know why Ruan Mei is so interested in them. Perhaps because they made such a ruckus with the Swarm Disaster they created."*
     >
     > — Herta, about Tayzzyronth
 
-    ![lab](https://media.discordapp.net/attachments/887963616182145044/1196838969296560218/1345669.png?ex=65b91626&is=65a6a126&hm=764fa33a4cd580a0fc5846159f506e746b49102f9bccfdf8a71ab3240edd5b3f&=&format=webp&quality=lossless&width=1165&height=655)
+    ![lab](assets/images/lore/lab.png)
 
 </div>
 
@@ -275,7 +275,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     > — Ruan Mei, about her name
 
     <figure markdown>
-      ![letter](https://media.discordapp.net/attachments/887963616182145044/1207948956038856805/image.png?ex=65e18121&is=65cf0c21&hm=63fa1df805b3649e322320b4626bf773630fae9c8dd20a1a332976230533cda6&=&format=webp&quality=lossless&width=825&height=463)
+      ![letter](assets/images/lore/letter.png)
       <figcaption>Ruan Mei is shown writing to her mother about their past.</figcaption>
     </figure>
 
@@ -306,7 +306,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     Ruan Mei fails to understand the emotions of the lifeforms she has created, and she does not seem to have much connection towards them. Unsurprisingly, Ruan Mei's creations view her as a mother figure. It is only natural instinct to feel love towards the person who created you. However, Ruan Mei truly cannot understand this. She knows that her creations love her and view her as their guardian, but she cannot comprehend why they feel that way or why she should reciprocate their love.
 
     <figure markdown>
-      ![creations](https://media.discordapp.net/attachments/1106792336668753971/1189870513846222928/ruan_mei_creations.png?ex=659fbc45&is=658d4745&hm=5494f90b45e08fa44145a58e3242b7e9fd2493bc87194752e3d4699cd650468e&=&format=webp&quality=lossless&width=1224&height=655)
+      ![creations](assets/images/lore/ruan_mei_creations.png)
       <figcaption>Ruan Mei's creations yearn for her love.</figcaption>
     </figure>
 
@@ -315,7 +315,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     When Ruan Mei leaves Herta Space Station to continue with her research, leaving behind her critters, she still asks the Trailblazer about them. She is concerned for their wellbeing, and she even asks for a "family picture" of her critters later on. Ruan Mei acknowledges the existence of prominent critters such as Ashy Paste and Molten Cheese Tart, who wrote a letter of support to her, and she genuinely hopes that the two will get along well.
 
     <figure markdown>
-      ![letter](https://media.discordapp.net/attachments/1106791361157541898/1207637938159231006/molten-cheese-tart-and-ashy-paste-letter-to-ruan-mei-seen-v0-cxv4pfxshd9c1.png?ex=65e05f79&is=65cdea79&hm=83ed8b0db05d9f7c70e892033e1fa7cd6b32cb9a96b27fee5a0415cb9832ba54&=&format=webp&quality=lossless&width=1440&height=634)
+      ![letter](assets/images/lore/creationsletter.png)
       <figcaption>"Walk your own path, Ruan Mei! We'll always support you!"</figcaption>
     </figure>
 
