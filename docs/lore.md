@@ -385,7 +385,7 @@ What Aeon would Ruan Mei be if she ended up becoming one? The most possible ones
 ### Being a member of the Sanctus Medicus
 This theory is quite interesting and has little backing, but it is still something worth considering. The basis for this theory is the Golden Badge that can be obtained via Bailu's Companionship Quest.
 
-![badge](https://postimg.cc/phnfZR70){ align=left
+![badge](https://postimg.cc/phnfZR70){ align=left }
 
 ### Reviving her Parents
 It has been stated already that Ruan Mei's relationship with love and her parents was quite odd. More importantly though, after her parents' deaths, Ruan Mei states that it was a shame that she could not protect her parents, breaking the promise she had made.
