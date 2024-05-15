@@ -359,7 +359,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     In the main story, Ruan Mei uses the Traiblazer's reputation, trust, and abilities to her advantage. The Trailblazer is easily swayed, to the point of consuming an anti-truth serum given by Ruan Mei, which allows Ruan Mei to easily get the Trailblazer to do her bidding. Of course, while this is definitely behavior that should not be encouraged, Ruan Mei makes sure to reward the Trailblazer. She believes in having an incentive for everything, so she assures that the Trailblazer will sufficiently benefit from helping her and stands by her word.
 
     <figure markdown>
-      ![tb](https://postimg.cc/mcMmVY0f)
+      ![tb](https://postimg.cc/mcMmVY0f/image.png)
       <figcaption>The Trailblazer meets Ruan Mei in person for the first time.</figcaption>
     </figure>
 
@@ -385,7 +385,7 @@ What Aeon would Ruan Mei be if she ended up becoming one? The most possible ones
 ### Being a member of the Sanctus Medicus
 This theory is quite interesting and has little backing, but it is still something worth considering. The basis for this theory is the Golden Badge that can be obtained via Bailu's Companionship Quest.
 
-![badge](https://postimg.cc/phnfZR70){ align=left }
+![badge](https://postimg.cc/phnfZR70/image.png){ align=left }
 
 ### Reviving her Parents
 It has been stated already that Ruan Mei's relationship with love and her parents was quite odd. More importantly though, after her parents' deaths, Ruan Mei states that it was a shame that she could not protect her parents, breaking the promise she had made.
