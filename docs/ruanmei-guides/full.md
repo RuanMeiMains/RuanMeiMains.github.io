@@ -3,7 +3,7 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 ---
 
 # Ruan Mei Full Guide ❀
-##### _Updated for 2.0; Written by sealary and mr.swedishfish, Edited by xiaomein, m4raku, and euphriia, Calculations provided by agentyoda, m4raku, drachk, and sealary_
+##### _Updated for 2.0; Written by sealary and mr.swedishfish, Edited by m4raku, and euphriia, Calculations provided by agentyoda, m4raku, drachk, and sealary_
 > _"Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — it is a gift."_
 
 ![ruanmei](../assets/images/guides/full/drip.png)
