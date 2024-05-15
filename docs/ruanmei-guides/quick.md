@@ -3,7 +3,7 @@ description: Check out the Ruan Mei Quick Guide by Ruan Mei Mains!
 ---
 
 # Ruan Mei Quick Guide ❀
-##### _Updated for 1.6; Written by mr.swedishfish, Edited by xiaomein_
+##### _Updated for 1.6; Written by mr.swedishfish, Edited by sealary
 > _"We may accelerate or postpone the arrival of death, but life will always wither. Though we will one day all be reduced to particles, we can still reach new heights."_
 
 ![ruanmei](../assets/images/lore/ruan_mei_trailer_1.gif)
