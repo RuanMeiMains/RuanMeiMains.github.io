@@ -51,7 +51,7 @@ Ruan Mei lacks empathy and doesn't form closer relationships with anyone. Accord
   <figcaption>Ruan Mei is a solitary person who enjoys being alone.</figcaption>
 </figure>
 
->*"She is certain that she won't make another mistake. It's because she no longer trusted anyone, so she won't be let down again, and... she won't let anyone else down again."*
+> *"She is certain that she won't make another mistake. It's because she no longer trusted anyone, so she won't be let down again, and... she won't let anyone else down again."*
 >
 > — Ruan Mei Character Story: Part IV
 
@@ -68,7 +68,7 @@ In the Simulated Universe, Ruan Mei is best known for her famous Occurrence, one
 
 > *"Perhaps I'll encounter new friends in the meantime, but I'm not sure... I sometimes wonder whether I'm able to get along well with others."*
 >
->  — Ruan Mei, about close relationships
+> — Ruan Mei, about close relationships
 
 This is the incentive Ruan Mei gives to the playerbase, the Trailblazer. Her Occurrence is an example of the "reward" she gives us in order to make the Trailblazer do her bidding. This, along with Ruan Mei's sweet words and actions, gives the Trailblazer an illusion of receiving "love" from her. Even if she does not truly care for the Trailblazer, or anyone for that matter, she understands that the Trailblazer is useful to her, and she acts accordingly to gain what she needs from the Trailblazer.
 
@@ -158,10 +158,10 @@ Ruan Mei also may be from the Xianzhou Alliance, due to her home world being ble
 
 ### Simulated Universe
 > *"I nurture the prototypes of the universe and the Aeons."*
+THIS SECTION IS UNDER CONSTRUCTION.
 
 ### Other Experiments
-- fragmentum creecher
-- creating a genius
+THIS SECTION IS UNDER CONSTRUCTION.
 
 ## Relationships
 
@@ -269,12 +269,16 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 
     ![nous](assets/images/lore/nous.png)
 
+    THIS SECTION IS UNDER CONSTRUCTION.
+
 === "Tayzzyronth"
     > *"Tayzzyronth the Propagation! I don't know why Ruan Mei is so interested in them. Perhaps because they made such a ruckus with the Swarm Disaster they created."*
     >
     > — Herta, about Tayzzyronth
 
     ![lab](assets/images/lore/lab.png)
+
+    THIS SECTION IS UNDER CONSTRUCTION.
 
 </div>
 
@@ -306,7 +310,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — Ruan Mei Character Story: Part IV
 
-    - grandma is in the intelligentsia guild
+    THIS SECTION IS UNDER CONSTRUCTION.
 
 
 </div>
@@ -364,17 +368,23 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 </div>
 
 ## Theories
-Below are some possible theories about Ruan Mei. Please keep in mind that these theories are not confirmed to be true and are simply inferences based on the currently available material on Ruan Mei. 
+Below are some possible theories about Ruan Mei. Please keep in mind that these theories are not confirmed to be true and are simply inferences based on the currently available material on Ruan Mei. (THESE SECTIONS ARE UNDER CONSTRUCTION)
 
 ### Becoming an Aeon
-It is no question that Ruan Mei has considered the possibility of becoming an Aeon herself. This face has been made quite obvious in her Myriad Celestia trailer. However, many people don't know the reason for this. Ruan Mei's goal isn't necessarily to become an Aeon. Rather, it is a possibility that she is interested in if she ends up uncovering the mysteries and unknowns of Aeons. Theoretically, if Ruan Mei, someone who has created entirely new species, created worlds, and even created dimensions, can understand the biological code of an Aeon, then it is possible to create and even become one. She is already quite close, as she has created a replica of an Emanator already.
+It is no question that Ruan Mei has considered the possibility of becoming an Aeon herself. This face has been made quite obvious in her Myriad Celestia trailer. However, many people don't know the reason for this. 
+
+Ruan Mei's goal isn't necessarily to become an Aeon. Rather, it is a possibility that she is interested in if she ends up uncovering the mysteries and unknowns of Aeons. Theoretically, if Ruan Mei, someone who has created entirely new species, created worlds, and even created dimensions, can understand the biological code of an Aeon, then it is possible to create and even become one. She is already quite close, as she has created a replica of an Emanator already.
 
 The issue is that Aeons are complicated, variable, and not like other lifeforms. In the Star Rail universe, Aeons are something of a godly being, something that differs from normal creatures. They don't follow the same biological rules as other specimen in the universe. Thus, it is difficult to understand what makes an Aeon. How does one ascend to Aeonhood? Can one be born as an Aeon? What defines an Aeon? The answer to these questions defy science and logic, and to Ruan Mei, a biologist, it is something that she finds fascinating. If Ruan Mei can find the answer to these questions and truly understand all there is to Aeons, then not only can she potentially create an Aeon herself, she can even become one.
 
-To summarize, Ruan Mei doesn't necessarily *want* to become an Aeon. She doesn't care about gaining power or ascending to Aeonhood. She simply wants to understand them and test the limits of her understanding, as it is one of the few biological topics she cannot understand. If she truly understands Aeons, then she can create or become one. She has similarly proven her understanding of living beings by creating new species. Funnily enough, Ruan Mei is already disconnected from society and people and has an extreme obsession with something (creation and understanding life), so she is ironically already on track to become an Aeon.
+To summarize, Ruan Mei doesn't necessarily *want* to become an Aeon. She doesn't care about gaining power or ascending to Aeonhood. She simply wants to understand them and test the limits of her understanding, as it is one of the few biological topics she cannot understand. If she truly understands Aeons, then she can create or become one. She has similarly proven her understanding of living beings by creating new species. Funnily enough, Ruan Mei is already disconnected from society and people and has an extreme obsession with something (creation and understanding life), so she is ironically already on track to become an Aeon. 
+
+What Aeon would Ruan Mei be if she ended up becoming one? The most possible ones would be the Aeon of Origin, Aeon of Creation, or Aeon of Life. There is already an Aeon of Finality, so an Aeon of Origin would balance it out according to HooH's equilibrium. An Aeon of Creation would be possible as well, as Ruan Mei is already regarded as a "master of creation." The least likely of the three would be the Aeon of Life, as it is a bit too similar to the Aeon of Abundance. 
 
 ### Being a member of the Sanctus Medicus
-This theory is quite interesting and has little backing, but it is still something worth considering.
+This theory is quite interesting and has little backing, but it is still something worth considering. The basis for this theory is the Golden Badge that can be obtained via Bailu's Companionship Quest.
+
+![badge](https://postimg.cc/phnfZR70){ align=left
 
 ### Reviving her Parents
 It has been stated already that Ruan Mei's relationship with love and her parents was quite odd. More importantly though, after her parents' deaths, Ruan Mei states that it was a shame that she could not protect her parents, breaking the promise she had made.
