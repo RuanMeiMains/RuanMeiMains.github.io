@@ -14,11 +14,11 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 <div class="grid cards" markdown>
 
--   **Our website is finally live!**
+-   **Website images are fixed!**
 
     ---
 
-    Our website is in its early stages with some unfinished parts, but you can check out our various resources, guides, and social platforms here! We will be regularly updating and expanding our website, so feedback is welcome!
+    After a long wait, images on our website are finally fixed! There may be some minor resizing/position issues, but we'll get to them when we can.
 
 
 -   **Our Ruan Mei Guide is updated for 2.0!**
@@ -30,13 +30,13 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
     [:material-arrow-right: Check it out!](ruanmei-guides/full.md "Ruan Mei Full Guide")
 
 
--   **New vanity roles in our Discord server!**
+-   **Our Ruan Mei Lore Analysis page is being updated!**
 
     ---
 
-    Our server now has roles for those who have Max Traced Ruan Mei, cleared MOC with 36 stars, cleared PF with 12 stars, received Ruan Mei during her first banner, and more! Check how to qualify and apply for these roles by sending `/info` and `/submit` with our Role Submission bot!
+    Interested in Ruan Mei's lore? Need an in-depth analysis of Ruan Mei's complex character? Our Ruan Mei Lore Analysis is being updated! Some sections are still under construction or in need of some editing, but there is a lot of insightful information there!
 
-    <a href="https://discord.gg/ruanmei" target="_blank">:material-arrow-right: Head to our Discord server!</a>
+    [:material-arrow-right: Check it out!](lore.md "Ruan Mei Lore Analysis")
 
 -   **Our server shop is open!**
 
