@@ -3,7 +3,7 @@ description: Check out the Ruan Mei Quick Guide by Ruan Mei Mains!
 ---
 
 # Ruan Mei Quick Guide ❀
-##### _Updated for 1.6; Written by mr.swedishfish, Edited by sealary
+##### _Updated for 1.6; Written by mr.swedishfish, Edited by sealary_
 > _"We may accelerate or postpone the arrival of death, but life will always wither. Though we will one day all be reduced to particles, we can still reach new heights."_
 
 ![ruanmei](../assets/images/lore/ruan_mei_trailer_1.gif)
@@ -63,7 +63,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
 === "E1: Neuronic Embroidery"
     
-    ![e1](../assets/images/guides/1303_Rank_1.png){ align=left }
+    ![e1](../assets/images/guides/1303_Rank_1.png){ align=left width=200 }
 
     While the Ultimate's field is deployed, the DMG dealt by all allies ignores 20% of the target's DEF.
 
@@ -73,7 +73,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
 === "E2: Reedside Promenade"
 
-    ![e2](../assets/images/guides/1303_Rank_2.png){ align=left }
+    ![e2](../assets/images/guides/1303_Rank_2.png){ align=left width=200 }
 
     With Ruan Mei on the field, all allies increase their ATK by 40% when dealing damage to enemies with Weakness Break.
 
@@ -83,7 +83,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
 === "E3: Viridescent Pirouette"
 
-    ![e3](../assets/images/guides/1303_Rank_3.png){ align=left }
+    ![e3](../assets/images/guides/1303_Rank_3.png){ align=left width=200 }
 
     Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15.
 
@@ -93,7 +93,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
 === "E4: Chatoyant Éclat"
 
-    ![e4](../assets/images/guides/1303_Rank_4.png){ align=left }
+    ![e4](../assets/images/guides/1303_Rank_4.png){ align=left width=200 }
 
     When an enemy target's Weakness is Broken, Ruan Mei's Break Effect increases by 100% for 3 turn(s).
 
@@ -103,7 +103,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
 === "E5: Languid Barrette"
 
-    ![e5](../assets/images/guides/1303_Rank_5.png){ align=left }
+    ![e5](../assets/images/guides/1303_Rank_5.png){ align=left width=200 }
 
     Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10.
 
@@ -113,7 +113,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
 === "E6: Sash Cascade"
 
-    ![e6](../assets/images/guides/1303_Rank_6.png){ align=left }
+    ![e6](../assets/images/guides/1303_Rank_6.png){ align=left width=200 }
 
     Extends the duration of the Ultimate's field by 1 turn(s). The Talent's Break DMG multiplier additionally increases by 200%.
 
