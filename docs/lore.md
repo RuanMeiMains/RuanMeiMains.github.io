@@ -3,7 +3,7 @@ description: Take a deeper dive into Ruan Mei's lore and learn about her charact
 ---
 
 # Ruan Mei Lore Analysis
-##### *Written by mr.swedishfish and euphriia, Edited by rei_dayo* | MANY SECTIONS ARE UNDER CONSTRUCTION
+##### *Written by mr.swedishfish and euphriia* | MANY SECTIONS ARE UNDER CONSTRUCTION
 > *"Life exists during a very short window of time, all destined to wilt in the end."*
 
 ![ruanmei](assets/images/lore/ruan_mei_demo.gif)
