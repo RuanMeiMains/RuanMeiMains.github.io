@@ -12,7 +12,7 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 ## Guide Updates
 ??? edit "Patch 2.3 Updates"
 
-    ### Guide Updates (Patch 2.3)
+    ## Guide Updates (Patch 2.3)
     The following are the newest additions and changes to our guide with the release of patch 2.3.
 
     ### New Character Comparisons
@@ -34,7 +34,7 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 
 ??? edit "Patch 2.0 Updates"
 
-    ### Guide Updates (Patch 2.0)
+    ## Guide Updates (Patch 2.0)
     The following are the newest additions and changes to our guide with the release of patch 2.0.
 
     ### New Relic Set: Watchmaker, Master of Dream Machinations
