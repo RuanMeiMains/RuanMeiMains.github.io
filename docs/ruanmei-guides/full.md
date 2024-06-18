@@ -3,24 +3,46 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 ---
 
 # Ruan Mei Full Guide ❀
-##### _Updated for 2.0; Written by sealary and mr.swedishfish, Edited by m4raku, and euphriia, Calculations provided by agentyoda, m4raku, drachk, and sealary_
+##### _Updated for 2.3; Written by sealary and mr.swedishfish, Edited by m4raku, nv50, and euphriia, Calculations provided by agentyoda, m4raku, drachk, and sealary_
 > _"Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — it is a gift."_
 
 ![ruanmei](../assets/images/guides/full/drip.png)
 
-## Guide Updates (Patch 2.0)
-The following are the newest additions and changes to our guide with the release of patch 2.0.
+??? edit "Guide Updates (Patch 2.3)"
 
-### New Relic Set: Watchmaker, Master of Dream Machinations
-![watchmaker](../assets/images/guides/full/watchmaker.png){ align=left width=100 } This new relic set not only increases Break Effect for Ruan Mei by a hefty amount, it also increases Break Effect for the entire team. Due to this new Break Effect-focused relic set, many may wonder if making the switch to this set is necessary for Ruan Mei. Find out what set is right for you by checking out our updated [4PC Relic Set Recommendations](#4pc-relic-recommendations "4PC Relic Set Recommendations") for Ruan Mei!
+    ## Guide Updates (Patch 2.3)
+    The following are the newest additions and changes to our guide with the release of patch 2.3.
 
-### New Light Cone: Earthly Escapade
-![sparklelc](../assets/images/guides/full/sparklelc.png){ align=left width=100  } With the release of Sparkle, the newest and second limited Harmony character, comes a new 5-star light cone. How does this light cone compare to other existing options? Is it better than Bronya's light cone? Maybe even Meshing Cogs? Is it worth pulling if you've missed Ruan Mei's last light cone banner? Find out by checking out our updated [Light Cone Recommendations](#light-cones "Light Cone Recommendations") for Ruan Mei!
+    ### New Character Comparisons
+    ![hmc](../assets/images/guides/full/hmcf.png){ align=left width=100 } Following the patch 2.2 story update, **Harmony Trailblazer** is the newest break-focused Harmony character added to the game. As the protagonist, they are free to obtain and a great budget alternative to Ruan Mei. How does the Trailblazer compare to Ruan Mei in break teams? Find out by checking out our updated [Character Comparisons](#character-comparisons "Character Comparisons") section!
 
-### Updated Synergy and Anti-Synergies
-![misha](../assets/images/guides/full/misha.png){ align=left width=100  } **Misha** joins the growing number of Ice DPS characters following the patch 2.0 update. Because of the Penacony, Land of Dreams relic set, which encourages the usage of Ice DPS characters with Ruan Mei, and his rarity, Misha is a potential budget option to use with Ruan Mei. His ultimate, which freezes enemies, pairs well with Ruan Mei's weakness break extension, causing enemy actions to be further delayed. With Misha's freeze and Ruan Mei's delay, enemies won't even have a chance to act! Read more about Ruan Mei's best and not-as-great teammates in our [Teammates Section](#teammates "Teammates Section").
+    ![robin](../assets/images/guides/full/robin1.png){ align=left width=100 } **Robin**, Penacony's beloved singer and follower of Xipe, joins the game's roster of outstanding limited 5-star Harmony characters alongside Sparkle and Ruan Mei. Like Ruan Mei and unlike Sparkle, Robin is focused on teamwide buffs, making her a decent competitor to Ruan Mei. While Robin clearly shines the most in FUA teams, she, like the other limited 5-star Harmony characters, is a great option for general use as well. Who is the true queen of Harmony, however? Check out our updated [Character Comparisons](#character-comparisons "Character Comparisons") section to find out!
 
-**Seele** has been added to the list of anti-synergies with Ruan Mei due to the fact that Ruan Mei can "steal" Seele's kills, preventing her from triggering her Resurgence passive. However, Ruan Mei is still a top pick for Seele due to her universal buffs.
+    ### New Light Cone: Flowing Nightglow
+    ![robinlc](../assets/images/guides/full/flowing-nightglow.png){ align=left width=100 } With Robin's release comes a new 5-star Harmony light cone. While it's obvious it is tailored for Robin, how does this light cone compare to Ruan Mei's other amazing options? Does it compare to Sparkle's or Bronya's light cones? Find out by checking out our updated [Light Cone Recommendations](#light-cones "Light Cone Recommendations") for Ruan Mei!
+
+    ### Updated Synergies
+    ![hmc](../assets/images/guides/full/hmcm.png){ align=left width=100 } While **Harmony Trailblazer** may be seen as a direct competitor to Ruan Mei, as both characters are focused on buffing break damage characters, HMC actually works incredibly well with Ruan Mei as a teammate! Both characters provide different buffs, meaning there will be no diminishing returns in buffs, yet both effectively support break-DMG DPS characters. In break-focused teams, pairing HMC and Ruan Mei together is a must. Read more about Ruan Mei's best and not-as-great teammates in our [Teammates Section](#teammates "Teammates Section").
+
+    ![boothill](../assets/images/guides/full/boothill.png){ align=left width=100 } Following the 2.2 patch update comes the game's first ever limited 5* break-focused character. Boothill, the foul-mouthed and optimistic Galaxy Ranger, can implant Physical Weakness on enemies. His Pocket Trickshot talent greatly benefits from Ruan Mei's Weakness Break extension, Weakness Break efficiency increase, and Break Effect increase. This, along with Boothill's enemy action delay, is a great defensive and offensive combination for your team!
+
+    ![firefly](../assets/images/guides/full/boothill.png){ align=left width=100 } Patch 2.3 features the fan-favorite and long-awaited Stellaron Hunter, Firefly, also known as SAM. Ironically (due to their relations to the Swarm Disaster), these two characters work extremely well together. Like Boothill, Firefly can implant Fire Weakness on enemies, allowing her to break enemies more easily. Furthermore, Firefly can reduce the Toughness of enemies without Fire Weakness on her ultimate. Due to Firefly's damage being reliant on Super Break, Firefly greatly benefits from Ruan Mei's Weakness Break extension, Weakness Break efficiency increase, and Break Effect increase. As Firefly's first banner is running alongside Ruan Mei's rerun, it is necessary to try to obtain both characters if you plan to pull for Firefly. Ruan Mei is a must-have for this Stellaron Hunter!
+
+??? edit "Guide Updates (Patch 2.0)"
+
+    ## Guide Updates (Patch 2.0)
+    The following are the newest additions and changes to our guide with the release of patch 2.0.
+
+    ### New Relic Set: Watchmaker, Master of Dream Machinations
+    ![watchmaker](../assets/images/guides/full/watchmaker.png){ align=left width=100 } This new relic set not only increases Break Effect for Ruan Mei by a hefty amount, it also increases Break Effect for the entire team. Due to this new Break Effect-focused relic set, many may wonder if making the switch to this set is necessary for Ruan Mei. Find out what set is right for you by checking out our updated [4PC Relic Set Recommendations](#4pc-relic-recommendations "4PC Relic Set Recommendations") for Ruan Mei!
+
+    ### New Light Cone: Earthly Escapade
+    ![sparklelc](../assets/images/guides/full/sparklelc.png){ align=left width=100 } With the release of Sparkle, the newest and second limited Harmony character, comes a new 5-star light cone. How does this light cone compare to other existing options? Is it better than Bronya's light cone? Maybe even Meshing Cogs? Is it worth pulling if you've missed Ruan Mei's last light cone banner? Find out by checking out our updated [Light Cone Recommendations](#light-cones "Light Cone Recommendations") for Ruan Mei!
+
+    ### Updated Synergy and Anti-Synergies
+    ![misha](../assets/images/guides/full/misha.png){ align=left width=100 } **Misha** joins the growing number of Ice DPS characters following the patch 2.0 update. Because of the Penacony, Land of Dreams relic set, which encourages the usage of Ice DPS characters with Ruan Mei, and his rarity, Misha is a potential budget option to use with Ruan Mei. His ultimate, which freezes enemies, pairs well with Ruan Mei's Weakness Break extension, causing enemy actions to be further delayed. With Misha's freeze and Ruan Mei's delay, enemies won't even have a chance to act! Read more about Ruan Mei's best and not-as-great teammates in our [Teammates Section](#teammates "Teammates Section").
+
+    **Seele** has been added to the list of anti-synergies with Ruan Mei due to the fact that Ruan Mei can "steal" Seele's kills, preventing her from triggering her Resurgence passive. However, Ruan Mei is still a top pick for Seele due to her universal buffs.
 
 ## Introduction
 Ruan Mei is a 5-star Ice Harmony character and Member #81 of the Genius Society. As the first-ever limited 5-star Harmony character, Ruan Mei faces high expectations. These expectations especially concern her performance in relation to other high-value Harmony characters, such as Tingyun, Bronya, and Asta, as well as her overall utility and usage. Does she hold a candle to them, or is she outshined by their incredible support value? Read this guide to learn how to optimize Ruan Mei effectively, find out her best builds, and see how she can fit into your teams!
@@ -39,6 +61,9 @@ Ruan Mei is a support character capable of increasing allies' Weakness Break Eff
 *[4T ult]: 4-Turn Ultimate
 *[MotP]: Memories of the Past
 *[PSiM]: Past Self in Mirror
+*[HMC]: Harmony Trailblazer
+*[FUA]: Follow-up Attack
+*[BiS]: Best in Slot
 
 If you need a quick overview on Ruan Mei and how to build her, you can check the infographic below or check our [Quick Guide](quick.md "Ruan Mei Quick Guide").
 
@@ -99,7 +124,7 @@ If you are unsure if you are able to achieve a 3T or 4T ultimate with what you h
 Ruan Mei's traces are mainly focused on buffing her allies, specifically around break mechanics. She relies on a high amount of break effect, and she buffs Break Effect and Weakness Break Efficiency for her allies.
 
 ### Trace Priority
-![tracepriority](../assets/images/guides/ruan_mei_trace_priority_1.png)
+![tracepriority](../assets/images/guides/trace.png)
 
 Ruan Mei's value comes from her ultimate and her skill. As a Harmony character, she focuses on buffing her allies rather than dealing high amounts of damage. Her ultimate and skill boost her allies' damage, her ultimate increases the RES PEN(1) of her allies, and her skill increases the overall damage and Weakness Break Efficiency of her allies. This causes these two traces to be her most valued traces and the ones that should receive the most priority.
 { .annotate }
@@ -199,7 +224,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
 ## Eidolons
 
-Most players won't be pulling for eidolons, but in case you are someone who wants to know which eidolon is the best, we have you covered. If you manage to get lucky or have some extra funds, it is recommended to pull for Ruan Mei's E1. Her first eidolon is extremely powerful and offers a free DEF shred. Between E1 and signature LC, definitely pull for Ruan Mei's E1. 
+Most players won't be pulling for eidolons, especially because Ruan Mei's base kit is already amazing, but in case you are someone who wants to know which eidolon is the best, we have you covered. If you manage to get lucky or have some extra funds, it is recommended to pull for Ruan Mei's E1. Her first eidolon is extremely powerful and offers a free DEF shred. **Between E1 and signature LC, definitely pull for Ruan Mei's E1.** 
 
 ### Eidolon Comparisons
 
@@ -275,15 +300,16 @@ _Comparison graph will be added soon..._
 
 Ruan Mei's light cone situation is quite interesting. Her signature light cone, while it is quite good due to the raw stats it offers, does not provide enough energy to achieve 3T ult. This makes other budget-friendly options a viable choice for Ruan Mei, and some can even compare to or outperform Ruan Mei's signature light cone. We won't deny that Ruan Mei's light cone is extremely beautiful, though. If you are unsure of which light cone works best for your energy needs, check out our [Energy Requirements](#energy-requirements "Ruan Mei Energy Requirements") section.
 
-| Light Cone  | Mathematical Comparisons | Notes                                |
-| ----------- | -------------------------------- | ------------------------------------ |
-| ![sig](../assets/images/guides/past-self-in-mirror-item_icon.png)|               TBD%                 |  **Past Self in Mirror** is Ruan Mei's signature and best in slot light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, you only need to be hit once or twice to achieve a 3T ult. The other benefits it provides, including high SP positivity, are quite powerful as well, allowing it to slightly edge out S5 MotP. It greatly reduces the need for Break Effect, allowing you to invest in other stats.|
-| ![motps5](../assets/images/guides/memories-of-the-past-item_icon.png)     | TBD% | **Memories of the Past** is Ruan Mei's best 4-star light cone and a great budget alternative to PSiM. It provides Ruan Mei's most needed stats, Break Effect and energy. At **S3+**, Ruan Mei only needs to be hit once to ensure a 3T ultimate. At **S5**, it competes with PSiM because it guarantees a 3T ultimate. |
-| ![cogs](../assets/images/guides/quick/meshing_coggers.png)  | TBD% | **Meshing Cogs**, a popular budget light cone choice for Harmony characters due to the energy it provides, is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S2 Memories of the Past due to the energy it provides. However, because it does not provide Break Effect, it performs worse than PSiM and S5 MotP.|
-| ![sparklelc](../assets/images/guides/full/earthly-escapade-item_icon.png) | TBD% | **Earthly Escapade** is Sparkle's signature light cone. While it doesn't provide any energy, which also means its crit buff passive only has about 50% uptime, the buffs it provides still prove useful. However, it is a much more viable option for Sparkle, as it is tailor-made for her.
-| ![dance](../assets/images/guides/dance-dance-dance-item_icon.png) | TBD% | **Dance! Dance! Dance!** is a possible option due to its basic utility, which advances forward all allies upon casting the wearer's ultimate. However, because it does not provide any of Ruan Mei's needed stats, it is not recommended over the above options.
-| ![planetary](../assets/images/guides/planetary-rendezvous-item_icon.png) | TBD% | **Planetary Rendezvous** is an option for Ruan Mei if you are using her in Ice teams. However, Ruan Mei already provides DMG buffs for her allies, and having more leads to diminishing returns. Furthermore, this light cone does not provide Break Effect or Energy, Ruan Mei's most needed stats.
-| ![bronya](../assets/images/guides/but-the-battle-isnt-over-item_icon.png) | TBD% | **But the Battle Isn't Over**, Bronya's signature light cone, is generally NOT recommended unless at high superimpositions. The only part of it that benefits Ruan Mei is the energy it provides, but it is not enough to justify using it over the above options.
+| Light Cone  |Notes                                |
+| ----------- |------------------------------------ |
+| ![sig](../assets/images/guides/past-self-in-mirror-item_icon.png)|  **Past Self in Mirror** is Ruan Mei's signature and best in slot light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, you only need to be hit once or twice to achieve a 3T ult. The other benefits it provides, including high SP positivity, are quite powerful as well, allowing it to slightly edge out S5 MotP. It greatly reduces the need for Break Effect, allowing you to invest in other stats. Ironically, **this light cone performs much better on HMC than on Ruan Mei**. If you are deciding whether to pull for E1 or S1, **pull for E1**.|
+| ![motps5](../assets/images/guides/memories-of-the-past-item_icon.png)     | **Memories of the Past** is Ruan Mei's best 4-star light cone and a great budget alternative to PSiM. It provides Ruan Mei's most needed stats, Break Effect and energy. At **S3+**, Ruan Mei only needs to be hit once to ensure a 3T ultimate. At **S5**, it competes with PSiM because it guarantees a 3T ultimate. If you already have S5 MotP, it is generally not recommended to pull for PSiM because the difference between the two light cones is marginal. The only exceptions to this is if you plan to use HMC with Ruan Mei and don't have two S5 MotPs on hand. |
+| ![cogs](../assets/images/guides/quick/meshing_coggers.png)  | **Meshing Cogs**, a popular budget light cone choice for Harmony characters due to the energy it provides, is a very viable option for Ruan Mei. Because it is a 3-star light cone, it is easily accessible for F2P players. At **S5**, this light cone outperforms S2 MotP due to the energy it provides. However, because it does not provide Break Effect, it generally performs worse than PSiM and S5 MotP. Still, if the minimum Break Effect can be achieved, this light cone is a very strong option for Ruan Mei. |
+| ![sparklelc](../assets/images/guides/full/earthly-escapade-item_icon.png) | **Earthly Escapade** is Sparkle's signature light cone. While it doesn't provide any energy, which also means its crit buff passive only has about 50% uptime, the buffs it provides still prove useful. However, it is a much more viable option for Sparkle, as it is tailor-made for her.
+| ![robinlc](../assets/images/guides/full/flowingnightglow.png) | **Flowing Nightglow** is Robin's signature light cone. This lightcone may be a great source of energy, especially if your team consists of characters who attack a lot. It can also provide a decent damage boost. However, the damage boost has only about a 33% uptime, and Ruan Mei doesn't make much use of the attack buff unless she's at E6. Thus, this light cone is a much more viable option for Robin, as it is tailor-made for her.
+| ![dance](../assets/images/guides/dance-dance-dance-item_icon.png) | **Dance! Dance! Dance!** is a possible option due to its basic utility, which advances forward all allies upon casting the wearer's ultimate. However, because it does not provide any of Ruan Mei's needed stats, it is not recommended over the above options.
+| ![planetary](../assets/images/guides/planetary-rendezvous-item_icon.png) |**Planetary Rendezvous** is an option for Ruan Mei if you are using her in Ice teams. However, Ruan Mei already provides DMG buffs for her allies, and having more leads to diminishing returns. Furthermore, this light cone does not provide Break Effect or Energy, Ruan Mei's most needed stats.
+| ![bronya](../assets/images/guides/but-the-battle-isnt-over-item_icon.png) | **But the Battle Isn't Over**, Bronya's signature light cone, is generally NOT recommended unless at high superimpositions. The only part of it that benefits Ruan Mei is the energy it provides, but it is not enough to justify using it over the above options.
 
 
 ## Relic Sets
@@ -292,7 +318,9 @@ Ruan Mei mainly needs Break Effect, SPD, and Energy Regeneration Rate, as those 
 
 When choosing a relic set for Ruan Mei, prioritize reaching 180% Break Effect (160% without Ruan Mei's Inert Respiration trace) first. If you are lacking Break Effect, it may be better to run a relic set that provides more Break Effect, depending on what you need. If you are able to cast Ruan Mei's ultimate often and reach the required amount of Break Effect without a Break Effect relic set, then 4PC Hackerspace is recommended. Otherwise, consider using a 2PC 2PC alternative or even a different set.
 
-For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2PC Hackerspace. When choosing to farm between Watchmaker and Thief, choose the set that is more fuel-efficient. If you need the Pioneer set, farm for Watchmaker. If you need the Boxing set, farm for Thief.
+Many players may thing that 4PC Watchmaker, the new break-focused relic set released in patch 2.0, is Ruan Mei's new BiS set. However, for general usage, Ruan Mei's other relic set options such as 4PC Messenger Traversing Hackerspace, 2PC Break Effect 2PC Messenger, and 4PC Thief of Shooting Meteor are better options. 4PC Watchmaker is definitely viable, but its 4PC passive is only useful in teams with a break-focused DPS, such as Xueyi, Sushang, Firefly, and Boothill. Otherwise, the extra Break Effect is not all that needed. Furthermore, the passive only has about a 50%-60% uptime due to Ruan Mei's ultimate duration. In teams with break-focused DPS characters, though, especially if Ruan Mei is not short on her needed stats, 4PC Watchmaker is definitely a good option to use.
+
+For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2PC Hackerspace. When choosing to farm between Watchmaker and Thief, choose the set that is more fuel-efficient. If you need the Pioneer (debuff) set, farm for Watchmaker. If you need the Boxing (physical) set, farm for Thief.
 
 
 ### 4PC Relic Recommendations
@@ -306,8 +334,8 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     Increases SPD by 6%. When the wearer uses their Ultimate on an ally, SPD for all allies increases by 12% for 1 turn.
 
     * Increases personal SPD
-    * Increases SPD for all allies
-    * Only recommended if you have enough Break Effect and ultimate uptime
+    * Increases SPD for all allies (about 25%-33% uptime)
+    * Only recommended if you have enough Break Effect, SPD, and ultimate uptime
 
 === "2PC Thief/Watchmaker 2PC Hackerspace"
 
@@ -335,7 +363,7 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     Increases the wearer's Break Effect by 16%. Increases Break Effect of all allies (including the wearer) by 30% for 2 turns upon using Ultimate.
 
     * Greatly increases Break Effect
-    * Increases Break Effect for all allies
+    * Increases Break Effect for all allies (about 50%-66% uptime)
     * Only recommended if you are using a break-focused DPS
 
 </div>
@@ -373,6 +401,7 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
 
     * Increases Break Effect
     * Does not provide energy, so ultimate uptime will be lower
+    * Recommended if using Meshing Cogs
 
 === "Broken Keel"
 
@@ -386,11 +415,11 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
 </div>
 
 ### Relic Stats
-![stats](../assets/images/guides/ruan_mei_trace_priority_7.png)
+![stats](../assets/images/guides/relicstats.png)
 
 As mentioned before, Ruan Mei is a support character who is focused on buffing her allies. She is not meant to deal high amounts of damage. This means that it is better to focus on stats that will improve Ruan Mei's support capabilities. Defensive stats as well as supportive stats like SPD are appreciated, and as Ruan Mei scales off Break Effect, you will obviously need some Break Effect on your relics. It is very important to reach the recommended 180% (160% without Ruan Mei's Inert Respiration trace) Break Effect.
 
-For Ruan Mei's chest piece and planar sphere, choose whichever relic has better substats. HP and DEF are both equally needed for Ruan Mei. For her link rope, it is better to use an ERR rope, as Ruan Mei requires a lot of energy to optimize her ultimate uptime. However, if you are lacking Break Effect, or if you don't have an ERR rope, using a BE rope is fine. Using an ERR rope eventually is crucial, however.
+For Ruan Mei's chest piece and planar sphere, choose whichever relic has better substats. HP and DEF are both equally needed for Ruan Mei. For her link rope, it is better to use an ERR rope, as Ruan Mei requires a lot of energy to optimize her ultimate uptime. However, if you are lacking Break Effect, or if you don't have an ERR rope, using a BE rope for the time being is fine. Using an ERR rope eventually is crucial, however.
 
 ### Stat Priority
 ![statpriority](../assets/images/guides/ruan_mei_trace_priority_10.png)
@@ -433,13 +462,16 @@ Due to her universal buffs, such as SPD increase, DMG% increase, and All-Type RE
 
 | Character   | Notes                            |
 | ----------- | -------------------------------- |
-| ![asta](../assets/images/guides/asta.png) | **Asta** is a great budget option to use with Ruan Mei. She naturally has incredibly toughness damage, so she can break very often, which goes well with Ruan Mei's kit. Fire characters also have a high break multiplier, so a higher break effect allows for more break damage. Furthermore, both Asta and Ruan Mei buff speed, so you will be able to have several turns before the enemy does. Another great thing about Asta is that she buffs ATK% while Ruan Mei buffs DMG%, which allows for less diminishing returns.
+| ![asta](../assets/images/guides/asta.png) | **Asta** is a great budget option to use with Ruan Mei. She naturally has incredible toughness damage, so she can break very often, which goes well with Ruan Mei's kit. Fire characters also have a high break multiplier, so a higher break effect allows for more break damage. Furthermore, both Asta and Ruan Mei buff speed, so you will be able to have several turns before the enemy does. Another great thing about Asta is that she buffs ATK% while Ruan Mei buffs DMG%, which allows for less diminishing returns.
 | ![sw](../assets/images/guides/sw.png) | **Silver Wolf** is a teammate who will pair well with Ruan Mei. Her main gimmick revolves around weakness implant, and Ruan Mei is focused around teams who will break the enemy. Silver Wolf guarantees that your team will be able to break the enemy and use Ruan Mei to her full potential. Also, Silver Wolf's DEF shred is valuable, and she deals a decent amount of toughness break damage herself. She especially shines with Ruan Mei when using a break effect-focused build.
 | ![xueyi](../assets/images/guides/xueyi.png) | **Xueyi** gains a DMG boost based on her Break Effect, a stat that Ruan Mei increases for her allies. Furthermore, Xueyi's ultimate deals Toughness DMG regardless of their weakness element, which allows for easier breaking of the enemy. Xueyi is also a 4-star character, making her more accessible for F2P players.
 | ![sushang](../assets/images/guides/sushi.png) | **Sushang** benefits from Break Effect, and she benefits greatly from enemies being weakness broken, making her a great option to go with Ruan Mei. Additionally, Sushang has high Weakness Break Efficiency, which allows her to break often. Physical characters also have a high break multiplier, so a higher break effect allows for more break damage. Furthermore, Sushang is a 4-star character, which means she is more accessible for F2P players.
 | ![kafka](../assets/images/guides/kafka.png) | **Kafka** works extremely well with Ruan Mei. This is because Ruan Mei's buffs, such as RES PEN and DMG%, affect DoT, and DoT still occurs while enemies are weakness broken. Furthermore, breaking enemies also triggers DoT, and Ruan Mei allows her allies to break more often.
 | ![welt](../assets/images/guides/welt.png) | **Welt** deals 20% more DMG to enemies inflicted with Weakness Break, making him a great option to pair with Ruan Mei. He also slows enemies, which is a great utility to have and one that synergizes quite well with Ruan Mei. Ruan Mei's Weakness Break and SPD buffs paired with Welt's Slow debuffs make a great team.
 | ![misha](../assets/images/guides/full/misha.png) | **Misha** is a new 4-star Ice DPS character for patch 2.0. He benefits from the Penacony, Land of Dreams relic set on Ruan Mei as an Ice DMG dealer. Furthermore, due to his rarity, he is considered a budget option who is more accessible for F2P players. While he doesn't exactly benefit from Ruan Mei's Break Effect buffs, his ultimate, which can freeze enemies, can help further delay enemy actions.
+| ![hmc](../assets/images/guides/full/hmcf.png) | **Harmony Trailblazer** is a new free Harmony character for patch 2.2, as part of the Trailblazer's newest path switch. They work hand in hand with Ruan Mei as a powerful support duo for break-focused DPS characters. Ruan Mei's Weakness Break efficiency buff, Weakness Break extension, and Break Effect boost pairs especially well with HMC's Toughness Reduction buff, Break Effect boost, and Super Break. Their buffs don't have much overlap, which means they don't suffer from diminishing returns. When using a break-focused DPS character, using both HMC and Ruan Mei is a must.
+| ![boothill](../assets/images/guides/full/boothill.png) | **Boothill** is the first limited 5-star character who is focused on break mechanics, released in patch 2.2. His Pocket Trickshot benefits from enemies being Weakness Broken, and Boothill deals additional damage based on his Toughness damage, meaning that Ruan Mei is a great teammate for him. Boothill also implants Physical Weakness during his ultimate, allowing him to make better use of Ruan Mei's break-focused buffs. Physical characters also have a high break multiplier, so a higher break effect allows for more break damage.
+| ![firefly](../assets/images/guides/full/boothill.png) | **Firefly** is the second break-focused limited 5-star character, releasing in patch 2.3 alongside Ruan Mei's first rerun. Her damage is reliant on Break and Super Break mechanics, and she also can implant Fire Weakness and reduce the Toughness of enemies without Fire Weakness. As Firefly greatly benefits from enemies being Weakness Broken, Ruan Mei's Weakness Break efficiency buffs, Weakness Break extension, and Break Effect boost are very much needed buffs for Firefly. While these two characters may not get along lore-wise, they are inseparable teammates in combat!
 
 ### Notable Anti-Synergies
 
@@ -453,6 +485,9 @@ Below are some characters who don't synergize as well with Ruan Mei. However, th
 
 ### Team Composition Examples
 Below are some example team compositions for Ruan Mei. These are not the only team compositions that can be used with Ruan Mei; as mentioned before, she is an incredibly flexible unit. Rather, these teams are some notable examples to provide a general idea of how to use Ruan Mei in various team compositions.
+
+#### Super Break
+![break](../assets/images/guides/break.png)
 
 #### Kafka DoT
 ![dot](../assets/images/guides/ruan_mei_trace_priority_2.png)
@@ -491,6 +526,9 @@ It is recommended to run an **ERR rope** over a BE rope. Ruan Mei's ultimate is 
 Break Effect, on the other hand, can be obtained via relic substats, Thief of Shooting Meteor, and Ruan Mei's traces. It is not difficult to reach the recommended 180% without a BE rope.
 
 Because Ruan Mei's ultimate is so powerful, it is highly recommended to have as much Energy Regeneration as possible. This is why ERR rope is recommended over BE rope.
+
+### Is 4PC Watchmaker, Master of Dream Machinations Ruan Mei's new BiS set?
+The short answer is: no, 4PC Watchmaker is not Ruan Mei's BiS. For general usage, Ruan Mei's other relic set options such as 4PC Messenger Traversing Hackerspace, 2PC Break Effect 2PC Messenger, and 4PC Thief of Shooting Meteor are better options. 4PC Watchmaker is definitely viable, but its 4PC passive is only useful in teams with a break-focused DPS, such as Xueyi, Sushang, Firefly, and Boothill. Otherwise, the extra Break Effect is not all that needed. Furthermore, the passive only has about a 50%-60% uptime due to Ruan Mei's ultimate duration.
 
 ### Is 3T Ult Really Necessary?
 While a 3T ult is optimal, it's not necessary. It is better to focus on achieving the minimum amount of Break Effect (180%) before focusing on achieving a 3T ult. However, even if you cannot achieve a 3T ult, still aim for as high ultimate uptime as possible. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
