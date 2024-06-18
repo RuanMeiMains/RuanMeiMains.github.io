@@ -21,11 +21,11 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
     After a long wait, images on our website are finally fixed! There may be some minor resizing/position issues, but we'll get to them when we can.
 
 
--   **Our Ruan Mei Guide is updated for 2.0!**
+-   **Our Ruan Mei Guide is updated for 2.3!**
 
     ---
 
-    Huge thanks to our Theorycrafting Team for working on our Ruan Mei Guide! Penacony got you confused? Need help building Ruan Mei? Look no further! Some details may be a work in progress.
+    Huge thanks to our Theorycrafting Team for working on our Ruan Mei Guide! Preparing for Ruan Mei's rerun? Planning to use Firefly with Ruan Mei? Need help building Ruan Mei? Look no further!
 
     [:material-arrow-right: Check it out!](ruanmei-guides/full.md "Ruan Mei Full Guide")
 
