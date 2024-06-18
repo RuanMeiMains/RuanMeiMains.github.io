@@ -494,7 +494,7 @@ Below are some characters who don't synergize as well with Ruan Mei. However, th
 Below are some example team compositions for Ruan Mei. These are not the only team compositions that can be used with Ruan Mei; as mentioned before, she is an incredibly flexible unit. Rather, these teams are some notable examples to provide a general idea of how to use Ruan Mei in various team compositions.
 
 #### Super Break
-![break](../assets/images/guides/break.png)
+![break](../assets/images/guides/break1.png)
 
 #### Kafka DoT
 ![dot](../assets/images/guides/ruan_mei_trace_priority_2.png)
@@ -506,7 +506,7 @@ Below are some example team compositions for Ruan Mei. These are not the only te
 ![dual](../assets/images/guides/ruan_mei_trace_priority_5.png)
 
 #### Hypercarry
-![hyper](../assets/images/guides/ruan_mei_trace_priority_6.png)
+![hyper](../assets/images/guides/hypercarry.png)
 
 ## Character Comparisons
 Ruan Mei may be the first limited 5-star Harmony character, but she isn't the only Harmony or support character in the game. There are many other great characters to use, and many may wonder how she may compare to those characters.
