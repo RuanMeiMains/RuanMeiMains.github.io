@@ -322,10 +322,6 @@ Ruan Mei mainly needs Break Effect, SPD, and Energy Regeneration Rate, as those 
 
 When choosing a relic set for Ruan Mei, prioritize reaching 180% Break Effect (160% without Ruan Mei's Inert Respiration trace) first. If you are lacking Break Effect, it may be better to run a relic set that provides more Break Effect, depending on what you need. If you are able to cast Ruan Mei's ultimate often and reach the required amount of Break Effect without a Break Effect relic set, then 4PC Hackerspace is recommended. Otherwise, consider using a 2PC 2PC alternative or even a different set.
 
-Many players may believe that 4PC Watchmaker, the new break-focused relic set released in patch 2.0, is Ruan Mei's new BiS set. However, for general usage, Ruan Mei's other relic set options such as 4PC Messenger Traversing Hackerspace, 2PC Break Effect 2PC Messenger, and 4PC Thief of Shooting Meteor are better options. 
-
-4PC Watchmaker is definitely viable for Ruan Mei, but its 4PC passive is only useful in teams with a break-focused DPS, such as Xueyi, Sushang, Firefly, and Boothill. Otherwise, the extra Break Effect is not all that needed. Furthermore, the passive only has about a 50%-60% uptime due to Ruan Mei's ultimate duration. In teams with break-focused DPS characters, though, especially if Ruan Mei is not short on her needed stats, 4PC Watchmaker is definitely a good option to use.
-
 For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2PC Hackerspace. When choosing to farm between Watchmaker and Thief, choose the set that is more fuel-efficient. If you need the Pioneer (debuff) set, farm for Watchmaker. If you need the Boxing (physical) set, farm for Thief.
 
 
@@ -419,6 +415,10 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     * Ruan Mei does not really need Effect RES compared to other stats
 
 </div>
+
+Many players may believe that 4PC Watchmaker, the new break-focused relic set released in patch 2.0, is Ruan Mei's new BiS set. However, for general usage, Ruan Mei's other relic set options such as 4PC Messenger Traversing Hackerspace, 2PC Break Effect 2PC Messenger, and 4PC Thief of Shooting Meteor are better options. 
+
+4PC Watchmaker is definitely viable for Ruan Mei, but its 4PC passive is only useful in teams with a break-focused DPS, such as Xueyi, Sushang, Firefly, and Boothill. Otherwise, the extra Break Effect is not all that needed. Furthermore, the passive only has about a 50%-60% uptime due to Ruan Mei's ultimate duration. In teams with break-focused DPS characters, though, especially if Ruan Mei is not short on her needed stats, 4PC Watchmaker is definitely a good option to use.
 
 ### Relic Stats
 ![stats](../assets/images/guides/relicstats.png)
