@@ -8,7 +8,9 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 
 ![ruanmei](../assets/images/guides/full/drip.png)
 
-??? edit "Guide Updates (Patch 2.3)"
+
+## Guide Updates
+??? edit "Patch 2.3 Updates"
 
     ## Guide Updates (Patch 2.3)
     The following are the newest additions and changes to our guide with the release of patch 2.3.
@@ -30,7 +32,7 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 
     ![firefly](../assets/images/guides/full/firefly.png){ align=left width=75 } Patch 2.3 features the fan-favorite and long-awaited Stellaron Hunter, **Firefly**, also known as SAM. Ironically (due to their relations to the Swarm Disaster), these two characters work extremely well together. Like Boothill, Firefly can implant Fire Weakness on enemies, allowing her to break enemies more easily. Furthermore, Firefly can reduce the Toughness of enemies without Fire Weakness on her ultimate. Due to Firefly's damage being reliant on Super Break, Firefly greatly benefits from Ruan Mei's Weakness Break extension, Weakness Break efficiency increase, and Break Effect increase. As Firefly's first banner is running alongside Ruan Mei's rerun, it is necessary to try to obtain both characters if you plan to pull for Firefly. Ruan Mei is a must-have for this Stellaron Hunter!
 
-??? edit "Guide Updates (Patch 2.0)"
+??? edit "Patch 2.0 Updates"
 
     ## Guide Updates (Patch 2.0)
     The following are the newest additions and changes to our guide with the release of patch 2.0.
