@@ -52,7 +52,7 @@ Our team is committed to creating a welcoming space for all Ruan Mei and Honkai:
 
     ---
 
-    The Bot Developer Team is in charge of managing our multipurpose modmail bot in our Discord server. They can add additional unique functions to it to entertain server members, and they are in charge of troubleshooting the bot when it is down.
+    The Bot Developer Team is in charge of managing our multipurpose modmail bot in our Discord server. They can add additional unique functions to it to entertain server members, and they are in charge of troubleshooting the bot when it is down. They also help with the technical aspects of our website.
     
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSf725jYKdn8KH75zdTL805IWhghOqLyNOVAAcVYxt5nf8pRgw/viewform?usp=sf_link" target="_blank">:material-arrow-right: Apply here!</a>
     
