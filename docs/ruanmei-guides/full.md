@@ -1,5 +1,5 @@
 ---
-description: Need help building Ruan Mei? Check out this full and comprehensive guide by Ruan Mei Mains!
+description: Need help building Ruan Mei? Check out this full and comprehensive guide by Ruan Mei Mains for Ruan Mei's best builds, teams, and playstyles!
 ---
 
 # Ruan Mei Full Guide ❀
