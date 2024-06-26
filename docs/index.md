@@ -5,7 +5,7 @@ description: Welcome to Ruan Mei Mains, the hub for all things Ruan Mei!
 # Welcome to Ruan Mei Mains! ❀
 We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Rail! Ruan Mei Mains is the hub for all things Ruan Mei, created by Ruan Mei fans, for Ruan Mei fans. Check out our various social platforms and resources!
 
-[Join our Discord! :fontawesome-brands-discord:{ .discord }](https://discord.gg/ruanmei){ .md-button .md-button--primary target="_blank" } [Check out our Reddit! :fontawesome-brands-reddit:{ .reddit }](https://reddit.com/r/RuanMeiMains){ .md-button .md-button--primary target="_blank" }
+[Join our Discord! :fontawesome-brands-discord:{ .discord }](https://discord.gg/ruanmei){ .md-button .md-button--primary target="_blank" } [Check our Reddit! :fontawesome-brands-reddit:{ .reddit }](https://reddit.com/r/RuanMeiMains){ .md-button .md-button--primary target="_blank" } [Support us on Ko-fi! :fontawesome-solid-mug-hot: ](https://ko-fi.com/ruanmeimains){ .md-button .md-button--primary target="_blank" }
 
 ![rmmbanner](https://i.postimg.cc/L5QNpt7N/image.png)
 
