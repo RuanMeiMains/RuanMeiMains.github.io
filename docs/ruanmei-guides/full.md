@@ -387,7 +387,7 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     * If Ruan Mei's technique is used, saves 1 skill point
 
 === "Lushaka, the Sunken Seas"
-    ![lushaka](../assets/images/guides/lushaka.png){ align=left width=130 }
+    ![lushaka](../assets/images/guides/lushaka.png){ align=left width=128 }
 
     Increases wearer's Energy Regeneration Rate by 5%. If the wearer is not the first character in the team lineup, then increases the ATK of the first character in the team lineup by 12%.
 
