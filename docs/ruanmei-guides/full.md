@@ -387,7 +387,7 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     * If Ruan Mei's technique is used, saves 1 skill point
 
 === "Lushaka, the Sunken Seas"
-    ![lushaka](../assets/images/guides/lushaka.png){ align=left width=120 }
+    ![lushaka](../assets/images/guides/lushaka.png){ align=left width=130 }
 
     Increases wearer's Energy Regeneration Rate by 5%. If the wearer is not the first character in the team lineup, then increases the ATK of the first character in the team lineup by 12%.
 
@@ -491,11 +491,12 @@ Due to her universal buffs, such as SPD increase, DMG% increase, and All-Type RE
 
 ### Notable Anti-Synergies
 
-Below are some characters who don't synergize as well with Ruan Mei. However, these characters (except Clara) can still be used with Ruan Mei, and Ruan Mei can still be a top teammate pick for them. They will just need a little more consideration when being used with Ruan Mei. The only character who truly does not work with Ruan Mei is Clara.
+Below are some characters who don't synergize as well with Ruan Mei. However, these characters (except Clara and Yunli) can still be used with Ruan Mei, and Ruan Mei can still be a top teammate pick for them. They will just need a little more consideration when being used with Ruan Mei. The only characters who truly do not work with Ruan Mei are Clara and Yunli.
 
 | Character   | Notes                            |
 | ----------- | -------------------------------- |
 | ![clara](../assets/images/guides/clara.png) | **Clara** is one character who absolutely won't work with Ruan Mei. Clara relies on getting hit in order to counter enemies, but Ruan Mei helps keep enemies weakness broken. If enemies are broken, then Clara can't get hit.
+| ![clara](../assets/images/guides/clara.png) | **Yunli** doesn't work with Ruan Mei for the same reasons Clara doesn't work with Ruan Mei. As she also relies on getting hit to counter enemies, Yunli does not want enemies to stay weakness broken.
 | ![himeko](../assets/images/guides/himeko.png) | **Himeko** isn't the most anti-synergistic with Ruan Mei due to the fact that she wants to break as many enemies as possible. However, Ruan Mei also extends Weakness Break (her "second break" from her Thanatoplum Rebloom does not add any stacks for Himeko), which means that it will take longer for Himeko to gain stacks and trigger her follow-up attack. She can still be used with Ruan Mei because she benefits from Weakness Break buffs, but she will have a harder time gaining stacks.
 | ![seele](../assets/images/guides/seele.png) | **Seele** is also in a similar boat as Himeko. She isn't the most anti-synergistic with Ruan Mei, and she greatly benefits from her buffs, making Ruan Mei a top pick for Seele. However, Ruan Mei's Thanatoplum Rebloom from her ultimate can accidentally "steal" Seele's kills, preventing Seele from triggering her Resurgence passive. This can be worked around, but it needs to be considered when using Ruan Mei and Seele together.
 
@@ -508,7 +509,7 @@ Below are some example team compositions for Ruan Mei. These are not the only te
 #### Kafka DoT
 ![dot](../assets/images/guides/ruan_mei_trace_priority_2.png)
 
-#### Topaz Follow-Up
+#### Follow-Up
 ![fua](../assets/images/guides/ruan_mei_trace_priority_4.png)
 
 #### Dual Carry
