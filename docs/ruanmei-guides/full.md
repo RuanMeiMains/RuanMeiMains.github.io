@@ -230,10 +230,6 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
 Most players won't be pulling for eidolons, especially because Ruan Mei's base kit is already amazing, but in case you are someone who wants to know which eidolon is the best, we have you covered. If you manage to get lucky or have some extra funds, it is recommended to pull for Ruan Mei's E1. Her first eidolon is extremely powerful and offers a free DEF shred. **Between E1 and signature LC, definitely pull for Ruan Mei's E1.** 
 
-### Eidolon Comparisons
-
-_Comparison graph will be added soon..._
-
 ### Eidolon Overview
 
 <div class="grid" markdown>
@@ -304,6 +300,8 @@ _Comparison graph will be added soon..._
 
 Ruan Mei's light cone situation is quite interesting. Her signature light cone, while it is quite good due to the raw stats it offers, does not provide enough energy to achieve 3T ult. This makes other budget-friendly options a viable choice for Ruan Mei, and some can even compare to or outperform Ruan Mei's signature light cone. We won't deny that Ruan Mei's light cone is extremely beautiful, though. If you are unsure of which light cone works best for your energy needs, check out our [Energy Requirements](#energy-requirements "Ruan Mei Energy Requirements") section.
 
+### Light Cone Recommendations
+
 | Light Cone  |Notes                                |
 | ----------- |------------------------------------ |
 | ![sig](../assets/images/guides/past-self-in-mirror-item_icon.png)|  **Past Self in Mirror** is Ruan Mei's signature and best in slot light cone. While it doesn't provide a lot of energy to ensure a 3T ultimate, you only need to be hit once or twice to achieve a 3T ult. The other benefits it provides, including high SP positivity, are quite powerful as well, allowing it to slightly edge out S5 MotP. It greatly reduces the need for Break Effect, allowing you to invest in other stats. Ironically, **this light cone performs much better on HMC than on Ruan Mei**. If you are deciding whether to pull for E1 or S1, **pull for E1**.|
@@ -315,6 +313,12 @@ Ruan Mei's light cone situation is quite interesting. Her signature light cone, 
 | ![planetary](../assets/images/guides/planetary-rendezvous-item_icon.png) |**Planetary Rendezvous** is an option for Ruan Mei if you are using her in Ice teams. However, Ruan Mei already provides DMG buffs for her allies, and having more leads to diminishing returns. Furthermore, this light cone does not provide Break Effect or Energy, Ruan Mei's most needed stats.
 | ![bronya](../assets/images/guides/but-the-battle-isnt-over-item_icon.png) | **But the Battle Isn't Over**, Bronya's signature light cone, is generally NOT recommended unless at high superimpositions. The only part of it that benefits Ruan Mei is the energy it provides, but it is not enough to justify using it over the above options.
 
+### Light Cone Distribution with Harmony Trailblazer
+
+Because HMC makes better use of Ruan Mei's signature light cone than Ruan Mei does and benefits more from Break Effect rather than ERR, it is recommended to give HMC the light cone that provides more Break Effect. Below is a chart that shows who should use which light cone based on your light cone availability.
+
+<chart TBD>
+
 
 ## Relic Sets
 
@@ -322,7 +326,7 @@ Ruan Mei mainly needs Break Effect, SPD, and Energy Regeneration Rate, as those 
 
 When choosing a relic set for Ruan Mei, prioritize reaching 180% Break Effect (160% without Ruan Mei's Inert Respiration trace) first. If you are lacking Break Effect, it may be better to run a relic set that provides more Break Effect, depending on what you need. If you are able to cast Ruan Mei's ultimate often and reach the required amount of Break Effect without a Break Effect relic set, then 4PC Hackerspace is recommended. Otherwise, consider using a 2PC 2PC alternative or even a different set.
 
-For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2PC Hackerspace. When choosing to farm between Watchmaker and Thief, choose the set that is more fuel-efficient. If you need the Pioneer (debuff) set, farm for Watchmaker. If you need the Boxing (physical) set, farm for Thief.
+For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2PC Hackerspace. When choosing which Break Effect set to farm, choose the set that is more fuel-efficient. If you need the Pioneer (debuff) set, farm for Watchmaker. If you need the Boxing (physical) set, farm for Thief. If you need the Valorous (FUA) set, farm for Iron Cavalry.
 
 
 ### 4PC Relic Recommendations
@@ -330,7 +334,6 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
 <div class="grid" markdown>
 
 === "4PC Messenger Traversing Hackerspace"
-
     ![messenger](../assets/images/guides/messenger.png){ align=left }
     
     Increases SPD by 6%. When the wearer uses their Ultimate on an ally, SPD for all allies increases by 12% for 1 turn.
@@ -339,8 +342,7 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     * Increases SPD for all allies (about 25%-33% uptime)
     * Only recommended if you have enough Break Effect, SPD, and ultimate uptime
 
-=== "2PC Thief/Watchmaker 2PC Hackerspace"
-
+=== "2PC Thief/Watchmaker/Iron Cavalry 2PC Hackerspace"
     ![2pc](../assets/images/guides/2pc_2pc_2.0.png){ align=left }
     
     Increases the wearer's Break Effect by 16%. Increases SPD by 6%.
@@ -366,7 +368,7 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
 
     * Greatly increases Break Effect
     * Increases Break Effect for all allies (about 50%-66% uptime)
-    * Only recommended if you are using a break-focused DPS
+    * Only recommended if you are using a break-focused DPS and if no other ally is using this set
 
 </div>
 
@@ -384,8 +386,17 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     * Advances forward at the start of battle
     * If Ruan Mei's technique is used, saves 1 skill point
 
-=== "Penacony, Land of the Dreams"
+=== "Lushaka, the Sunken Seas"
+    ![lushaka](../assets/images/guides/lushaka.png){ align=left }
 
+    Increases wearer's Energy Regeneration Rate by 5%. If the wearer is not the first character in the team lineup, then increases the ATK of the first character in the team lineup by 12%.
+
+    * Increases Energy Regeneration Rate
+    * Allows for higher ultimate uptime
+    * Increases ATK% of the leftmost ally
+    * Recommended for teams that make use of ATK%, like DoT teams
+
+=== "Penacony, Land of the Dreams"
     ![penacony](../assets/images/guides/penacony.png){ align=left }
     
     Increases wearer's Energy Regeneration Rate by 5%. Increases DMG by 10% for all other allies that are of the same Type as the wearer.
@@ -396,7 +407,6 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     * Recommended if running with an Ice DPS
 
 === "Talia: Kingdom of Banditry"
-
     ![talia](../assets/images/guides/talia.png){ align=left }
 
     Increases the wearer's Break Effect by 16%. When the wearer's SPD reaches 145 or higher, the wearer's Break Effect increases by an extra 20%.
@@ -406,7 +416,6 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     * Recommended if using Meshing Cogs
 
 === "Broken Keel"
-
     ![keel](../assets/images/guides/keel.png){ align=left }
 
     Increases the wearer's Effect RES by 10%. When the wearer's Effect RES is at 30% or higher, all allies' CRIT DMG increases by 10%.
@@ -418,7 +427,7 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
 
 Many players may believe that 4PC Watchmaker, the new break-focused relic set released in patch 2.0, is Ruan Mei's new BiS set. However, for general usage, Ruan Mei's other relic set options such as 4PC Messenger Traversing Hackerspace, 2PC Break Effect 2PC Messenger, and 4PC Thief of Shooting Meteor are better options. 
 
-4PC Watchmaker is definitely viable for Ruan Mei, but its 4PC passive is only useful in teams with a break-focused DPS, such as Xueyi, Sushang, Firefly, and Boothill. Otherwise, the extra Break Effect is not all that needed. Furthermore, the passive only has about a 50%-60% uptime due to Ruan Mei's ultimate duration. In teams with break-focused DPS characters, though, especially if Ruan Mei is not short on her needed stats, 4PC Watchmaker is definitely a good option to use.
+4PC Watchmaker is definitely viable for Ruan Mei, but its 4PC passive is only useful in teams with a break-focused DPS, such as Xueyi, Sushang, Firefly, and Boothill. Otherwise, the extra Break Effect is not all that needed. Furthermore, the passive only has about a 50%-60% uptime due to Ruan Mei's ultimate duration. In teams with break-focused DPS characters, though, especially if Ruan Mei is not short on her needed stats, 4PC Watchmaker is definitely a good option to use. However, keep in mind that the 4PC effect does not stack, meaning if you are pairing Ruan Mei with HMC, it is best to choose a different set.
 
 ### Relic Stats
 ![stats](../assets/images/guides/relicstats.png)
@@ -532,12 +541,12 @@ Conversely, Ruan Mei's E1 is incredibly valuable. As her best eidolon, it ignore
 ### ERR or BE rope?
 It is recommended to run an **ERR rope** over a BE rope. Ruan Mei's ultimate is very valuable and provides All-Type RES PEN, a very helpful buff. Energy Regeneration is also not easily obtained, as it cannot be gained via relic substats. The only relic with an Energy Regeneration main stat is the link rope, so that is the only Energy Regeneration you can possibly obtain via relics.
 
-Break Effect, on the other hand, can be obtained via relic substats, Thief of Shooting Meteor, and Ruan Mei's traces. It is not difficult to reach the recommended 180% without a BE rope.
+Break Effect, on the other hand, can be obtained via relic substats, relic passives, and Ruan Mei's traces. It is not difficult to reach the recommended 180% without a BE rope.
 
 Because Ruan Mei's ultimate is so powerful, it is highly recommended to have as much Energy Regeneration as possible. This is why ERR rope is recommended over BE rope.
 
 ### Is 4PC Watchmaker, Master of Dream Machinations Ruan Mei's new BiS set?
-The short answer is: no, 4PC Watchmaker is not Ruan Mei's BiS. For general usage, Ruan Mei's other relic set options such as 4PC Messenger Traversing Hackerspace, 2PC Break Effect 2PC Messenger, and 4PC Thief of Shooting Meteor are better options. 4PC Watchmaker is definitely viable, but its 4PC passive is only useful in teams with a break-focused DPS, such as Xueyi, Sushang, Firefly, and Boothill. Otherwise, the extra Break Effect is not all that needed. Furthermore, the passive only has about a 50%-60% uptime due to Ruan Mei's ultimate duration.
+The short answer is: no, 4PC Watchmaker is not Ruan Mei's BiS. For general usage, Ruan Mei's other relic set options such as 4PC Messenger Traversing Hackerspace, 2PC Break Effect 2PC Messenger, and 4PC Thief of Shooting Meteor are better options. 4PC Watchmaker is definitely viable, but its 4PC passive is only useful in teams with a break-focused DPS, such as Xueyi, Sushang, Firefly, and Boothill. Otherwise, the extra Break Effect is not all that needed. Furthermore, the passive only has about a 50%-60% uptime due to Ruan Mei's ultimate duration, and the 4PC passive does not stack, meaning only one ally can use this set. Since HMC will usually be the one using this set, and they'll often be paired with Ruan Mei, Ruan Mei has no need to use this set.
 
 ### Is 3T Ult Really Necessary?
 While a 3T ult is optimal, it's not necessary. It is better to focus on achieving the minimum amount of Break Effect (180%) before focusing on achieving a 3T ult. However, even if you cannot achieve a 3T ult, still aim for as high ultimate uptime as possible. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
