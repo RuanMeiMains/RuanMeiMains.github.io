@@ -14,11 +14,13 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 <div class="grid cards" markdown>
 
--   **Website images are fixed!**
+-   **Join us for weekly game nights!**
 
     ---
 
-    After a long wait, images on our website are finally fixed! There may be some minor resizing/position issues, but we'll get to them when we can.
+    Our Discord server has casual game nights on Friday nights/Saturday mornings depending on your time zone! They happen periodically and we try to host them weekly, so grab an Event Ping role and stay updated so you won't miss a game night!
+
+    <a href="https://discord.gg/ruanmei" target="_blank">:material-arrow-right: Head to our Discord server!</a>
 
 
 -   **Our Ruan Mei Guide is updated for 2.5!**
