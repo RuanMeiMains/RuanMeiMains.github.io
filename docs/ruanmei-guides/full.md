@@ -3,7 +3,7 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 ---
 
 # Ruan Mei Full Guide ❀
-##### _Updated for 2.3; Written by sealary and mr.swedishfish, Edited by m4raku, nv50, and euphriia, Calculations provided by agentyoda, m4raku, drachk, sealary, and nv50_
+##### _Updated for 2.3; Written by mr.swedishfish and sealary, Edited by nv50, m4raku, and euphriia, Calculations provided by agentyoda, m4raku, drachk, sealary, and nv50_
 > _"Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — it is a gift."_
 
 ![ruanmei](../assets/images/guides/full/drip.png)
@@ -68,6 +68,8 @@ Ruan Mei is a support character capable of increasing allies' Weakness Break Eff
 *[HMC]: Harmony Trailblazer
 *[FUA]: Follow-up Attack
 *[BiS]: Best in Slot
+*[EBA]: Enhanced Basic Attack
+*[DoT]: Damage Over Time
 
 If you need a quick overview on Ruan Mei and how to build her, you can check the infographic below or check our [Quick Guide](quick.md "Ruan Mei Quick Guide").
 
@@ -342,8 +344,8 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     * Increases SPD for all allies (about 25%-33% uptime)
     * Only recommended if you have enough Break Effect, SPD, and ultimate uptime
 
-=== "2PC Thief/Watchmaker/Iron Cavalry 2PC Hackerspace"
-    ![2pc](../assets/images/guides/2pc_2pc_2.0.png){ align=left }
+=== "2PC Thief/Watchmaker/Iron Cavalry, 2PC Hackerspace"
+    ![2pc](../assets/images/guides/2pc2pc1.png){ align=left }
     
     Increases the wearer's Break Effect by 16%. Increases SPD by 6%.
 
@@ -488,6 +490,7 @@ Due to her universal buffs, such as SPD increase, DMG% increase, and All-Type RE
 | ![hmc](../assets/images/guides/full/hmcf.png) | **Harmony Trailblazer** is a new free Harmony character for patch 2.2, as part of the Trailblazer's newest path switch. They work hand in hand with Ruan Mei as a powerful support duo for break-focused DPS characters. Ruan Mei's Weakness Break efficiency buff, Weakness Break extension, and Break Effect boost pairs especially well with HMC's Toughness Reduction buff, Break Effect boost, and Super Break. Their buffs don't have much overlap, which means they don't suffer from diminishing returns. When using a break-focused DPS character, using both HMC and Ruan Mei is a must.
 | ![boothill](../assets/images/guides/full/boothill.png) | **Boothill** is the first limited 5-star character who is focused on break mechanics, released in patch 2.2. His Pocket Trickshot benefits from enemies being Weakness Broken, and Boothill deals additional damage based on his Toughness damage, meaning that Ruan Mei is a great teammate for him. Boothill also implants Physical Weakness during his ultimate, allowing him to make better use of Ruan Mei's break-focused buffs. Physical characters also have a high break multiplier, so a higher break effect allows for more break damage.
 | ![firefly](../assets/images/guides/full/firefly.png) | **Firefly** is the second break-focused limited 5-star character, releasing in patch 2.3 alongside Ruan Mei's first rerun. Her damage is reliant on Break and Super Break mechanics, and she also can implant Fire Weakness and reduce the Toughness of enemies without Fire Weakness. As Firefly greatly benefits from enemies being Weakness Broken, Ruan Mei's Weakness Break efficiency buffs, Weakness Break extension, and Break Effect boost are very much needed buffs for Firefly. While these two characters may not get along lore-wise, they are inseparable teammates in combat!
+| ![hmarch](../assets/images/guides/hmarch.png) | **March 7th (Hunt)** makes her path switch debut in patch 2.4. In her new swordswoman-in-training form, she takes on the role as a sub-DPS whose main source of damage comes from her Enhanced Basic Attack. March 7th can be built as either a crit-focused or break-focused sub-DPS, as she can deal high amounts of Toughness damage (even being able to reduce Toughness bars that have the same weakness as her Shifu) as well as raw damage from her EBA. With Ruan Mei on her team (not as her Shifu, though!), March's damage output and Toughness reduction capabilities are greatly enhanced.
 | ![lingsha](../assets/images/guides/lingsha.png) | **Lingsha** is the second break-focused healer, released in patch 2.5. As a Fire Abundance character who is focused on break mechanics, Lingsha will often draw comparisons to Gallagher. However, she has her own unique mechanics as well, such as FUA, frequent teamwide cleanse, and decent sub-DPS damage. As a character who scales off Break Effect and deals decent Toughness damage on her own, Lingsha makes great use of Ruan Mei's buffs and is a great addition to Super Break teams. Outside of break teams, Lingsha can also act as an alternative to Aventurine due to her being a FUA sustain.
 
 ### Notable Anti-Synergies
@@ -507,7 +510,7 @@ Below are some example team compositions for Ruan Mei. These are not the only te
 #### Super Break
 ![break](../assets/images/guides/break2.png)
 
-#### DoT
+#### Damage Over Time
 ![dot](../assets/images/guides/dot.png)
 
 #### Follow-Up
