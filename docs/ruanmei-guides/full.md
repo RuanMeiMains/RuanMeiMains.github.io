@@ -10,6 +10,23 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 
 
 ## Guide Updates
+??? edit "Patch 2.5 Updates"
+
+    ## Guide Updates (Patch 2.5)
+    The following are the newest additions and changes to our guide with the release of patch 2.5.
+
+    ### New Relic Recommendations
+    ![ironcavalry](../assets/images/guides/full/ironcavalry.png){ align=left width=75 } **Iron Cavalry Against the Scourge**, released in 2.3 and intended for Super Break DPS characters like Firefly, while the 4PC passive doesn't benefit Ruan Mei, its 2PC passive is exactly the same as other commonly used relic sets like **Thief of Shooting Meteor** and **Watchmaker, Dream of Machinations**. In other words, this set allows for another source of Break Effect, so you can farm this set for fuel efficiency if you need **The Wind-Soaring Valorous** set for another character! Check out which relic sets you can use on Ruan Mei in our [4PC Relic Set Recommendations](#4pc-relic-recommendations "4PC Relic Set Recommendations") section!
+
+    ![lushaka](../assets/images/guides/full/ironcavalry.png){ align=left width=75 } **Lushaka, the Sunken Seas**, a new planar ornament set released in 2.5, joins **Sprightly Vonwacq** and **Penacony, Land of the Dreams** as another Energy Regeneration Rate set. As Ruan Mei is heavily reliant on ERR due to her Ultimate being highly valuable, this set is already a viable alternative for her. Furthermore, its passive is less restrictive than the Penacony set and can accomodate more team compositions, making it a great option for Ruan Mei. Check out Ruan Mei's other viable planar ornaments in our [2PC Planar Ornament Recommendations](#2pc-planar-ornament-recommendations "2PC Planar Ornament Recommendations") section!
+
+    ### Updated Synergies
+    ![hmarch](../assets/images/guides/hmarch.png){ align=left width=75 } Following the patch 2.4 update, **March 7th (Hunt)** makes her debut with a new path, meant to benefit FUA and break-focused characters. March 7th deals quite a lot of Toughness damage on her own, and her Enhanced Basic Attack can pack a punch. Having Ruan Mei on her team can only benefit March's damage output. Want to learn more about Ruan Mei's best teammates and synergies? Read more about Ruan Mei's best and not-as-great teammates in our [Teammates Section](#teammates "Teammates Section").
+
+    ![lingsha](../assets/images/guides/lingsha.png){ align=left width=75 } **Lingsha** joins Gallagher as the second sustain character with break mechanics in patch 2.5. Like Gallagher, Lingsha's additional healing also scales off Break Effect and she aims to break enemies faster, both of which Ruan Mei benefits. Ruan Mei is the game's premier break support, so her buffs only directly benefit Lingsha's support and utility capabilities.
+
+    **Yunli**, the new Physical Destruction DPS released in patch 2.4, has been added to the list of anti-synergies with Ruan Mei. Because she is a counter-focused character like Clara, Ruan Mei's Weakness Break Extension does not synergize well with Yunli's skills.
+
 ??? edit "Patch 2.3 Updates"
 
     ## Guide Updates (Patch 2.3)
@@ -70,6 +87,7 @@ Ruan Mei is a support character capable of increasing allies' Weakness Break Eff
 *[BiS]: Best in Slot
 *[EBA]: Enhanced Basic Attack
 *[DoT]: Damage Over Time
+*[ERR]: Energy Regeneration Rate
 
 If you need a quick overview on Ruan Mei and how to build her, you can check the infographic below or check our [Quick Guide](quick.md "Ruan Mei Quick Guide").
 
