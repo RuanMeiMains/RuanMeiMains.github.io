@@ -345,7 +345,7 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     * Only recommended if you have enough Break Effect, SPD, and ultimate uptime
 
 === "2PC Thief/Watchmaker/Iron Cavalry, 2PC Hackerspace"
-    ![2pc](../assets/images/guides/2pc2pc1.png){ align=left }
+    ![2pc](../assets/images/2pc2pc1.png){ align=left }
     
     Increases the wearer's Break Effect by 16%. Increases SPD by 6%.
 
