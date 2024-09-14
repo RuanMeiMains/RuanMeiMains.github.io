@@ -461,7 +461,7 @@ For Ruan Mei's chest piece and planar sphere, choose whichever relic has better 
 
 Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit revolves around Break Effect. Ruan Mei needs at least **180%** Break Effect in total in order to maximize her passive. **Ruan Mei's Inert Respiration trace does not take effect until you are in battle**, so technically, you only need **160%** Break Effect. However, for the sake of consistency, the minimum will be referred as 180%. More Break Effect is generally always better as long as you're not sacrificing other stats.
 
-SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, which allows for more SP generation. At least **143** SPD is recommended. Ruan Mei has a total of 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC Messenger Traversing Hackerspace. Like Break Effect, more SPD is better as long as you are not sacrificing other stats. Some players may opt for a slower Ruan Mei build for rare scenarios like 0 cycle runs, but in general, more SPD is better.
+SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, which allows for more SP generation due to Ruan Mei's SP positivity. At least **143** SPD is recommended. Ruan Mei has a total of 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC Messenger Traversing Hackerspace. Like Break Effect, more SPD is better as long as you are not sacrificing other stats. Some players may opt for a slower Ruan Mei build for rare scenarios like 0 cycle runs or to keep her ultimate up for longer, but in general, more SPD is better.
 
 Defensive stats such as Effect RES, HP, and DEF are also helpful for Ruan Mei. In combat, she wants to get hit a couple times in order to gain energy, meaning survivability is important to her. With some defensive stats, Ruan Mei's survivability will naturally increase. However, keep in mind that Break Effect and SPD should be prioritized over these stats.
 
@@ -471,7 +471,7 @@ Ruan Mei requires as much energy as she can, as her ultimate is extremely valuab
 
 A special case is if you have Huohuo on your team. Huohuo will lower your rotation by one turn.
 
-Note that to achieve 124.4% ER, you must use an ERR rope and Penacony/Vonwacq. To achieve 119.4% ER, you must use an ERR rope. To achieve 105% ER, you must use Penacony/Vonwacq.
+Note that to achieve 124.4% ER, you must use an ERR rope and Penacony/Vonwacq/Lushaka. To achieve 119.4% ER, you must use an ERR rope. To achieve 105% ER, you must use Penacony/Vonwacq/Lushaka.
 
 | Total Energy | Light Cone | Turns to Cast Ultimate | Notes
 |--------------|------------|------------------------|-------
