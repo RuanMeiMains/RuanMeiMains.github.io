@@ -517,7 +517,7 @@ Below are some example team compositions for Ruan Mei. These are not the only te
 ![dual](../assets/images/guides/dualcarry.png)
 
 #### Hypercarry
-![hyper](../assets/images/guides/hypercarry.png)
+![hyper](../assets/images/guides/hyper.png)
 
 ## Character Comparisons
 Ruan Mei may be the first limited 5-star Harmony character, but she isn't the only Harmony or support character in the game. There are many other great characters to use, and many may wonder how she may compare to those characters.
