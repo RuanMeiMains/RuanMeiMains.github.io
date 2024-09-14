@@ -21,12 +21,11 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
     After a long wait, images on our website are finally fixed! There may be some minor resizing/position issues, but we'll get to them when we can.
 
 
--   **Our Ruan Mei Guide is updated for 2.3!**
+-   **Our Ruan Mei Guide is updated for 2.5!**
 
     ---
 
-    Huge thanks to our Theorycrafting Team for working on our Ruan Mei Guide! Preparing for Ruan Mei's rerun? Planning to use Firefly with Ruan Mei? Need help building Ruan Mei? Look no further!
-
+    Huge thanks to our Theorycrafting Team for working on our Ruan Mei Guide! Curious to see what new characters and relics work for Ruan Mei? Look no further!
     [:material-arrow-right: Check it out!](ruanmei-guides/full.md "Ruan Mei Full Guide")
 
 
@@ -56,12 +55,12 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 ## Join our Community!
 
-[discord.gg/ruanmei :fontawesome-brands-discord:{ .discord } ](https://discord.gg/ruanmei){ .md-button target="_blank" } [r/RuanMeiMains :fontawesome-brands-reddit:{ .reddit } ](https://www.reddit.com/r/RuanMeiMains/){ .md-button target="_blank" }   [@ruanmeidaily__ :fontawesome-brands-twitter:{ .twitter } ](https://twitter.com/ruanmeidaily__){ .md-button target="_blank" }
+[discord.gg/ruanmei :fontawesome-brands-discord:{ .discord } ](https://discord.gg/ruanmei){ .md-button target="_blank" } [r/RuanMeiMains :fontawesome-brands-reddit:{ .reddit } ](https://www.reddit.com/r/RuanMeiMains/){ .md-button target="_blank" }   [@ruanmeitimely :fontawesome-brands-twitter:{ .twitter } ](https://twitter.com/ruanmeitimely){ .md-button target="_blank" }
 
 ![tea](https://i.postimg.cc/kMRc6b03/ezgif-com-resize-6.gif){ align=left width=320 style='border-radius: 6px; margin-top: 0' } <iframe src="https://discord.com/widget?id=1106785082028597258&theme=dark" title="discord.gg/ruanmei" footer="Come hangout with us!" width="320" height="480" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" style="border-radius: 6px"></iframe>
 
 ## Support Us
-Donate to our Ko-fi! Ruan Mei Mains is a completely voluntary organization, and many of our resources are funded out of pocket. Your support helps us improve our community! All donations go towards event prizes, giveaways, and community resources.
+Donate to our Ko-fi! Ruan Mei Mains is a completely voluntary organization, and our resources and giveaways are funded out of pocket or via donations. Your support helps us improve our community! All donations go towards event prizes, giveaways, this website, and other community resources.
 
 [Support us on Ko-fi! :fontawesome-solid-mug-hot: ](https://ko-fi.com/ruanmeimains){ .md-button target="_blank" }
 
