@@ -92,7 +92,7 @@ Ruan Mei is a support character capable of increasing allies' Weakness Break Eff
 If you need a quick overview on Ruan Mei and how to build her, you can check the infographic below or check our [Quick Guide](quick.md "Ruan Mei Quick Guide").
 
 <figure markdown>
-  ![infographic](../assets/images/guides/Ruan_Mei_FAQ_06.jpg)
+  ![infographic](../assets/images/guides/Ruan_Mei_FAQ_10.jpg)
   <figcaption>Infographic designed by littlemari</figcaption>
 </figure>
 
