@@ -27,6 +27,9 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 
     **Yunli**, the new Physical Destruction DPS released in patch 2.4, has been added to the list of anti-synergies with Ruan Mei. Because she is a counter-focused character like Clara, Ruan Mei's Weakness Break Extension does not synergize well with Yunli's skills.
 
+    ### New Section Addition: Light Cone Distribution with Harmony Trailblazer
+    Ever wondered who should get which light cone in your HMC and Ruan Mei Break teams? As HMC and Ruan Mei are both break-focused Harmony characters, their light cone options are very similar. In fact, Ruan Mei's signature light cone is not only HMC's BiS light cone, it even works better for HMC than Ruan Mei! Find out which light cones you should use for these two characters in our newly added [Light Cone Distribution with Harmony Trailblazer](#light-cone-distribution-with-harmony-trailblazer "Light Cone Distribution with Harmony Trailblazer") section!
+
 ??? edit "Patch 2.3 Updates"
 
     ## Guide Updates (Patch 2.3)
@@ -337,9 +340,9 @@ Ruan Mei's light cone situation is quite interesting. Her signature light cone, 
 
 As break-focused teams are becoming more common, Ruan Mei will be often paired with HMC. The problem is that both characters require high amounts of Break Effect and are both Harmony characters, meaning that given the available Harmony light cones, they will often need the same or similar light cones. Who should receive which light cone?
 
-Because HMC makes better use of Ruan Mei's signature light cone than Ruan Mei does and benefits more from Break Effect rather than ERR, it is recommended to give HMC the light cone that provides more Break Effect. Ruan Mei's Break Effect needs are far less than HMC's, but she needs much more ERR. Below is a chart that shows who should use which light cone based on your light cone availability.
+Because HMC makes better use of Ruan Mei's signature light cone than Ruan Mei does and benefits more from Break Effect rather than ERR, it is recommended to give HMC the light cone that provides more Break Effect and Ruan Mei the light cone with more ERR. Ruan Mei's Break Effect needs are far less than HMC's, but she needs much more ERR. Below is a chart that shows who should use which light cone based on your light cone availability. If the light cone in the chart has no superimposition specified, any superimposition will suffice.
 
-![hmcrmlc](../assets/images/hmcrmlc.png)
+![hmcrmlc](../assets/images/hmcrmlc1.png)
 
 
 ## Relic Sets
