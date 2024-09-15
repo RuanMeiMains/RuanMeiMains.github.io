@@ -335,9 +335,11 @@ Ruan Mei's light cone situation is quite interesting. Her signature light cone, 
 
 ### Light Cone Distribution with Harmony Trailblazer
 
-Because HMC makes better use of Ruan Mei's signature light cone than Ruan Mei does and benefits more from Break Effect rather than ERR, it is recommended to give HMC the light cone that provides more Break Effect. Below is a chart that shows who should use which light cone based on your light cone availability.
+As break-focused teams are becoming more common, Ruan Mei will be often paired with HMC. The problem is that both characters require high amounts of Break Effect and are both Harmony characters, meaning that given the available Harmony light cones, they will often need the same or similar light cones. Who should receive which light cone?
 
-<chart TBD>
+Because HMC makes better use of Ruan Mei's signature light cone than Ruan Mei does and benefits more from Break Effect rather than ERR, it is recommended to give HMC the light cone that provides more Break Effect. Ruan Mei's Break Effect needs are far less than HMC's, but she needs much more ERR. Below is a chart that shows who should use which light cone based on your light cone availability.
+
+![hmcrmlc](../assets/images/guides/hmc_rm_lc.png)
 
 
 ## Relic Sets
