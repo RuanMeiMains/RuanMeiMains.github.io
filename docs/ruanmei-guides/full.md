@@ -488,7 +488,7 @@ Note that to achieve 124.4% ER, you must use an ERR rope and Penacony/Vonwacq/Lu
 | 119.4% | S3 MotP | **4** | With this build, you may need to be hit once or twice to achieve 3T ult.
 | 124.4% | S5 Meshing Cogs | **3** | While this build achieves 3T ult, you may be lacking in Break Effect. If you have less than **170%** Break Effect with this build, use Talia/BE rope instead.
 | 119.4% | S5 Meshing Cogs | **4** | If you are lacking in Break Effect, it is recommended to use this build. You will be able to have more Break Effect, and **you will only need to be hit once to achieve 3T ult**.
-| 100% | S5 Meshing Cogs | **4** | You can use this build if you are severely lacking in Break Effect. However, if you are able to reach the minimum 180% Break Effect without Talia/BE rope, use Penacony/Vonwacq/ERR rope instead.
+| 100% | S5 Meshing Cogs | **4** | You can use this build if you are severely lacking in Break Effect. However, if you are able to reach the minimum 180% Break Effect without Talia/BE rope, use Penacony/Vonwacq/Lushaka/ERR rope instead.
 | 124.4% | Other | **4** | This build will comfortably put you at 4T ult, but you may be lacking in Break Effect.
 | 119.4% | Other | **4** | This build will comfortably put you at 4T ult, and with 2PC Talia, it will help you reach the necessary Break Effect.
 | 105% | Other |**4-5** | This rotation is inconsistent and is generally not recommended.
