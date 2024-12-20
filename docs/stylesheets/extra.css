@@ -105,3 +105,18 @@
   -webkit-mask-image: var(--md-admonition-icon--announce);
           mask-image: var(--md-admonition-icon--announce);
 }
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+  margin-right: -5px;
+}
+
+.buttons .md-button {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  flex-grow: 1;
+  text-align: center;
+}

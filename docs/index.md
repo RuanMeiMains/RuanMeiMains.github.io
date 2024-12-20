@@ -5,7 +5,9 @@ description: Welcome to Ruan Mei Mains, the hub for all things Ruan Mei!
 # Welcome to Ruan Mei Mains! ❀
 We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Rail! Ruan Mei Mains is the hub for all things Ruan Mei, created by Ruan Mei fans, for Ruan Mei fans. Check out our various social platforms and resources!
 
+<div class="buttons" markdown="span">
 [Join our Discord! :fontawesome-brands-discord:{ .discord }](https://discord.gg/ruanmei){ .md-button .md-button--primary target="_blank" } [Check our Reddit! :fontawesome-brands-reddit:{ .reddit }](https://reddit.com/r/RuanMeiMains){ .md-button .md-button--primary target="_blank" } [Support us on Ko-fi! :fontawesome-solid-mug-hot: ](https://ko-fi.com/ruanmeimains){ .md-button .md-button--primary target="_blank" }
+</div>
 
 ![rmmbanner](https://i.postimg.cc/L5QNpt7N/image.png)
 
@@ -57,7 +59,9 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 ## Join our Community!
 
+<div class="buttons" markdown="span">
 [discord.gg/ruanmei :fontawesome-brands-discord:{ .discord } ](https://discord.gg/ruanmei){ .md-button target="_blank" } [r/RuanMeiMains :fontawesome-brands-reddit:{ .reddit } ](https://www.reddit.com/r/RuanMeiMains/){ .md-button target="_blank" }   [@ruanmeitimely :fontawesome-brands-twitter:{ .twitter } ](https://twitter.com/ruanmeitimely){ .md-button target="_blank" }
+</div>
 
 ![tea](https://i.postimg.cc/kMRc6b03/ezgif-com-resize-6.gif){ align=left width=320 style='border-radius: 6px; margin-top: 0' } <iframe src="https://discord.com/widget?id=1106785082028597258&theme=dark" title="discord.gg/ruanmei" footer="Come hangout with us!" width="320" height="480" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" style="border-radius: 6px"></iframe>
 
