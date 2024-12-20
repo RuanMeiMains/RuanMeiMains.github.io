@@ -121,7 +121,7 @@
   text-align: center;
 }
 
-.md-nav__title {
+.md-nav__title:has(.md-logo) {
   text-overflow: unset;
   text-wrap: wrap !important;
   line-height: 1rem !important;
