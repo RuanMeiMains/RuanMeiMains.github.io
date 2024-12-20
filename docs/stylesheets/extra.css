@@ -140,7 +140,7 @@
     font-size: .64rem;
   }
 
-  .tabbed-block img {
+  .tabbed-block img:not(figure img) {
     max-width: 30%;
   }
 }
