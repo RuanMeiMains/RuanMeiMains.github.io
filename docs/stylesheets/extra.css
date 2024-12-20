@@ -120,3 +120,17 @@
   flex-grow: 1;
   text-align: center;
 }
+
+.md-nav__title {
+  text-overflow: unset;
+  text-wrap: wrap !important;
+  line-height: 1rem !important;
+  padding: .2rem .8rem .8rem !important;
+  height: unset !important;
+}
+
+.md-logo {
+  position: unset !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
