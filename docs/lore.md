@@ -134,7 +134,7 @@ After her encounter with Nous, Ruan Mei seems to have experienced a burning fasc
 
 Ruan Mei is known to have contributed to the Simulated Universe DevLog for Lan, the Aeon of the Hunt, since Herta couldn't find any records on Lan in the IPC.
 
-### Hometown
+### Home Planet
 > *"Starting from their home, a planet blessed by Abundance, they boarded research aircraft and set off to more worlds."*
 >
 > — Ruan Mei Character Story: Part I
@@ -154,7 +154,9 @@ Despite not remembering much about her homeland, Ruan Mei has acknowledged that 
 
 It is possible that No Man's Land is Ruan Mei's home. The Data Bank explains that Ruan Mei was born on a planet covered in ice. However, it is possible that it is not, as in the Trailblaze Mission featuring her, the Trailblazer is given the option to ask whether she has researched there before. She responds that she and her mother spent 11 polar nights there. The possibility of this being her home cannot be completely eradicated, still, as she doesn't seem to have much recollection of her home.
 
-Ruan Mei also may be from the Xianzhou Alliance, due to her home world being blessed by the Abundance and her Chinese roots, as well as the fact that Ruan Mei helped provide information on Lan for the Simulated Universe. The Data Bank also supports this conclusion by stating that Ruan Mei has been seen in Xianzhou before. However, this is not confirmed, either, and Ruan Mei has never mentioned anything about the Xianzhou Alliance. There is not enough information to conclude where exactly Ruan Mei's home planet is, or if it even exists anymore.
+Ruan Mei also may be from the Xianzhou Alliance, due to her home world being blessed by the Abundance and her Chinese roots, as well as the fact that Ruan Mei helped provide information on Lan for the Simulated Universe, as Herta was unable to find information on them. The Data Bank also supports this conclusion by stating that Ruan Mei has been seen in Xianzhou before. Ruan Mei has also recently been involved in Xianzhou affairs while collaborating with Jingliu and Luocha. However, this does not fully support Ruan Mei's affiliation with the Xianzhou Alliance, either, and Ruan Mei has never mentioned anything about the Xianzhou Alliance. 
+
+Furthermore, while resurrecting Tingyun in the 2.7 Trailblaze Continuance quest, it is mentioned that Ruan Mei does not seem to have much or any connection to the Xianzhou Alliance. Unfortunately, Ruan Mei's home planet remains unclear, and any evidence indicating her home planet is either contradictory or simply not decisive enough. There is not enough concrete information to conclude where exactly Ruan Mei's home planet is, or if it even exists anymore.
 
 ### Simulated Universe
 > *"I nurture the prototypes of the universe and the Aeons."*
@@ -171,7 +173,7 @@ THIS SECTION IS UNDER CONSTRUCTION.
 >
 > — Ruan Mei Character Story: Part III
 
-Ruan Mei's relationship with the Genius Society is questionable at best. Of course, as the Genius Society is full of socially inept introverts, Ruan Mei also being one, she does not bother to interact with or befriend other members. Due to joining the Simulated Universe project, she was forced to socialize with Herta, Screwllum, and Stephen Lloyd, all of whom she seems indifferent about. She does slightly enjoy their meetings at times, but that is about its extent. The only other Genius Society member Ruan Mei has been known to interact with is Yu Qingtu, whom Ruan Mei is good friends with.
+Ruan Mei's relationship with the Genius Society is questionable at best. Of course, as the Genius Society is full of socially inept introverts, Ruan Mei also being one, she does not bother to interact with or befriend other members. Due to joining the Simulated Universe project, she was forced to socialize with Herta, Screwllum, and Stephen Lloyd, all of whom she seems indifferent about. She does slightly enjoy their meetings at times, but that is about its extent. However, it can be said that as Ruan Mei continues to work with the Simulated Universe Project members, her relationship with the members has grown from indifference to something slightly more positive. The only other Genius Society member Ruan Mei has been known to interact with is Yu Qingtu, whom Ruan Mei is good friends with.
 
 >*"I might not refer to them as friends — once the Simulated Universe project is over, chances are we'll part ways... but I'm grateful to Herta for always granting me some leeway on the space station."*
 >
@@ -202,7 +204,28 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 
     Herta and Ruan Mei regard each other as equals. When asked by the Trailblazer if Ruan Mei is a great person, Herta responds, "That's like asking 'Is Herta a great person?' The answer is obvious!" She even regards Ruan Mei as a "master of creation" and someone who is very capable, ambitious, and intelligent. While Herta may be competitive and often thinks she is the best, she does not deny that Ruan Mei's achievements are incredible. Still, she may be blunt about Ruan Mei, such as when she finds it hilarious that the IPC described Ruan Mei as "lowkey" or when she points out that Ruan Mei only accidentally saved an ecosystem because it was an unintentional byproduct of her research.
 
-    When Ruan Mei first met Herta, she felt indifferent and even annoyed by her. She only joined Herta's Simulated Universe project because it would help Ruan Mei research more about Aeons. However, over time, she learned to interact more with her colleagues. Ruan Mei realized that she and Herta were both people who would ignore anything for their research, and she felt closer to Herta because of this similarity. While studying Aeons is still her top priority and her motivation to continue the Simulated Universe project, she also is willing to work with Herta. The success of Herta's project shows that they work well together, even if they may not interact often outside of work matters.
+    When Ruan Mei first met Herta, she felt indifferent and even annoyed by her. She only joined Herta's Simulated Universe project because it would help Ruan Mei research more about Aeons. However, over time, she learned to interact more with her colleagues. Ruan Mei realized that she and Herta were both people who would ignore anything for their research, and she felt closer to Herta because of this similarity. While studying Aeons is still her top priority and her motivation to continue the Simulated Universe project, she also is willing to work with Herta. The success of Herta's project shows that they work well together, even if they may not interact often outside of work matters. It is likely that after working long enough with each other, the two women trust each other by now and their relationship will continue to grow in a positive manner.
+
+    <figure markdown>
+      ![geniusesgreetings](assets/images/lore/geniusesgreetings.png)
+      <figcaption>Herta and Ruan Mei have gotten closer after working together.</figcaption>
+    </figure>
+
+    A notable difference between Herta and Ruan Mei is that Herta seems to seek Ruan Mei's attention often, but Ruan Mei does not reciprocate that behavior. Ruan Mei is generally an aloof person who does not appreciate any attention or interaction, while Herta enjoys acknowledgement and recognition by others and shows great interest in many things. Herta may act like she does not care, but that is more of a front to flaunt her superiority over others.
+
+    > *"The aloof woman lifts her head from her book...* 'I'm sorry. What did you say?'
+    >
+    > *She waves her hand.* 'Well, I can't say how great these breakthroughs are. They might only affect half the cosmos.'
+    >
+    > *The woman closes her book.* 'Let's hear it, then.'
+    >
+    > 'Hmph. A genius of my caliber... it's not something you'll just get to hear randomly...'
+    >
+    > 'I understand. I'll make some pastries. We can talk and eat at the same time.'"
+    >
+    > — Geniuses' Greetings Light Cone
+
+    In reality, Herta is very interested in the happenings around her, which is why she utilizes puppets to monitor everything. While she doesn't pay attention to seemingly many things, it is not because they do not interest her. Rather, it is because it is simply not worth Herta's attention. Ruan Mei, on the other hand, genuinely does not pay attention to anything that does not accelerate her own research. Both Ruan Mei and Herta are very interested in their fields of study, but Herta is more willing to explore beyond her horizons, whereas Ruan Mei is focused on only one thing.
 
 === "Screwllum, #76"
     > *"Screwllum and I have very different understandings of life, but I don't think he realizes it. Fortunately, our communication is limited to matters related to the Simulated Universe."*
@@ -250,40 +273,78 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
 
     Yu Qingtu, #55 of the Genius Society, is known to be Ruan Mei's very close friend. Ruan Mei herself has stated that she enjoys her time with Yu Qingtu every time they meet, which is quite out of character for a known hermit who does not enjoy being around people.
 
-    When discussing which member of the Genius Society should be the fifth contributor to Herta's Simulated Universe Project, Yu Qingtu was brought up. Herta noted that she was someone very dear to Ruan Mei, but she did not know if she was still alive. Ruan Mei did not confirm Yu Qingtu's status, so her whereabouts are unknown.
+    When discussing which member of the Genius Society should be the fifth contributor to Herta's Simulated Universe Project during the 1.6 Trailblaze Continuance Story, Yu Qingtu was brought up. Herta noted that she was someone very dear to Ruan Mei, but she did not know if she was still alive. Ruan Mei did not confirm Yu Qingtu's status, so her whereabouts are currently unknown. However, it is likely that Yu Qingtu is still alive, as she had recently commented on Dr. Ratio's research. 
+
+    Furthermore, after dealing with Polka Kakamond in the Unknowable Domain, Herta states that "We'd better see if Ruan Mei can successfully drag Yu Qingtu into this," indicating that it is a very high possibility that Yu Qingtu will eventually work on the Simulated Universe Project with the other Genius Society members. This also implies that Ruan Mei is close enough to Yu Qingtu to convince her to join the project.
 
     Though there isn't a lot of known information about Yu Qingtu, it can easily be understood why Ruan Mei and Yu Qingtu may get along well. Both enjoy music; Ruan Mei plays the ruan and enjoys traditional opera while Yu Qingtu "has an impressive taste in music"[^8]. They both also enjoy creating food-related things. Ruan Mei loves tasting and making desserts, and Yu Qingtu is known for mixing cocktails. It can be inferred that the two enjoy the finer things in life, like the arts and fine dining.
 
-    One of Yu Qingtu's Simulated Universe curios, The Pinkest Collision, refers to a cocktail that Yu Qingtu created for Ruan Mei as a gift. The curio increases the user's Break Effect, which works well with Ruan Mei's skills.
+    One of Yu Qingtu's Simulated Universe curios, The Pinkest Collision, refers to a unique cocktail that Yu Qingtu created for Ruan Mei as a gift. The curio increases the user's Break Effect, which works well with Ruan Mei's skills.
 
-    It is likely that due to Ruan Mei's introverted and hermetic nature, she may not have any other friends except for Yu Qingtu.
+    It is likely that due to Ruan Mei's introverted and hermetic nature, she may not have any true friends except for Yu Qingtu.
 
 </div>
 
 ### Aeons
+> *"Aeons... What kind of beings are they? Are they also a form of life?"*
+>
+> — Ruan Mei Character Story: Part III
+
+Ruan Mei is highly interested in Aeons, but she has only been really seen working on a couple specific ones. Furthermore, Ruan Mei has never been shown to worship any specific Aeon. Even though she is a member of the Genius Society, Ruan Mei has never explicitly pledged her allegiance to Nous, the Aeon of Erudition. Ruan Mei's playable combat path is the Harmony, but she does not have any lore relation to Xipe, the Aeon of Harmony, at all.
+
+While working on the Simulated Universe, Ruan Mei does need to know enough information about each Aeon in order to accurately simulate each one. In fact, Ruan Mei was the one who provided Herta with information on Lan, the Aeon of the Hunt. This could indicate that Ruan Mei has previously extensively researched Lan, or that she has dealt with THEM in the past. As the Data Bank states that Ruan Mei has been seen in Xianzhou a few times before, it is possible that she was there to research Lan. Either way, it is at least known that Ruan Mei is knowledgeable about Lan.
+
+    <insert image>
+
+Ruan Mei, a native of a planet blessed by the Abundance, should also be at least well-versed in any knowledge regarding Yaoshi, the Aeon of Abundance. However, it has never been stated how much Ruan Mei knows about Yaoshi or if she has done any research or had dealings with Yaoshi in the past.
+
+When players first meet Ruan Mei, she is currently studying Tayzzyronth, the Aeon of Propagation. Herta is aware of this but is frankly unsure why Ruan Mei has expressed so much interest in this specific Aeon. She also does not seem to care about the fact that Ruan Mei is interested in studying the Propagation.
+
 <div class="grid" markdown>
 
 === "Nous"
-    >*"She kept pushing herself for a more in-depth understanding of 'life,' just to bring herself closer to Nous — and their unforgettable glance."*
+    >*"She kept pushing herself for a more in-depth understanding of 'life,' just to bring herself closer to Nous — and THEIR unforgettable glance."*
     >
     > — Ruan Mei Character Story: Part III
 
-    ![nous](assets/images/lore/nous.png)
+    Ruan Mei's relationship with Nous is unclear, as most of her current focus has been shown to be towards Tayzzyronth. However, as a member of the Genius Society, Ruan Mei has received the gaze of Nous, just like every other accepted member of the Genius Society. However, while it isn't clear, it is likely that Ruan Mei actually received Nous's gaze *before* being invited to and joining the Genius Society. In fact, she was even able to ask THEM a question and receive an answer from THEM.
 
-    THIS SECTION IS UNDER CONSTRUCTION.
+    Ruan Mei rarely talks about Nous, but according to her Character Story Part III, Ruan Mei's behavior completely changed after receiving the gaze of Nous. She "became even more apathetic and impassive, and even more immersed in her research —She would only study the fundamental nature of 'life.'"
+
+    <figure markdown>
+      ![nous](assets/images/lore/nous.png)
+      <figcaption>Ruan Mei became apathetic after interacting with Nous.</figcaption>
+    </figure>
+
+    Even if Ruan Mei does not talk about Nous, and even though she does she seem to care about the Erudition or even the Genius Society, whatever Nous said to Ruan Mei was so impactful that it completely changed her course of action and research. The fact that Nous even acknowledged Ruan Mei is a feat itself. Before interacting with Nous, Ruan Mei was likely just a brilliant scientist who was very immersed into her research. Nous recognized her for her "terrifying perseverance," and possibly told her some information she needed to push herself even further. This led Ruan Mei to completely shut herself away from others in order to focus completely on her research.
+
+    However, Nous's affect on Ruan Mei also led her to have a change in personality as well. Ruan Mei suddenly stopped caring about anyone and anything except for her research. This eventually led to her invitation to join the Genius Society, which she ignored for a long time.
 
 === "Tayzzyronth"
-    > *"Tayzzyronth the Propagation! I don't know why Ruan Mei is so interested in them. Perhaps because they made such a ruckus with the Swarm Disaster they created."*
+    > *"Tayzzyronth the Propagation! I don't know why Ruan Mei is so interested in THEM. Perhaps because THEY made such a ruckus with the Swarm Disaster THEY created."*
     >
     > — Herta, about Tayzzyronth
 
-    ![lab](assets/images/lore/lab.png)
+    While Ruan Mei respects Nous, the same cannot be said about Tayzzyronth. Ruan Mei purely sees THEM as a research topic and experiment.
+
+    <figure markdown>
+      ![lab](assets/images/lore/lab.png)
+      <figcaption>Tayzzyronth is an interesting research topic to Ruan Mei.</figcaption>
+    </figure>
 
     THIS SECTION IS UNDER CONSTRUCTION.
 
 </div>
 
 ### Family Members
+> *"Her life in a tiny house with her family of science enthusiasts was filled with love. As such, it wasn't long before she realized there were subtle differences in "love," each kind coming with different scents."*
+>
+> — Ruan Mei Character Story: Part I
+
+Ruan Mei's relationship with her family is quite odd. She allegedly was raised in a "loving" household according to her character story. However, Ruan Mei's understanding of love changes over time from the emotional traditional kind to something more of an "equivalent exchange" relationship. 
+
+Eventually, Ruan Mei favored her aunt over her other relatives, because she would buy Ruan Mei snacks. Ruan Mei learned that the kind of "love" that mattered the most was the kind where there was personal benefit to it. She would only accept and offer this kind of "love" as she grew older.
+
 <div class="grid" markdown>
 
 === "Parents"
@@ -291,14 +352,12 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — Ruan Mei, about her name
 
-    Ruan Mei's relationship with her family is quite odd. She allegedly was raised in a "loving" household,  and "her life in a tiny house with her family of science enthusiasts was filled with love," according to her character story. However, Ruan Mei's understanding of love changes over time from the emotional traditional kind to something more of an "equivalent exchange" relationship. Eventually, Ruan Mei favored her aunt over her other relatives, because she would buy Ruan Mei snacks. Ruan Mei learned that the "love" that mattered the most was the kind where there was personal benefit to it. She would only accept this kind of "love" as she grew older.
+    While Ruan Mei states that both parents are equal, she clearly spends more time with her mother. She states herself that "my father was a sculptor, but it was my mother's passion for research that I shared." Ruan Mei's other was a "scientist," with quotes. It could imply that she loved research and science, but she didn't hold any degree or formal certification in it. It could also imply that she never made any major scientific breakthroughs. Nonetheless, while Ruan Mei's interests align with both her parents, being a biologist and an artist, she shares a stronger connection with her mother.
 
     <figure markdown>
       ![letter](assets/images/lore/letter.png)
       <figcaption>Ruan Mei is shown writing to her mother about their past.</figcaption>
     </figure>
-
-    While Ruan Mei states that both parents are equal, she clearly spends more time with her mother. She states herself that "my father was a sculptor, but it was my mother's passion for research that I shared." Ruan Mei's other was a "scientist," with quotes. It could imply that she loved research and science, but didn't hold a degree in it. It could also imply that she never made any major scientific breakthroughs. Nonetheless, while Ruan Mei's interests align with both her parents, being a biologist and an artist, she shares a stronger connection with her mother.
 
     As Ruan Mei grew older, her mother became more strict with her. They would roam around the planet, searching for traces of life and researching them. They never become emotionally closer through these expeditions, but Ruan Mei would receive rewards for her efforts, or "love." Judging from Ruan Mei's story, however, it seems as if she has inherited more of her mother's characteristics, at least personality-wise. They both are passionate about the sciences, and they both seem to have an eccentric personality. Ruan Mei states that she holds onto a piece of her mother's brain tissue, upon her mother's wishes. The reason for this is unknown, but it definitely sheds light on what kind of person Ruan Mei's mother was.
 
@@ -311,7 +370,11 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — Ruan Mei Character Story: Part IV
 
-    THIS SECTION IS UNDER CONSTRUCTION.
+    Not much is known about Ruan Mei's grandmother. However, it is apparent that she plays an important part in Ruan Mei's life. The Data Bank states that Ruan Mei's grandmother had been part of the Intelligentsia Guild, but she mysteriously disappeared after joining. The only information that is known about Ruan Mei's grandmother is that she is from Ruan Mei's maternal side and that she has been spying on Ruan Mei through a monitor for many years. Ruan Mei and her parents had also made a promise to Ruan Mei's grandmother, which her parents broke after passing away. It is unknown what the promise was, but Ruan Mei seemed disappointed for failing her grandmother after her parents passed. Nothing else is known about Ruan Mei's grandmother. Her current status is unknown.
+
+    It is interesting that Ruan Mei's grandmother joined the Intelligentsia Guild. While it is unknown when or why Ruan Mei's grandmother joined the organization, it is important to note that the Intelligentsia Guild is not on amicable terms with the Genius Society. Dr. Ratio, a member of the Intelligentsia Guild, has often berated the Genius Society for its exclusivity, and Herta, a member of the Genius Society, has criticized the Intelligentsia Guild for their "quantity over quality" mindset. As Ruan Mei is a member of the Genius Society, the fact that her grandmother joined the Intellligentsia Guild is at least ironic.
+
+    Ruan Mei also is not aware that her grandmother has been watching her this entire time. It is unknown if Ruan Mei knows of her grandmother's status or is even on good terms with her, as Ruan Mei has never mentioned her grandmother while talking to the Trailblazer or in her voicelines. Her only mention of her grandmother is not exactly in a friendly manner, either. It is also unknown how much Ruan Mei's grandmother knows about Ruan Mei. As Ruan Mei is a very hermetic person who often hides in isolated areas of the universe, it can be assumed that no one knows where Ruan Mei is at that time, unless her grandmother knows, unbeknownst to Ruan Mei. The fact that Ruan Mei's grandmother can even spy on Ruan Mei without the latter knowing is already impressive and even fearsome. There is likely much more to this than what is currently known, but it may remain a mystery.
 
 
 </div>
@@ -344,7 +407,7 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     >
     > — Ruan Mei, about her research
 
-    Most of the time, however, Ruan Mei views her creations as simply experiments that need to be studied, and nothing more. If they are a "failed" experiment that does not meet her expectations, she casts them aside. She won't kill them, but she won't know what to do with them. Ruan Mei even offers to give her "experiments" away if she does not need them anymore. This is shown when she leaves behind several critters at the Herta Space Station for the Department of Ecology to take care of. She simply does not care about them afterwards.
+    Most of the time, however, Ruan Mei views her creations as simply experiments that need to be studied, and nothing more. If they are a "failed" experiment that does not meet her expectations, she casts them aside. She won't kill them, but she won't know what to do with them. Ruan Mei even offers to give her "experiments" away if she does not need them anymore. This is shown when she leaves behind several critters at the Herta Space Station for the Department of Ecology to take care of. She simply does not care about them afterwards, but she is not cruel enough to dispose of them. Instead, Ruan Mei will give them up for adoption to someone who would be willing to take better care of them.
 
     When taking care of her creations, Ruan Mei views it more of a required task rather than an act of care. When giving the Trailblazer one of her creations, which she refers to as a "puppet" with intelligent and emotional capabilities, she states that she can draft a formula to nurture the creature. Instead of instructing the Trailblazer what to do, she instead uses a scientific formula, showing how she views her creation as a mere experiment rather than a companion or pet. How quickly and indifferently she was willing to give it away also illustrates how Ruan Mei does not have a connection with her creations.
 
@@ -366,29 +429,149 @@ Ruan Mei's relationship with the Genius Society is questionable at best. Of cour
     The Trailblazer seems to have mixed feelings towards Ruan Mei. On one hand, they seem attracted to her beauty and elegant demeanor. On the other hand, they also don't like how she forced them to fight an Emanator of Propagation without prior warning. It has also become a slight running joke that Ruan Mei will offer the Trailblazer pastries with "weird ingredients" as a reference to the time the Trailblazer unknowingly consumed a pastry with anti-truth serum. In general, though, the Trailblazer's opinion towards Ruan Mei seems fairly neutral or slightly positive, depending on what dialogue options the player chooses. As for Ruan Mei, she merely sees the Trailblazer as a tool for her. However, she will occasionally acknowledge the Trailblazer, whether it be their character, strength, humor, or other qualities.
 
 
+=== "Tingyun"
+    > *"'Resurrection' is always a strange experience, but Miss Ruan Mei instructed me to not overthink things. I just needed to follow a regular routine and focus on exercise to regain my health. Her tone was so relaxed... as if this was all a simple task."*
+    >
+    > — Fugue, about Ruan Mei
+    
+    Tingyun, now known as Fugue, was able to "resurrect" due to Ruan Mei's efforts during the 2.7 Trailblaze Continuance Story. Ruan Mei helped Tingyun during her recovery phase and guided her as she tried to regain her consciousness. Because of this, Tingyun respects Ruan Mei and is even in awe of her talents. However, she also views Ruan Mei as a mystery. 
+
+    To Tingyun, what Ruan Mei has done for her is nothing short of remarkable and impressive, even though she is aware that Ruan Mei is a Genius Society member. She is even more amazed by Ruan Mei's seemingly nonchalant demeanor towards this whole ordeal, as resurrection is an incredible feat to anyone and probably left Tingyun in much shock and confusion. What also bewilders Tingyun is that she's unsure of exactly why Ruan Mei agreed to take part in this experiment.
+
+    <figure markdown>
+      ![fugue](assets/images/lore/rmfugue.png)
+      <figcaption>Ruan Mei was able to successfully resurrect Tingyun.</figcaption>
+    </figure>
+
+    > *"She has simply proven once again that our understanding of the essence of life is still far from complete."*
+    >
+    > — Ruan Mei, about Fugue
+
+    It is unclear how Ruan Mei truly feels about Tingyun. After all, it is very possible that Ruan Mei sees her as mostly an interesting experiment and not much else. It is also possible that Ruan Mei *does* view Tingyun as a patient who needs treatment, but Ruan Mei may compelled to prioritize her as an experiment first before all else. After all, Tingyun's resurrection is something that can help advance Ruan Mei's research, and Ruan Mei had never asked for Tingyun's consent on her physical and biological alterations. 
+
+    Even if Ruan Mei does feel a sort of sympathy or other human emotion towards Tingyun, as a scientist with a clear goal, she cannot let her emotions take over or grow too attached to Tingyun. Thus, if she feels any emotion at all towards her, Ruan Mei is likely suppressing those emotions.
+
+    Despite this, Ruan Mei does make sure to guide Tingyun and give her advice on recovery, and she makes sure to treat her kindly. Ruan Mei often reminds Tingyun to keep looking forward and acknowledge what little freedom she has left.
+
+    > *"She remains silent for a long time, lost in thought.*
+    >
+    > 'Business is a two-way traffic, but since I am no longer the same as before, do I still have a choice?'
+    >
+    > *Ruan Mei meets the young girl's gaze and shakes her head.*
+    >
+    > 'I don't know. That is your "choice," and only "you" can make it.'*"*
+    >
+    > — Fugue Character Story: Part IV
+    
+    Ruan Mei only has one goal regarding Tingyun, and that is to successfully revive her. As she accepted Luocha's request to do just that and nothing else, Ruan Mei does not care about what else happens to Tingyun. All she needs to do is to bring Tingyun back from the dead in a healthy state. The rest is up to Tingyun. Even though Tingyun is now an important playing card in the Xianzhou Alliance's conflict, Ruan Mei does not prioritize this fact over Tingyun's freedom.
+
+    With this in mind, Ruan Mei makes it clear to give Tingyun a choice in what to do. She informs Tingyun of what has happened and why she is important enough to be resurrected, but she ultimately gives Tingyun the freedom to choose what she wants to do moving forward. If Tingyun had chosen to stay hidden, live a peaceful life, and have nothing to do with helping the Xianzhou Alliance, Ruan Mei would not have stopped her. 
+
+    After all, what Tingyun had experienced was very physically and mentally traumatic, and it would have been reasonable to allow her to live quietly instead of forcing her to help the Xianzhou Alliance. Even Yukong, Tingyun's mentor, wishes for Tingyun to lead a safe life hidden away with her in Xianzhou Luofu. However, Ruan Mei reminds Tingyun that she needs to have a direction and a destination in life. Following Ruan Mei's advice, Tingyun chooses to risk her safety and help the Xianzhou Alliance.
+
+    > *"Life is inherently born from nothing. You still have the right to choose. Move forward. As long as you remember... where you were supposed to go."*
+    >
+    > — Ruan Mei, to Fugue
+
+    It is possible that Ruan Mei, either under her own motives or Luocha's and Jingliu's motives, was trying to persuade or even manipulate Tingyun into helping the Xianzhou Alliance. As Tingyun would feel indebted to Ruan Mei for resurrecting her, she would be more likely to heed Ruan Mei's requests. However, this does not seem to be the case, as Ruan Mei would have no reason to care about the Xianzhou Alliance's affairs. It is far more likely that Ruan Mei chose to help Tingyun because it would help the former understand life and her own research better.
+
+    It seems likely that Ruan Mei is prioritizing Tingyun's immediate health and wellbeing first before anything else. She even tells Tingyun that "Resistance is an enduring process. Try not to overexert yourself. If you need help, feel free to come find me anytime," when Tingyun comments about feeling the lingering remains of Destruction inside her. Ruan Mei even created physical exercises based on Xianzhou dance moves, much to Tingyun's pleasure, in order to help Tingyun rehabilitate. Tingyun's personal health and freedom is the most important thing to Ruan Mei regarding this experiment, and Ruan Mei does not seem to care about what happens with the Xianzhou Alliance.
+
 </div>
 
-## Theories
-Below are some possible theories about Ruan Mei. Please keep in mind that these theories are not confirmed to be true and are simply inferences based on the currently available material on Ruan Mei. (THESE SECTIONS ARE UNDER CONSTRUCTION)
+## Debunking Common Misconceptions
+As Ruan Mei is a very complex character who unfortunately does not have much screentime, many people unfortunately have formed false ideas about her character. It does not help that people will often quickly jump to conclusions without understanding a character and then spread misinformation about them. After more lore about the Swarm Disaster was revealed to the playerbase, further misunderstandings have unfortunately arisen. This section will hopefully clear up any misconceptions about Ruan Mei's character.
 
-### Becoming an Aeon
-It is no question that Ruan Mei has considered the possibility of becoming an Aeon herself. This face has been made quite obvious in her Myriad Celestia trailer. However, many people don't know the reason for this. 
+### Misconception: Ruan Mei Is Evil; Ruan Mei Is a Villain
+The most common misconception about Ruan Mei is that Ruan Mei is evil. Many people will often jump to this conclusion or assume such, mostly because they are unwilling to understand Ruan Mei's character and will believe the simplest assumption about her.
+
+What needs to be realized is that people, even fictional characters, are not as simple as black and white. Very rarely are people purely good or purely evil. Ruan Mei is a perfect example of a morally gray and complex character. She's not completely a bad person, but she's not necessarily a good person, either. Very few people are purely good or purely bad, and Ruan Mei is a great example of that.
+
+People's opinions of Ruan Mei, both in-game and in real life, vary greatly. Some people praise Ruan Mei endlessly for her accomplishments, what she has done for others, her admirably outstanding intellect, and her multitude of talents. Some may even praise her because they think she is a villain. Some will simply hate her due to her aloof personality and disregard for others, citing incidents such as when she "abandoned" her creations, manipulated the Trailblazer, and cloned the deadly Emanator of Propagation. The varying opinions on Ruan Mei just goes to show that she is in fact, a very complex character. 
+
+    <insert image>
+
+However, one thing is for sure is that she is far from a villain or someone with evil intentions. When people accuse Ruan Mei as a villain, they only look at the surface level of her character. Did she abandon her creations? Did she leave them because she did not care about them? No. Ruan Mei simply could not care for them anymore and entrusted them to someone who could; in this case, the Department of Ecology at the Herta Space Station. She even asks the Trailblazer for pictures and updates on her critters. 
+
+Did Ruan Mei mistreat the Trailblazer out of malice? No. Ruan Mei never intended for the Trailblazer to suffer, and to her, there were no consequences to having the Trailblazer ingest the anti-truth serum or fight the Emanator of Propagation. She did not even think that the Trailblazer would or had suffered. While her actions were definitely not okay, and she did not consider asking for the Trailblazer's consent, she was fully aware that there would be no real danger and even compensated the Trailblazer properly for their efforts.
+
+This can be thought of in reverse, as well. Ruan Mei revived Tingyun and gave her another chance at life. Did she do it out of pure goodwill? No. She did it because she was asked to. Although it is not exactly clear why Ruan Mei accepted Luocha's request to revive Tingyun, she was aware of what was going on in Xianzhou and what happened to Tingyun. Despite this, she gave Tingyun a choice to decide what she wanted to do moving forward. What Ruan Mei did with Tingyun was ultimately a good thing, but she did not do it out of goodwill or malice. She simply did what she wanted to do because she wanted to.
+
+
+    <insert image>
+
+What is important to understanding Ruan Mei's character is not necessarily *what* she has done or does, but rather *why* she does it. When she performs a good deed, it is usually not out of goodwill. The same applies for any bad deed she has done. Of course, this does not justify or excuse anything Ruan Mei has done wrong. However, Ruan Mei has never shown to be a real threat or someone who would perform villainous acts.
+
+Ruan Mei is a very flawed person. She has no empathy for others and will only consider her goals. Ruan Mei lacks understanding of social norms and cues. However, she is not necessarily a bad person, and she is far from evil. It is important to acknowledge Ruan Mei's faults but also understand her character.
+
+### Misconception: Ruan Mei Created the Swarm
+Ruan Mei did not create the Swarm. Tayzzyronth created the Swarm. There is zero connection between Ruan Mei and the Swarm, and there is zero connection between Ruan Mei and the Propagation. Ruan Mei only experiments on Swarm lifeforms because she sees them as lab rats. A simple playthrough of the 1.6 Trailblaze Continuance quest would make that quite obvious.
+
+### Misconception: Ruan Mei Wants to Bring back the Swarm
+Ruan Mei has zero desire nor reason to bring back the Swarm. This conclusion is extremely baseless and unfounded, and it has unfortunately led people to believe false conceptions of Ruan Mei's character and lore.
+
+A basic playthrough of the 1.6 Trailblaze Continuance quest would show that Ruan Mei has never once cared to bring back the Swarm. There is no need to even read Ruan Mei's character stories or readables to know this, because it is just that obvious. In fact, the Swarm is still present, just on a much smaller scale after Qlipoth's intervention.
+
+Ruan Mei is in fact interested in studying the Swarm and the Propagation, and she often experiments with the Swarm. However, this is *not* because she wants to bring back the Swarm. Doing so would not align with Ruan Mei's true goals at all. Rather, Ruan Mei is interested in the Swarm because they are easy to work with. Unlike other life forms and even Emanators, the Swarm consists of very simple, easy to understand, and easy to replicate lifeforms. This allows for easy experimentation for Ruan Mei, as the Swarm is disposable to her.
+
+Ruan Mei is interested in studying Aeons, and by relation, she is interested in studying Emanators. While she has easy access to an Emanator of Erudition, Herta, Ruan Mei cannot just experiment on a someone who is her coworker and acquaintance, especially someone who is a high-profile and important figure. She cannot toy with Herta's life in that manner. In contrast, Skaracabaz, the Emanator of Propagation, is not only a creature who is already dead, but a much simpler and disposable one. It would make more sense to Ruan Mei to experiment on that kind of creature rather than an existing, highly intelligent, powerful, and important person.
+
+As Ruan Mei is interesting in studying Aeons, it is just not aligned with her interests to bring back the Swarm to its former peak.
+
+### Misconception: Ruan Mei Is Incapable of Emotion
+Many players will often describe Ruan Mei as emotionless, unfeeling, and other similar terms. However, Ruan Mei is perfectly capable of feeling emotion, and she has done so in the past. Ruan Mei is just like any other human, and she can feel happiness, sadness, anger, frustration, wonder, and other emotions, just like a normal person. What makes Ruan Mei different is how she handles her emotions. Ruan Mei suppresses her emotions and often shows that she is very emotionally immature. Ruan Mei finds emotions to be a hindrance, so instead of acknowledging them and facing them, she hides them. This doesn't mean that she has no emotions, it just means that she is bad at dealing with them.
+
+More information on how Ruan Mei handles emotions and how it affects her behavior can be explored in our newly published [Ruan Mei Neurodivergence Analysis](neurodivergence.md 'Ruan Mei Neurodivergence Analysis') article.
+
+### Misconception: Ruan Mei Wants to Become an Aeon
+It is no question that Ruan Mei has considered the possibility of becoming an Aeon herself. This fact has been made quite obvious in her Myriad Celestia trailer. However, many people don't know the reason for this, and they will often misinterpret this as Ruan Mei wanting to be an Aeon as her end goal. 
 
 Ruan Mei's goal isn't necessarily to become an Aeon. Rather, it is a possibility that she is interested in if she ends up uncovering the mysteries and unknowns of Aeons. Theoretically, if Ruan Mei, someone who has created entirely new species, created worlds, and even created dimensions, can understand the biological code of an Aeon, then it is possible to create and even become one. She is already quite close, as she has created a replica of an Emanator already.
 
 The issue is that Aeons are complicated, variable, and not like other lifeforms. In the Star Rail universe, Aeons are something of a godly being, something that differs from normal creatures. They don't follow the same biological rules as other specimen in the universe. Thus, it is difficult to understand what makes an Aeon. How does one ascend to Aeonhood? Can one be born as an Aeon? What defines an Aeon? The answer to these questions defy science and logic, and to Ruan Mei, a biologist, it is something that she finds fascinating. If Ruan Mei can find the answer to these questions and truly understand all there is to Aeons, then not only can she potentially create an Aeon herself, she can even become one.
 
-To summarize, Ruan Mei doesn't necessarily *want* to become an Aeon. She doesn't care about gaining power or ascending to Aeonhood. She simply wants to understand them and test the limits of her understanding, as it is one of the few biological topics she cannot understand. If she truly understands Aeons, then she can create or become one. She has similarly proven her understanding of living beings by creating new species. Funnily enough, Ruan Mei is already disconnected from society and people and has an extreme obsession with something (creation and understanding life), so she is ironically already on track to become an Aeon. 
+    <insert dna image from trailer>
+
+To summarize, Ruan Mei doesn't necessarily *want* to become an Aeon. She doesn't care about gaining power or ascending to Aeonhood. She simply wants to understand them and test the limits of her understanding, as it is one of the few biological topics she cannot understand. If she truly understands Aeons, then she can create or become one. She has similarly proven her understanding of living beings by creating new species. Funnily enough, Ruan Mei is already disconnected from society and people and has an extreme obsession with something (creation and understanding life), so she is ironically already on track to become an Aeon.
+
+### Misconception: Ruan Mei Is an Emanator
+Many people will often think that being a member of the Genius Society will automatically give Emanator status. However, this is untrue. There is no indication that Ruan Mei, or most Genius Society members, are Emanators of Erudition. So far, the only confirmed Emanators of Erudition who are also Genius Society members are Zander One Kuwabara, Herta, and Dr. Primitive. It is possible that Lambda, Genius Society #8, is also an Emanator of Erudition, but Ruan Mei is definitely not an Emanator herself. This is also the reason why Ruan Mei wishes to study more about Emanators and even revive or create one, as she is not one herself.
+
+## Theories and Inferences
+Below are some possible theories or deeper analyses on unclear topics about Ruan Mei. Please keep in mind that these theories are not confirmed to be true and are simply inferences based on the currently available material on Ruan Mei. They are meant to keep the reader thinking and guessing about these ideas, but they are not necessarily true.
+
+### Becoming or Creating an Aeon
+Many people have been anticipating that Ruan Mei would eventually ascend to Aeonhood in the Honkai: Star Rail story. While there is no concrete indication that she will ascend to Aeonhood, it is fun to consider this possibility, especially because Ruan Mei *could* very possibly eventually become one in the future, considering her level of intellect and ambition.
 
 What Aeon would Ruan Mei be if she ended up becoming one? The most possible ones would be the Aeon of Origin, Aeon of Creation, or Aeon of Life. There is already an Aeon of Finality, so an Aeon of Origin would balance it out according to HooH's equilibrium. An Aeon of Creation would be possible as well, as Ruan Mei is already regarded as a "master of creation." The least likely of the three would be the Aeon of Life, as it is a bit too similar to the Aeon of Abundance. 
 
-### Being a member of the Sanctus Medicus
-This theory is quite interesting and has little backing, but it is still something worth considering. The basis for this theory is the Golden Badge that can be obtained via Bailu's Companionship Quest.
+As of right now, Ruan Mei's current research has been focusing on not necessarily ascending to Aeonhood, but actually killing Aeons. The 2.6 Trailblaze Continuance Story has indicated that Ruan Mei has been collaborating with Jingliu and Luocha to present the idea that it is possible to kill an Aeon, using Tayzzyronth's remains as part of the research. When studying life, it is important to study both the end and beginning of life. Would understanding an Aeon's death help Ruan Mei understand its birth? Would it help Ruan Mei to ascend to Aeonhood, or even create an Aeon?
 
-![badge](assets/images/lore/goldenbadge.png){ align=left width=100 }
+Currently, there is no concrete knowledge on how Aeons exist and ascend. This is what has been confusing Ruan Mei this entire time. However, we do know that Zander One Kuwabara, the first member of the Genius Society, created Nous, who eventually ascended to become the Aeon of Erudition. This means that it is possible for a human to create something that will become an Aeon. Ruan Mei is unfortunately not quite at the level yet, as she has only been able to create intelligent life forms. 
 
-### Reviving her Parents
-It has been stated already that Ruan Mei's relationship with love and her parents was quite odd. More importantly though, after her parents' deaths, Ruan Mei states that it was a shame that she could not protect her parents, breaking the promise she had made.
+However, once Ruan Mei fully understands the mystery of Aeons, it is very possible that she could either create an Aeon or even become one herself. The only question is when that would happen.
+
+### Being a Disciple of the Sanctus Medicus
+This theory is quite interesting and has little backing, but it is still something worth considering. The basis for this theory is the Golden Badge that can be obtained via Bailu's Companionship Quest. The badge highly resembles a plum blossom, a very important motif related to Ruan Mei, and the in-game description of the badge states that the badge's appearance gives away the original wearer's identity.
+
+![badge](assets/images/lore/goldenbadge.png){ align=left width=150 }
+
+Ruan Mei was originally from a planet blessed by the Abundance, which is the path that the Sanctus Medicus is affiliated with. However, she does not remember much of the planet, as she left long ago. She does hold fond memories of her home, and it seems that she does want to visit it again. It is important to note that it is possible that Ruan Mei's home planet might not exist anymore.
+
+This alone could be a reason for Ruan Mei's affiliation with the Sanctus Medicus. As an organization that is affiliated with the Abundance, they may have members who could have been natives of Ruan Mei's home planet. If the planet no longer exists anymore, they may hold a grudge against anyone or anything that was related to the planet's destruction. Ruan Mei was also seen in Xianzhou a few times according to the Data Bank, which means it is possible she may have had dealings with the Sanctus Medicus, especially as a biologist.
+
+The original Disciples of the Sanctus Medicus, known as the Old Disciples of Sanctus Medicus, was simply a harmless group of people who worshipped Yaoshi. It is possible that Ruan Mei was an older and previous member of the Sanctus Medicus, who was involved with this older organization. As a native of a planet of Abundance who was also seen in Xianzhou, this is a high possibility.
+
+Ruan Mei is also often working on projects having to do with resurrecting life forms, which may align with the Sanctus Medicus's goals and ideas. Furthermore, Ruan Mei was able to obtain a fruit blessed by the Abundance for one of her experiments, which could imply that Ruan Mei has some sort of connection with someone or something that could give her access to such an item.
+
+Because the Sanctus Medicus is such a widespread organization with tens of thousands of members spreading far and wide, different goals and members may exist within the organization. This also allows for more possibility that someone like Ruan Mei is a current or previous member of the organization.
+
+### The Current State of Ruan Mei's Parents
+It has been stated already that Ruan Mei's relationship with love and her parents was quite odd. More importantly though, after her parents' deaths, Ruan Mei states that it was a shame that she could not protect her parents, breaking the promise she had made. This indicates that it is highly possible that Ruan Mei had a motive to bring her parents back to life. It may not have necessarily been out of grief, but rather due to some other goal.
+
+Ruan Mei's Character Story Part II highly implies that she successfully revived her parents. However, she has never talked about them in present tense while talking to the Trailblazer. Furthermore, Ruan Mei's other "resurrection" projects have had varying results. When "reviving" the Emanator of Propagation, the "revived" subject was actually just a clone who died in less than a minute. When trying to revive Lambda, Genius Society #8, he willingly died again. However, when reviving Tingyun, she was able to successfully resurrect the original Tingyun with most of her memories and consciousness intact, albeit with some minor alterations.
+
+What this means is that it is unclear what exactly is the current state of Ruan Mei's parents. Are they alive? Are they comatose? Are they just clones? When referring to her parents during a conversation in the Astral Express, Ruan Mei states that she needs to check on her father at home, but she also states that she held onto a piece of her mother's brain tissue. It can be inferred that her parents still physically exist in some form, but they are very likely not in a "normal" state. Ruan Mei also does not seem to be worried about her parents, as she is willing to wait until after she makes more progress in her research before visiting her parents.
 
 
 ## Sources
