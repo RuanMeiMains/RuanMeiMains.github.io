@@ -25,7 +25,7 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
     <a href="https://discord.gg/ruanmei" target="_blank">:material-arrow-right: Head to our Discord server!</a>
 
 
--   **Our Ruan Mei Guide is updated for 2.5!**
+-   **Our Ruan Mei Guide is updated for 3.0!**
 
     ---
 
@@ -66,7 +66,11 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 ![tea](https://i.postimg.cc/kMRc6b03/ezgif-com-resize-6.gif){ align=left width=320 style='border-radius: 6px; margin-top: 0' } <iframe src="https://discord.com/widget?id=1106785082028597258&theme=dark" title="discord.gg/ruanmei" footer="Come hangout with us!" width="320" height="480" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" style="border-radius: 6px"></iframe>
 
 ## Support Us
-Donate to our Ko-fi! Ruan Mei Mains is a completely voluntary organization, and our resources and giveaways are funded out of pocket or via donations. Your support helps us improve our community! All donations go towards event prizes, giveaways, this website, and other community resources.
+Donate to our Ko-fi! Ruan Mei Mains is a completely voluntary organization, and our resources and giveaways are funded out of pocket or via donations. We gain zero profits from our site or communities and rely purely on community donations or out of pocket funding. Your support helps us improve our community! All donations go towards event prizes, giveaways, this website, and other community resources.
 
 [Support us on Ko-fi! :fontawesome-solid-mug-hot: ](https://ko-fi.com/ruanmeimains){ .md-button target="_blank" }
 
+## Contact Us
+Need to contact the Ruan Mei Mains staff? Any questions or concerns can be redirected to our Discord server modmail bot, <a href="https://discord.com/users/1148374427441049750" target="_blank">ruanmei#1318</a>. You will then be directly connected to our moderator team! Keep in mind that you must be in our <a href="https://discord.gg/ruanmei" target="_blank">Discord server</a> in order to message the bot. Contacting our modmail pings our entire moderator team, so please only reserve modmails for important inquiries!
+
+[Contact our Modmail! :material-message: ](https://discord.com/users/1148374427441049750){ .md-button target="_blank" }
