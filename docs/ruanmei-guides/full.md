@@ -3,13 +3,34 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 ---
 
 # Ruan Mei Full Guide ❀
-##### _Updated for 2.5; Written by mr.swedishfish and sealary, Edited by nv50, m4raku, and euphriia, Calculations provided by agentyoda, m4raku, drachk, sealary, and nv50_
+##### _Updated for 3.0; Written by mr.swedishfish, nv50, and sealary, Edited by m4raku and euphriia, Calculations provided by agentyoda, m4raku, drachk, sealary, and nv50_
 > _"Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — it is a gift."_
 
 ![ruanmei](../assets/images/guides/full/drip.png)
 
 
 ## Guide Updates
+??? edit "Patch 3.0 Updates"
+
+    ## Guide Updates (Patch 3.0)
+    The following are the newest additions and changes to our guide with the release of patch 3.0.
+
+    ### New Relic Recommendations
+    ![sacerdos](../assets/images/guides/sacerdos.png){ align=left width=75 } **Sacerdos' Relived Ordeal** is a relic set released in 2.6 and intended for single-target buffers like Sunday and Tingyun. While the 4PC passive doesn't benefit Ruan Mei, as she is a teamwide buffer, its 2PC passive is exactly the same as **Messenger Traversing Hackerspace**. In other words, this set allows for another source of SPD, so you can farm this set for fuel efficiency if you need the **Scholar Lost in Erudition** set for another character! Check out which relic sets you can use on Ruan Mei in our [4PC Relic Set Recommendations](#4pc-relic-recommendations "4PC Relic Set Recommendations") section!
+
+    ### New Character Comparisons
+    ![fugue](../assets/images/guides/fugue.png){ align=left width=75 } **Fugue**, who was recently resurrected by Ruan Mei herself, debuts with a new and upgraded 5-star form in patch 2.7. Previously known as Tingyun, she has now cast aside her Harmony combat path, becoming a Nihility character who debuffs enemies. However, Fugue still retains support capabilities, allowing a single ally to ignore weaknesses and the entire team to deal Super Break damage. With Fugue joining the cast of Break supports, many players have been wondering if they should cast aside Ruan Mei for Fugue in their Break teams. Is it worth the switch? Find out by checking out our [Character Comparisons](#character-comparisons "Character Comparisons") section!
+
+    ![jiaoqiu](../assets/images/guides/jiaoqiu.png){ align=left width=75 } **Jiaoqiu**, a debuffer, pairs great with Nihility characters such as Acheron. He also has DoT in his kit, allowing him to fit in Kafka DoT teams. While Jiaoqiu isn't a buffer like Ruan Mei, but rather a debuffer, his support capabilities synergize well with other Nihility characters despite losing out on some teamwide damage. Does he replace Ruan Mei in DoT team compositions? Is it worth switching her out for some extra DPS? Check out our updated [Character Comparisons](#character-comparisons "Character Comparisons") section to find out!
+
+    ### Updated Synergies
+    ![rappa](../assets/images/guides/rappa.png){ align=left width=75 } **Rappa** joins the growing cast of Break DPS characters, and at this point, everyone knows that every Break DPS wants Ruan Mei on their team. Rappa, unlike previous Break DPS characters, is an Erudition character who focuses on AOE attacks, making her a great option for Pure Fiction and battles with multiple enemies. As she relies on breaking enemies to deal damage, Ruan Mei is a must-have for Rappa. Find out Ruan Mei's other great and not-so-great teammates by checking out our [Teammates Section](#teammates "Teammates Section")!
+
+    ![fugue](../assets/images/guides/fugue.png){ align=left width=75 } **Fugue** joins Harmony Trailblazer as the second Super Break-enabling character in patch 2.7. Unlike HMC, whose Super Break enabling is locked to their ultimate, Fugue's Super Break is enabled to the entire team just from her existing in the team. Additionally, Fugue provides several other support capabilities, such as weakness ignore on her ultimate, allowing a single ally to ignore all weaknesses, DEF shred, Break Effect boost for the entire time, sub-DPS damage, and more. Outside of being a HMC alternative, Fugue is highly synergistic with Ruan Mei. Ruan Mei is the game's premier break support, so her buffs only directly benefit Fugue's skills. Whether you need a second HMC for your break team, a rainbow breaker, or just another Break unit, make sure to pair her with Ruan Mei if you can!
+
+    ### New Team Composition: Hyper Break Team
+    As Fugue joins the growing cast of Break supports, many people have wondered if they should replace their existing characters to slot in Fugue. How about going sustainless, or even DPS Lingsha, instead? This new and unique team composition, the Hyper Break team, allows for high damage output for any Break DPS at the cost of less sustain. Not to worry, though! With Ruan Mei's Weakness Recovery Delay and Weakness Break Efficiency, enemies will be defeated before they'll have a chance to attack. Check out Ruan Mei's various team compositions in our [Team Compositions](#team-composition-examples "Team Composition Examples") section!
+
 ??? edit "Patch 2.5 Updates"
 
     ## Guide Updates (Patch 2.5)
@@ -91,6 +112,11 @@ Ruan Mei is a support character capable of increasing allies' Weakness Break Eff
 *[EBA]: Enhanced Basic Attack
 *[DoT]: Damage Over Time
 *[ERR]: Energy Regeneration Rate
+*[MOC]: Memory of Chaos
+*[PF]: Pure Fiction
+*[AS]: Apocalyptic Shadow
+*[SU]: Simulated Universe
+*[DU]: Divergent Universe
 
 If you need a quick overview on Ruan Mei and how to build her, you can check the infographic below or check our [Quick Guide](quick.md "Ruan Mei Quick Guide").
 
@@ -131,20 +157,20 @@ Because Ruan Mei is SP positive and her skill lasts for three turns, it is recom
 
 Ideally, you want to cast Ruan Mei's ultimate every three turns (this will be referred to as 3T ult). This is so you can have as much ultimate uptime as possible. Ruan Mei's value mostly comes from her ultimate, so higher uptime means more buffs. The problem is that this is pretty difficult to achieve. Her signature light cone does not provide enough energy to achieve a 3T ult, and Energy Recharge buffs and stats are extremely rare.
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/run3ah?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/dgzr0j?autoplay=1&muted=1" width="100%" height="100%" frameborder="0" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 <figure markdown>
-  <figcaption>Example of a 3T ultimate with S4 MotP by sealary.</figcaption>
+  <figcaption>Example of a 3T ultimate with S5 MotP by nv50.</figcaption>
 </figure>
 
-Is 3T ult really necessary, though? Not really, but it is ideal. It is more important to reach the minimum recommended Break Effect (180%) before focusing on a 3T ult. If you're comfortable with casting Ruan Mei's ultimate every four turns instead, then that's fine! While you may lose out on some buffs, Ruan Mei certainly isn't "unplayable" with a 4T ult. Again, it is more important to focus on having at least 180% Break Effect. 
+Is 3T ult really necessary, though? Not really, but it is ideal. It is more important to reach the minimum recommended Break Effect (160%) before focusing on a 3T ult. If you're comfortable with casting Ruan Mei's ultimate every four turns instead, then that's fine! While you may lose out on some buffs, Ruan Mei certainly isn't "unplayable" with a 4T ult. Again, it is more important to focus on having at least 160% Break Effect. 
 
 Still, it is best to try to optimize your ultimate uptime as much as possible. Even if you can't achieve a 3T ult, you should still try to make the most of your energy and ult as much as you can with what you have. It is best to aim for 4T ult as a minimum goal and 3T as the ideal.
 
 If you are unsure if you are able to achieve a 3T or 4T ultimate with what you have, you can check our [Energy Requirements](#energy-requirements "Ruan Mei Energy requirements") section in this guide!
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/fgk1sw?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/dtna5j?autoplay=1&muted=1" width="100%" height="100%" frameborder="0" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 <figure markdown>
-  <figcaption>Example of a 4T ultimate with S2 Dance! Dance! Dance! by sealary.</figcaption>
+  <figcaption>Example of a 4T ultimate with S4 Dance! Dance! Dance! by nv50.</figcaption>
 </figure>
 
 ## Traces
@@ -228,7 +254,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
     ![a2](../assets/images/guides/full/SkillIcon_1303_SkillTree3.png){ align=left } In battle, for every 10% of Ruan Mei's Break Effect that exceeds 120%, her Skill additionally increases allies' DMG by 6%, up to a maximum of 36%.
 
-    This trace should definitely be prioritized. When Ruan Mei's Break Effect reaches 180% or higher, her allies will recieve a free 36% DMG increase from her skill. This is also why having at least 180% Break Effect is recommended.
+    This trace should definitely be prioritized. When Ruan Mei's Break Effect reaches 180% or higher in combat, her allies will recieve a free 36% DMG increase from her skill. This is also why having at least 160% Break Effect (because Ruan Mei gains 20% Break Effect from her Inert Respiration trace in combat) is recommended.
 
 === "A4: Days Wane, Thoughts Wax"
 
@@ -245,7 +271,7 @@ Ruan Mei's ascension traces are also quite decent. Her second and fourth ascensi
 
     ![a6](../assets/images/guides/full/SkillIcon_1303_SkillTree1.png){ align=left } Increases Break Effect by 20% for all allies.
 
-    This trace is decent, but it's not as valuable as the other ascension stats. Still, it is recommended to prioritize this trace. It helps make reaching the recommended 180% Break Effect threshold easier, allowing you to invest in other stats, and it benefits any allies who need Break Effect. **NOTE: THIS TRACE DOES NOT TAKE EFFECT UNTIL YOU ARE IN BATTLE.**
+    This trace is decent, but it's not as valuable as the other ascension stats. Still, it is recommended to prioritize this trace. It helps make reaching the recommended 180% Break Effect threshold easier, allowing you to invest in other stats, and it benefits any allies who need Break Effect. **NOTE: THIS TRACE DOES NOT TAKE EFFECT UNTIL YOU ARE IN BATTLE.** Outside of combat, Ruan Mei should have at least 160% Break Effect.
 
 </div>
 
@@ -349,7 +375,7 @@ Because HMC makes better use of Ruan Mei's signature light cone than Ruan Mei do
 
 Ruan Mei mainly needs Break Effect, SPD, and Energy Regeneration Rate, as those are the stats that help improve her support capabilities the most. Because she is a support character and Break DMG cannot crit, offensive stats such as CRIT and ATK don't contribute anything to her playstyle. Do not invest in those.
 
-When choosing a relic set for Ruan Mei, prioritize reaching 180% Break Effect (160% without Ruan Mei's Inert Respiration trace) first. If you are lacking Break Effect, it may be better to run a relic set that provides more Break Effect, depending on what you need. If you are able to cast Ruan Mei's ultimate often and reach the required amount of Break Effect without a Break Effect relic set, then 4PC Hackerspace is recommended. Otherwise, consider using a 2PC 2PC alternative or even a different set.
+When choosing a relic set for Ruan Mei, prioritize reaching 180% Break Effect (160% without Ruan Mei's Inert Respiration trace) first. There is no signature or superior relic set for Ruan Mei, as long as she reaches her stat goals. If you are lacking Break Effect, it may be better to run a relic set that provides more Break Effect, depending on what you need. If you are able to cast Ruan Mei's ultimate often and reach the required amount of Break Effect without a Break Effect relic set, then 4PC Hackerspace is recommended. Otherwise, consider using a 2PC 2PC alternative or even a different set.
 
 For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2PC Hackerspace. When choosing which Break Effect set to farm, choose the set that is more fuel-efficient. If you need the Pioneer (debuff) set, farm for Watchmaker. If you need the Boxing (physical) set, farm for Thief. If you need the Valorous (FUA) set, farm for Iron Cavalry.
 
@@ -367,7 +393,7 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     * Increases SPD for all allies (about 25%-33% uptime)
     * Only recommended if you have enough Break Effect, SPD, and ultimate uptime
 
-=== "2PC Thief/Watchmaker/Iron Cavalry, 2PC Hackerspace"
+=== "2PC Thief/Watchmaker/Iron Cavalry, 2PC Hackerspace/Sacerdos"
     ![2pc](../assets/images/2pc2pc1.png){ align=left width=128 }
     
     Increases the wearer's Break Effect by 16%. Increases SPD by 6%.
@@ -407,7 +433,7 @@ For 2PC 2PC combinations, it is recommended to run a 2PC Break Effect set with 2
     Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle.
 
     * Increases Energy Regeneration Rate
-    * Allows for higher ultimate uptime
+    * Allows for higher ultimate uptime and earlier ultimate
     * Advances forward at the start of battle
     * If Ruan Mei's technique is used, saves 1 skill point
 
@@ -459,14 +485,16 @@ Many players may believe that 4PC Watchmaker, the new break-focused relic set re
 
 As mentioned before, Ruan Mei is a support character who is focused on buffing her allies. She is not meant to deal high amounts of damage. This means that it is better to focus on stats that will improve Ruan Mei's support capabilities. Defensive stats as well as supportive stats like SPD are appreciated, and as Ruan Mei scales off Break Effect, you will obviously need some Break Effect on your relics. It is very important to reach the recommended 180% (160% without Ruan Mei's Inert Respiration trace) Break Effect.
 
-For Ruan Mei's chest piece and planar sphere, choose whichever relic has better substats. HP and DEF are both equally needed for Ruan Mei. For her link rope, it is better to use an ERR rope, as Ruan Mei requires a lot of energy to optimize her ultimate uptime. However, if you are lacking Break Effect, or if you don't have an ERR rope, using a BE rope for the time being is fine. Using an ERR rope eventually is crucial, however.
+For Ruan Mei's chest piece and planar sphere, choose whichever relic has better substats. HP and DEF are both equally needed for Ruan Mei. For her link rope, it is better to use an ERR rope, as Ruan Mei requires a lot of energy to optimize her ultimate uptime. However, if you are lacking Break Effect, or if you don't have an ERR rope, using a BE rope for the time being is fine. In most cases, however, using an ERR rope is required for Ruan Mei.
 
 ### Relic Substat Priority
 ![statpriority](../assets/images/guides/ruan_mei_trace_priority_10.png)
 
-Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit revolves around Break Effect. Ruan Mei needs at least **180%** Break Effect in total in order to maximize her passive. **Ruan Mei's Inert Respiration trace does not take effect until you are in battle**, so technically, you only need **160%** Break Effect. However, for the sake of consistency, the minimum will be referred as 180%. More Break Effect is generally always better as long as you're not sacrificing other stats.
+Break Effect should be the most prioritized relic substat, as most of Ruan Mei's kit revolves around Break Effect. Ruan Mei needs at least **180%** Break Effect in total in order to maximize her passive. **Ruan Mei's Inert Respiration trace does not take effect until you are in battle**, so technically, you only need **160%** Break Effect. More Break Effect is generally always better as long as you're not sacrificing other stats.
 
-SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, which allows for more SP generation due to Ruan Mei's SP positivity. At least **143** SPD is recommended. Ruan Mei has a total of 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC Messenger Traversing Hackerspace. Like Break Effect, more SPD is better as long as you are not sacrificing other stats. Some players may opt for a slower Ruan Mei build for rare scenarios like 0 cycle runs or to keep her ultimate up for longer, but in general, more SPD is better.
+SPD should also be prioritized, as it allows Ruan Mei to have more turns per cycle, which allows for more SP generation due to Ruan Mei's SP positivity. At least **143** SPD is recommended. Ruan Mei has a total of 134 SPD from her traces and SPD boots, so 143 SPD can be obtainable with a few substat rolls and/or 2PC SPD set. Like Break Effect, more SPD is better as long as you are not sacrificing other stats. Ruan Mei does not necessarily *need* a lot of SPD, and she definitely does not have a high SPD requirement (i.e. 161+), but it is helpful for teams who have SP-hungry characters.
+
+Some players may opt for a slower Ruan Mei build for rare scenarios like zero-cycle runs or to keep her ultimate up for longer, but in general, more SPD is better. It should generally not be prioritized over Break Effect, though, unless your team is severely lacking in skill points.
 
 Defensive stats such as Effect RES, HP, and DEF are also helpful for Ruan Mei. In combat, she wants to get hit a couple times in order to gain energy, meaning survivability is important to her. With some defensive stats, Ruan Mei's survivability will naturally increase. However, keep in mind that Break Effect and SPD should be prioritized over these stats.
 
@@ -481,18 +509,46 @@ Note that to achieve 124.4% ER, you must use an ERR rope and Penacony/Vonwacq/Lu
 | Total Energy | Light Cone | Turns to Cast Ultimate | Notes
 |--------------|------------|------------------------|-------
 | 124.4% | S1 PSiM | **4** | With this build, you may need to be hit once or twice to achieve 3T ult. This build is **highly recommended** because it allows you to focus on Energy Regeneration, and it is the most SP positive among the ones listed here.
-| 119.4% | S1 PSiM | **4** | With this build, you may need to be hit once or twice to achieve 3T ult. It is not recommended to use this build unless you cannot reach 180% Break Effect.
+| 119.4% | S1 PSiM | **4** | With this build, you may need to be hit once or twice to achieve 3T ult. It is not recommended to use this build unless you cannot reach 160% Break Effect.
 | 124.4% | S5 MotP | **3** | This build is **highly recommended**, as you can comfortably 3T ult with this build without losing out on the necessary Break Effect.
 | 119.4% | S5 MotP | **4** | With this build, you may need to be hit once or twice to achieve 3T ult.
 | 124.4% | S3 MotP | **4** | With this build, **you will only need to be hit once to achieve 3T ult**.
 | 119.4% | S3 MotP | **4** | With this build, you may need to be hit once or twice to achieve 3T ult.
 | 124.4% | S5 Meshing Cogs | **3** | While this build achieves 3T ult, you may be lacking in Break Effect. If you have less than **170%** Break Effect with this build, use Talia/BE rope instead.
 | 119.4% | S5 Meshing Cogs | **4** | If you are lacking in Break Effect, it is recommended to use this build. You will be able to have more Break Effect, and **you will only need to be hit once to achieve 3T ult**.
-| 100% | S5 Meshing Cogs | **4** | You can use this build if you are severely lacking in Break Effect. However, if you are able to reach the minimum 180% Break Effect without Talia/BE rope, use Penacony/Vonwacq/Lushaka/ERR rope instead.
+| 100% | S5 Meshing Cogs | **4** | You can use this build if you are severely lacking in Break Effect. However, if you are able to reach the minimum 160% Break Effect without Talia/BE rope, use Penacony/Vonwacq/Lushaka/ERR rope instead.
 | 124.4% | Other | **4** | This build will comfortably put you at 4T ult, but you may be lacking in Break Effect.
 | 119.4% | Other | **4** | This build will comfortably put you at 4T ult, and with 2PC Talia, it will help you reach the necessary Break Effect.
 | 105% | Other |**4-5** | This rotation is inconsistent and is generally not recommended.
 
+In the following gameplay example, a 3T ultimate is possible with S1 PSiM because Ruan Mei got hit and obtained energy. In a realistic scenario, Ruan Mei will usually obtain energy via getting hit and defeating enemies with her additional Break damage. Therefore, builds where Ruan Mei needs to be hit once to achieve a 3T ultimate are highly recommended and are much more feasible to achieve.
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/w3evr6?autoplay=1&muted=1" width="100%" height="100%" frameborder="0" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<figure markdown>
+  <figcaption>Example of a 3T ultimate with S1 PSiM by cyxo.</figcaption>
+</figure>
+
+Keep in mind that in almost all scenarios, in order to obtain a 3T or 4T ultimate, it is *necessary* to use an ERR rope. Ruan Mei prioritizes ERR above all else, so having a high amount of energy is crucial in order to keep her Ultimate uptime high. The only exception to this is for E6 Ruan Mei or for fast clears where the battle ends before Ruan Mei's ultimate runs out.
+
+### Stat Goals
+![statgoals](../assets/images/guides/statgoals.png)
+
+In general, the above are Ruan Mei's recommended stat goals. However, based on each player's circumstances, their stat needs will be different. The above image serves as a guide, but based on your playstyle, it may be beneficial to opt for different stats. For example, for fast endgame clears, a slow Ruan Mei with no ERR rope might be preferable so that her Ultimate would not run out and she deals more personal damage. In Break teams, other teammates may provide Break Effect to other allies in combat, so less Break Effect might be needed. Some teams might have SP-hungry characters, so a faster Ruan Mei might be beneficial. Pay attention to your team's needs, and build Ruan Mei accordingly.
+
+### Endgame Goals
+![endgame](../assets/images/guides/slowmei.png)
+
+For high-investment teams that are able to zero-cycle MOC, full-score PF, or achieve other similar top-level clearances in various endgame modes, it may be worth considering a "Slow Ruan Mei" for Ruan Mei. This generally applies to E6 Ruan Mei, but it can also apply to any invested team with any level of Ruan Mei. **This build is only recommended for speedruns and not for general usage.** 
+
+To achieve a "Slow Mei" build, Ruan Mei would need to equip the **Sprightly Vonwacq** planar set, achieve at least **120 SPD** while also being slower than the rest of her teammates, and focus on having as much Break Effect as possible.
+
+Why does this work? In all cases, Ruan Mei's ultimate holds a lot of value, and it's ideal to keep her ultimate up as long as possible. In a normal scenario, this can be achieved by aiming for a 3T ultimate by using an ERR rope, and ERR planar sets. However, this will result in one turn without an ultimate. In other words, in normal scenario, Ruan Mei's ultimate will have about a 66.7% uptime. When trying to achieve top scores in endgame modes, it is crucial to aim for 100% uptime on Ruan Mei's ultimate.
+
+To achieve this, Ruan Mei can take *less* turns so that her ultimate does not run out. By keeping Ruan Mei's SPD low, if the battle ends quickly, her ultimate will not run out within the entire duration of the battle. Sprightly Vonwacq serves as a way to have Ruan Mei's ultimate up at the beginning of the battle before other allies attack. Afterwards, she should take as few turns as possible within the entire duration of the battle.
+
+Keep in mind that this build does *not* work for mid-investment teams that cannot achieve top scores in endgame modes. While Ruan Mei's ultimate lasts longer, her downtime as after her ultimate runs out also lasts longer. It is only recommended for teams that can clear content before Ruan Mei's ultimate runs out.
+
+What are the benefits of the "Slow Mei" build? Apart from a potential 100% uptime on Ruan Mei's ultimate, more Break Effect can be invested into Ruan Mei, allowing for more personal damage from Ruan Mei. While Ruan Mei no longer acts as a SP generator for the team, the value from her ultimate being up for the entirety of the battle, as well as more damage, make this build viable for endgame players who wish to achieve high scores in various endgame modes, mainly MOC.
 
 ## Teammates
 
@@ -511,10 +567,12 @@ Due to her universal buffs, such as SPD increase, DMG% increase, and All-Type RE
 | ![misha](../assets/images/guides/full/misha.png) | **Misha** is a new 4-star Ice DPS character for patch 2.0. He benefits from the Penacony, Land of Dreams relic set on Ruan Mei as an Ice DMG dealer. Furthermore, due to his rarity, he is considered a budget option who is more accessible for F2P players. While he doesn't exactly benefit from Ruan Mei's Break Effect buffs, his ultimate, which can freeze enemies, can help further delay enemy actions.
 | ![gallagher](../assets/images/guides/full/gallagher.png) | **Gallagher** was introduced as the first break-focused Abundance character for patch 2.1. His kit allows enemies to receive more break DMG, and allies receive additional healing based on his Break Effect. With Ruan Mei on the team, who increases Break Effect and Weakness Break Efficiency, Gallagher's support capabilities are enhanced.
 | ![hmc](../assets/images/guides/full/hmcf.png) | **Harmony Trailblazer** is a new free Harmony character for patch 2.2, as part of the Trailblazer's newest path switch. They work hand in hand with Ruan Mei as a powerful support duo for break-focused DPS characters. Ruan Mei's Weakness Break efficiency buff, Weakness Break extension, and Break Effect boost pairs especially well with HMC's Toughness Reduction buff, Break Effect boost, and Super Break. Their buffs don't have much overlap, which means they don't suffer from diminishing returns. When using a break-focused DPS character, using both HMC and Ruan Mei is a must.
-| ![boothill](../assets/images/guides/full/boothill.png) | **Boothill** is the first limited 5-star character who is focused on break mechanics, released in patch 2.2. His Pocket Trickshot benefits from enemies being Weakness Broken, and Boothill deals additional damage based on his Toughness damage, meaning that Ruan Mei is a great teammate for him. Boothill also implants Physical Weakness during his ultimate, allowing him to make better use of Ruan Mei's break-focused buffs. Physical characters also have a high break multiplier, so a higher break effect allows for more break damage.
+| ![boothill](../assets/images/guides/full/boothill.png) | **Boothill** is the first limited 5-star character who is focused on break mechanics, released in patch 2.2. He gains Pocket Trickshot by breaking the enemy weakness, and Ruan Mei's Weakness Break Efficiency will mean Boothill can gain and maintain Pocket Trickshot stacks more efficiently. Boothill also implants Physical Weakness during his ultimate, allowing him to make better use of Ruan Mei's break-focused buffs. Physical characters also have a high break multiplier, so a higher break effect allows for more break damage.
 | ![firefly](../assets/images/guides/full/firefly.png) | **Firefly** is the second break-focused limited 5-star character, releasing in patch 2.3 alongside Ruan Mei's first rerun. Her damage is reliant on Break and Super Break mechanics, and she also can implant Fire Weakness and reduce the Toughness of enemies without Fire Weakness. As Firefly greatly benefits from enemies being Weakness Broken, Ruan Mei's Weakness Break efficiency buffs, Weakness Break extension, and Break Effect boost are very much needed buffs for Firefly. While these two characters may not get along lore-wise, they are inseparable teammates in combat!
 | ![hmarch](../assets/images/guides/hmarch.png) | **March 7th (Hunt)** makes her path switch debut in patch 2.4. In her new swordswoman-in-training form, she takes on the role as a sub-DPS whose main source of damage comes from her Enhanced Basic Attack. March 7th can be built as either a crit-focused or break-focused sub-DPS, as she can deal high amounts of Toughness damage (even being able to reduce Toughness bars that have the same weakness as her Shifu) as well as raw damage from her EBA. With Ruan Mei on her team (not as her Shifu, though!), March's damage output and Toughness reduction capabilities are greatly enhanced.
 | ![lingsha](../assets/images/guides/lingsha.png) | **Lingsha** is the second break-focused healer, released in patch 2.5. As a Fire Abundance character who is focused on break mechanics, Lingsha will often draw comparisons to Gallagher. However, she has her own unique mechanics as well, such as FUA, frequent teamwide cleanse, and decent sub-DPS damage. She also allows for more Break DMG upon using her ultimate, which pairs well with Ruan Mei. As a character who benefits from Break Effect and deals decent Toughness damage on her own, Lingsha makes great use of Ruan Mei's buffs and is a great addition to Super Break teams. Outside of break teams, Lingsha can also act as an alternative to Aventurine due to her being a FUA sustain.
+| ![rappa](../assets/images/guides/rappa.png) | **Rappa** is the third break-focused limited 5-star character, released in patch 2.6. Much like Firefly has her damage reliant on Break and Super Break damage, Rappa also has a large majority of her damage coming from the same sources. Rappa can also make good use of Ruan Mei's RES PEN and Weakness Break Efficiency buffs for the same reason as Firefly. Therefore, Ruan Mei is an essential teammate in Rappa teams.
+| ![fugue](../assets/images/guides/fugue.png) | **Fugue** is the second unit in the game who allows allies to deal Super Break damage, meaning Fugue will be exceptionally good in any Break team as an alternative to HMC, especially if a different path for the Trailblazer is being used. Apart from Super Break, Fugue also provides a secondary toughness bar, "Cloudflame Luster," which can be broken a second time. This triggers Ruan Mei's additional break damage from her talent a second time, increasing Ruan Mei's personal damage in break teams.
 
 ### Notable Anti-Synergies
 
@@ -531,7 +589,7 @@ Below are some characters who don't synergize as well with Ruan Mei. However, th
 Below are some example team compositions for Ruan Mei. These are not the only team compositions that can be used with Ruan Mei; as mentioned before, she is an incredibly flexible unit. Rather, these teams are some notable examples to provide a general idea of how to use Ruan Mei in various team compositions. For team slots that specify a position rather than a specific character, any character who fits that role would work.
 
 #### Super Break
-![break](../assets/images/guides/break2.png)
+![break](../assets/images/guides/ffbreak.png)
 
 #### Kafka DoT
 ![dot](../assets/images/guides/kafkadot.png)
@@ -545,18 +603,34 @@ Below are some example team compositions for Ruan Mei. These are not the only te
 #### Hypercarry
 ![hyper](../assets/images/guides/hyper1.png)
 
+#### Hyper Break
+![hbreak](../assets/images/guides/hyperbreak.png)
+
+A Hyper Break team is a very unique (and generally premium) team composition that has an extremely high damage output at the cost of having less or no sustain. However, this cost is very well worth due to the nature of Break teams. Break mechanics allow for innate defense due to action delays, weakness break, advanced actions, etc. that prevent the enemy from attacking allies. Ruan Mei herself delays enemies' actions with her Thanatoplum Rebloom passive, and she increases allies' Weakness Break Efficiency, allowing allies to easily break enemies and keep them broken. If played properly, very little to no sustain is needed.
+
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/18z2wz?autoplay=1&muted=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+<figure markdown>
+  <figcaption>Example of a premium Hyper Break team with E2S1 Fugue, E1 Ruan Mei, E1S1 Lingsha, and HMC by mr.swedishfish.</figcaption>
+</figure>
+
+By utilizing supports that completely buff the Break DPS, the Break DPS can deal massive amounts of damage. Using two Super Break characters will greatly increase Super Break damage, as Super Break can stack, and Ruan Mei's buffs will only make that damage ceiling even higher. 
+
+However, this team composition is considered very premium, as it requires people to pull for a second Super Break character. Most people do not see the need to pull for another Super Break character, as HMC is already a free and very strong Super Break character on their own. Some people who do pull for a second Super Break character also do not intend to use both in the same team composition, as the Trailblazer has other playable paths. 
+
+Still, for those who want to challenge themselves and aim for fast endgame clears with high damage output from their Break DPS, a Hyper Break team is a great team composition to use.
+
 ## Character Comparisons
 Ruan Mei may be the first limited 5-star Harmony character, but she isn't the only Harmony or support character in the game. There are many other great characters to use, and many may wonder how she may compare to those characters.
 
 | Character   | Notes                            |
 | ----------- | -------------------------------- |
-| ![bronya](../assets/images/guides/full/bronya.png) | **Bronya** was the only other 5-star Harmony character Ruan Mei could compare to during her release, and as a Harmony character, she is focused on buffing her allies' DMG. However, that is where their similarities end. Bronya is focused on single-target buffs, while Ruan Mei buffs the entire team at once. Furthermore, Bronya's kit revolves around increasing ATK% and CRIT DMG, whereas Ruan Mei's kit focuses on increasing Weakness Break Efficiency, Break Effect, and SPD. Because they are so different, it is better to consider what you need and which DPS character you are using. As a standard character, however, Bronya is easier to obtain than Ruan Mei.
-| ![tingyun](../assets/images/guides/full/tingyun.png) | **Tingyun** is generally regarded as one of the best characters in the game due to how versatile and universal she is as a support. It's even better that she's a 4* character, making her very accessible for F2P players. Tingyun's ultimate, which restores energy for allies, is also something extremely useful. However, again, as Ruan Mei and Tingyun do different things, you should use whoever benefits your team more. You can even use both characters together. Tingyun buffs ATK% while Ruan Mei buffs DMG%, which reduces diminishing returns.
 | ![asta](../assets/images/guides/asta.png) | **Asta** is a popular Harmony option for many players due to her being completely free to obtain. Despite being a budget-friendly character, Asta provides a lot of value due to her ATK% buffs and her huge flat SPD boost from her ultimate. While Ruan Mei and Asta may seem similar due to the fact that they both provide buffs and increase SPD, they are quite different. Ruan Mei buffs DMG%, while Asta buffs ATK%. This makes Asta someone who runs very well with Ruan Mei, rather than someone to be replaced by Ruan Mei.
 | ![pela](../assets/images/guides/full/pela.png) | **Pela** is a Nihility character, while Ruan Mei is a Harmony character. However, as both are Ice supports, they may be compared quite often, especially for Ice DMG-focused teams. Because Ruan Mei and Pela are both different characters who provide different things, it is again recommended to run them together if possible. However, if you must choose one or the other, choose whoever benefits your DPS more. Ruan Mei buffs Break Effect and Weakness Break Efficiency, which might be more valuable to certain characters.
-| ![yukong](../assets/images/guides/full/yukong.png) | **Yukong** is also a free-to-obtain character, making her another popular Harmony choice for players. However, without E6, Yukong's buff window is very small. Ruan Mei's buff window is much longer, making her a very comfortable choice for players. Yukong also buffs ATK% and CRIT while Ruan Mei buffs DMG%, so it is possible to run them together.
 | ![hmc](../assets/images/guides/full/hmcm.png) | **Harmony Trailblazer**, a free character introduced in patch 2.2, can be seen as a "discount Ruan Mei" of sorts at first glance, as both are Harmony characters who focus on break-related buffs. However, they both provide something unique to the table. Along with Ruan Mei's generic teamwide buffs, such as RES PEN and DMG increase, Ruan Mei also provides Weakness Break extension and prolonged Weakness Break efficiency buffs. HMC's main gimmick is their Super Break, a new mechanic following their release. Because the two characters both benefit break-focused characters but provide different buffs, it is better to run the two together. When using a break-focused DPS character, it is strongly recommended to run HMC and Ruan Mei in the team.
-| ![robin](../assets/images/guides/full/robin1.png) | **Robin** joins Ruan Mei and Sparkle as the third limited 5-star Harmony character following patch 2.2. While every limited Harmony character shines in their specific specialty (Ruan Mei for break, Sparkle for hypercarry, and Robin for FUA), they are all great for general-use as well. Sparkle is mainly hypercarry-focused due to her single-target buffs, but Robin and Ruan Mei both provide teamwide buffs. Obviously, Ruan Mei is the better option for break-related teams, while Robin is the better option for FUA teams. For DoT comps, Ruan Mei still surpasses Robin despite Ruan Mei's Weakness Break extension and Robin's teamwide advance being similarly beneficial for DoT, mainly because of Ruan Mei's RES PEN. For hypercarry, Robin allows for a higher damage ceiling at the cost of more SP. Ruan Mei is much more SP friendly than Robin, though Robin's hypercarry buffs are stronger than Ruan Mei's due to her crit buffs. Still, what's better than one amazing Harmony character? Two amazing Harmony characters! It never hurts to expand your support roster, and you will always need multiple strong units for endgame modes that require multiple teams, such as MOC and PF.
+| ![robin](../assets/images/guides/full/robin1.png) | **Robin** joins Ruan Mei and Sparkle as the third limited 5-star Harmony character following patch 2.2. While every limited Harmony character shines in their specific specialty (Ruan Mei for break, Sparkle for hypercarry, and Robin for FUA), they are all great for general-use as well. Sparkle is mainly hypercarry-focused due to her single-target buffs, but Robin and Ruan Mei both provide teamwide buffs. Obviously, Ruan Mei is the better option for break-related teams, while Robin is the better option for FUA teams. For DoT comps, Ruan Mei still surpasses Robin despite Ruan Mei's Weakness Break extension and Robin's teamwide advance being similarly beneficial for DoT, mainly because of Ruan Mei's RES PEN. For hypercarry, Robin allows for a higher damage ceiling at the cost of more SP. Ruan Mei is much more SP friendly than Robin, though Robin's hypercarry buffs are stronger than Ruan Mei's due to her crit buffs. Still, what's better than one amazing Harmony character? Two amazing Harmony characters! It never hurts to expand your support roster, and you will always need multiple strong units for endgame modes that require multiple teams, such as MOC, AS, and PF.
+| ![jiaoqiu](../assets/images/guides/jiaoqiu.png) | **Jiaoqiu**'s amplifying abilities are strictly inferior to that of Ruan Mei in most cases. However, Jiaoqiu also has a DoT effect in his kit, meaning he is a contender for the third slot in a Kafka/Black Swan team. Even with his DoT, though, Ruan Mei is superior for overall team damage at equal investment levels. It is only after E2 that Jiaoqiu will be better than Ruan Mei, due to the increase in base Motion Value that is provided by Jiaoqiu's E2.
+| ![fugue](../assets/images/guides/fugue.png) | **Fugue** is a Break-oriented support unit, so some people may consider replacing Ruan Mei with Fugue and run Harmony Trailblazer and Fugue in the same team. However, the damage output of the team will be worse due to the lack of the RES PEN and the Weakness Break Efficiency provided by Ruan Mei. In any case, it is strongly recommended to run either Fugue or Harmony Trailblazer alongside Ruan Mei in a Break team and to not replace Ruan Mei with either Super Break enablers.
+| ![fugue](../assets/images/guides/fugue.png) | **Fugue E1** provides a 50% Weakness Break Efficiency boost to a single ally via her "Foxian Prayer" buff. Ruan Mei also provides a 50% Weakness Break Efficiency boost to her team at E0. However, Fugue's buff is only applicable to one ally character, whereas Ruan Mei's buff is teamwide. This means that while the primary Break DPS will enjoy the same buffs, the sub-DPS (i.e. Lingsha, Gallagher, HMC) would not receive a Weakness Break Efficiency buff with Fugue. Furthermore, switching out Ruan Mei means losing out on valuable buffs such as RES PEN and SPD, which will also lower your team's overall damage output. That being said, if your Break DPS is very vertically invested compared to the rest of the team (e.g. E2S1 Firefly), then replacing Ruan Mei with E1 Fugue may be a better alternative. The higher investment would mean that said unit will contribute a majority of your team's damage, and thus, using a single-target buffer may lead to more overall team damage even if it means sacrificing damage on your sub-DPS and sustain characters.
 
 ## Frequently Asked Questions
 If you didn't read through this guide thoroughly, you probably don't know the answers to these commonly asked questions, but don't worry. If you just skipped to the end to find the answers to these questions, we've got you covered.
@@ -569,9 +643,11 @@ Conversely, Ruan Mei's E1 is incredibly valuable. As her best eidolon, it ignore
 ### ERR or BE rope?
 It is recommended to run an **ERR rope** over a BE rope. Ruan Mei's ultimate is very valuable and provides All-Type RES PEN, a very helpful buff. Energy Regeneration is also not easily obtained, as it cannot be gained via relic substats. The only relic with an Energy Regeneration main stat is the link rope, so that is the only Energy Regeneration you can possibly obtain via relics.
 
-Break Effect, on the other hand, can be obtained via relic substats, relic passives, and Ruan Mei's traces. It is not difficult to reach the recommended 180% without a BE rope.
+Break Effect, on the other hand, can be obtained via relic substats, relic passives, and Ruan Mei's traces. It is not difficult to reach the recommended 160% without a BE rope.
 
 Because Ruan Mei's ultimate is so powerful, it is highly recommended to have as much Energy Regeneration as possible. This is why ERR rope is recommended over BE rope.
+
+The only exception to this is for fast clears (i.e. zero-cycle runs) where the battle ends before Ruan Mei's ultimate ends. This would usually require a slow Ruan Mei with Vonwacq.
 
 ### Is 4PC Watchmaker, Master of Dream Machinations Ruan Mei's new BiS set?
 The short answer is: no, 4PC Watchmaker is not Ruan Mei's BiS. For general usage, Ruan Mei's other relic set options such as 4PC Messenger Traversing Hackerspace, 2PC Break Effect 2PC Messenger, and 4PC Thief of Shooting Meteor are better options. 4PC Watchmaker is definitely viable, but its 4PC passive is only useful in teams with a break-focused DPS, such as Xueyi, Sushang, Firefly, and Boothill. Otherwise, the extra Break Effect is not all that needed. 
@@ -579,16 +655,16 @@ The short answer is: no, 4PC Watchmaker is not Ruan Mei's BiS. For general usage
 Furthermore, the passive only has about a 50%-60% uptime due to Ruan Mei's ultimate duration, and the 4PC passive does not stack, meaning only one ally can use this set. Since HMC will usually be the one using this set, and they'll often be paired with Ruan Mei, Ruan Mei has no need to use this set.
 
 ### Is 3T Ult Really Necessary?
-While a 3T ult is optimal, it's not necessary. It is better to focus on achieving the minimum amount of Break Effect (180%) before focusing on achieving a 3T ult. However, even if you cannot achieve a 3T ult, still aim for as high ultimate uptime as possible. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
+While a 3T ult is optimal, it's not necessary. It is better to focus on achieving the minimum amount of Break Effect (160%) before focusing on achieving a 3T ult. However, even if you cannot achieve a 3T ult, still aim for as high ultimate uptime as possible. Ruan Mei's ultimate is very valuable, so the more you can cast your ultimate, the better.
 
 ### How much Break Effect can I sacrifice for 3T Ult?
-It is recommended to first aim for 180% Break Effect, then to focus on 3T ult. If you have less than **170%** Break Effect, it is better to settle for a 4T ult instead, as losing out on the recommended Break Effect negatively affects Ruan Mei more than having less ultimate uptime. However, it is not recommended to settle for anything more than a 4T ult. A 5T ult is not recommended, and using an ERR rope is still recommended over a Break Effect rope. You can see what combination of light cones and ERR works best for you in our [Energy Requirements](#energy-requirements "Ruan Mei Energy Requirements") section.
+It is recommended to first aim for 160% Break Effect, then to focus on 3T ult. If you have less than **150%** Break Effect, it is better to settle for a 4T ult instead, as losing out on the recommended Break Effect negatively affects Ruan Mei more than having less ultimate uptime. However, it is not recommended to settle for anything more than a 4T ult. A 5T ult is not recommended, and using an ERR rope is still recommended over a Break Effect rope. You can see what combination of light cones and ERR works best for you in our [Energy Requirements](#energy-requirements "Ruan Mei Energy Requirements") section.
 
 ### How much Break Effect is too much?
-While the recommended minimum Break Effect is 180%, you can definitely have more Break Effect. There is no limit to how much Break Effect to have, but you should not be sacrificing other stats for Break Effect. Once you hit 180% Break Effect, focus on other stats; if you have extra Break Effect to spare even after hitting the recommended stats, that's perfectly fine.
+While the recommended minimum Break Effect is 160%, you can definitely have more Break Effect. There is no limit to how much Break Effect to have, but you should not be sacrificing other stats for Break Effect. Once you hit 160% Break Effect, focus on other stats; if you have extra Break Effect to spare even after hitting the recommended stats, that's perfectly fine.
 
 ### Can I run a Break Effect rope?
-In all situations, a Break Effect rope should only be used if you do not have an ERR rope. This goes for when you cannot reach 180% Break Effect as well. Even with other energy sources, having an ERR rope is still recommended. It is generally more beneficial for your team to cast Ruan Mei's ultimate more often, and an ERR rope is the largest source of energy for any character. Sacrificing over 19% energy for more Break Effect, which is a stat that can be obtained via relic substats, is not worth it. The only exception for this is if you are willing to 4T ult with S5 Meshing Cogs.
+In all situations, a Break Effect rope should only be used if you do not have an ERR rope. This goes for when you cannot reach 160% Break Effect as well. Even with other energy sources, having an ERR rope is still recommended. It is generally more beneficial for your team to cast Ruan Mei's ultimate more often, and an ERR rope is the largest source of energy for any character. Sacrificing over 19% energy for more Break Effect, which is a stat that can be obtained via relic substats, is not worth it. The only exception for this is if you are willing to 4T ult with S5 Meshing Cogs.
 
 ## Closing & Final Thoughts
 In conclusion, Ruan Mei is a strong buffer who can fit in any team. She is future-proof and will remain a strong unit even in later patches. She is slightly costly, and she isn't meant to replace other Harmony units, but she shines in her own way. Also, it gives players a chance to invest in a stat that wasn't commonly invested in before.
