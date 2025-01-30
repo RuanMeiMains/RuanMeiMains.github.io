@@ -3,7 +3,7 @@ description: Need help building Ruan Mei? Check out this full and comprehensive 
 ---
 
 # Ruan Mei Full Guide ❀
-##### _Updated for 3.0; Written by mr.swedishfish, nv50, and sealary, Edited by m4raku and euphriia, Calculations provided by agentyoda, m4raku, drachk, sealary, and nv50_
+##### _Updated for 3.0; Written by mr.swedishfish and nv50, Edited by m4raku and euphriia, Calculations provided by agentyoda, m4raku, drachk, sealary, and nv50_
 > _"Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — it is a gift."_
 
 ![ruanmei](../assets/images/guides/full/drip.png)
@@ -535,7 +535,7 @@ Keep in mind that in almost all scenarios, in order to obtain a 3T or 4T ultimat
 
 In general, the above are Ruan Mei's recommended stat goals. However, based on each player's circumstances, their stat needs will be different. The above image serves as a guide, but based on your playstyle, it may be beneficial to opt for different stats. For example, for fast endgame clears, a slow Ruan Mei with no ERR rope might be preferable so that her Ultimate would not run out and she deals more personal damage. In Break teams, other teammates may provide Break Effect to other allies in combat, so less Break Effect might be needed. Some teams might have SP-hungry characters, so a faster Ruan Mei might be beneficial. Pay attention to your team's needs, and build Ruan Mei accordingly.
 
-### Endgame Goals
+### Advanced Team Goals
 ![endgame](../assets/images/guides/slowmei.png)
 
 For high-investment teams that are able to zero-cycle MOC, full-score PF, or achieve other similar top-level clearances in various endgame modes, it may be worth considering a "Slow Ruan Mei" for Ruan Mei. This generally applies to E6 Ruan Mei, but it can also apply to any invested team with any level of Ruan Mei. **This build is only recommended for speedruns and not for general usage.** 
