@@ -16,11 +16,11 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 <div class="grid cards" markdown>
 
--   **Join us for weekly game nights!**
+-   **HTM x RMM Lunar New Year Event!!**
 
     ---
 
-    Our Discord server has casual game nights on Friday nights/Saturday mornings depending on your time zone! They happen periodically and we try to host them weekly, so grab an Event Ping role and stay updated so you won't miss a game night!
+    Herta and Ruan Mei have teamed up to create a new Simulated Universe game mode to celebrate Lunar New Year! Come test it out for amazing rewards, including exclusive server roles and Express Passes!
 
     <a href="https://discord.gg/ruanmei" target="_blank">:material-arrow-right: Head to our Discord server!</a>
 
