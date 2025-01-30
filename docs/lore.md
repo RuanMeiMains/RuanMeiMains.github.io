@@ -489,20 +489,26 @@ What needs to be realized is that people, even fictional characters, are not as 
 
 People's opinions of Ruan Mei, both in-game and in real life, vary greatly. Some people praise Ruan Mei endlessly for her accomplishments, what she has done for others, her admirably outstanding intellect, and her multitude of talents. Some may even praise her because they think she is a villain. Some will simply hate her due to her aloof personality and disregard for others, citing incidents such as when she "abandoned" her creations, manipulated the Trailblazer, and cloned the deadly Emanator of Propagation. The varying opinions on Ruan Mei just goes to show that she is in fact, a very complex character. 
 
-    <insert image>
+<figure markdown>
+  ![dna](assets/images/lore/swarmlab.png)
+  <figcaption>Ruan Mei has several hidden sides that contrast her initial impression.</figcaption>
+</figure>
 
 However, one thing is for sure is that she is far from a villain or someone with evil intentions. When people accuse Ruan Mei as a villain, they only look at the surface level of her character. Did she abandon her creations? Did she leave them because she did not care about them? No. Ruan Mei simply could not care for them anymore and entrusted them to someone who could; in this case, the Department of Ecology at the Herta Space Station. She even asks the Trailblazer for pictures and updates on her critters. 
 
 Did Ruan Mei mistreat the Trailblazer out of malice? No. Ruan Mei never intended for the Trailblazer to suffer, and to her, there were no consequences to having the Trailblazer ingest the anti-truth serum or fight the Emanator of Propagation. She did not even think that the Trailblazer would or had suffered. While her actions were definitely not okay, and she did not consider asking for the Trailblazer's consent, she was fully aware that there would be no real danger and even compensated the Trailblazer properly for their efforts.
 
+<figure markdown>
+  ![dna](assets/images/lore/swarmemanator.png)
+  <figcaption>The Propagation Emanator's clone was intended to die in less than a minute.</figcaption>
+</figure>
+
 This can be thought of in reverse, as well. Ruan Mei revived Tingyun and gave her another chance at life. Did she do it out of pure goodwill? No. She did it because she was asked to. Although it is not exactly clear why Ruan Mei accepted Luocha's request to revive Tingyun, she was aware of what was going on in Xianzhou and what happened to Tingyun. Despite this, she gave Tingyun a choice to decide what she wanted to do moving forward. What Ruan Mei did with Tingyun was ultimately a good thing, but she did not do it out of goodwill or malice. She simply did what she wanted to do because she wanted to.
 
 
-    <insert image>
-
 What is important to understanding Ruan Mei's character is not necessarily *what* she has done or does, but rather *why* she does it. When she performs a good deed, it is usually not out of goodwill. The same applies for any bad deed she has done. Of course, this does not justify or excuse anything Ruan Mei has done wrong. However, Ruan Mei has never shown to be a real threat or someone who would perform villainous acts.
 
-Ruan Mei is a very flawed person. She has no empathy for others and will only consider her goals. Ruan Mei lacks understanding of social norms and cues. However, she is not necessarily a bad person, and she is far from evil. It is important to acknowledge Ruan Mei's faults but also understand her character.
+Ruan Mei is a very flawed person. She has no empathy for others and will only consider her own goals. Ruan Mei lacks understanding of social norms and cues. However, she is not necessarily a bad person, and she is far from evil. It is important to acknowledge Ruan Mei's faults but also understand her character.
 
 ### Misconception: Ruan Mei Created the Swarm
 Ruan Mei did not create the Swarm. Tayzzyronth created the Swarm. There is zero connection between Ruan Mei and the Swarm, and there is zero connection between Ruan Mei and the Propagation. Ruan Mei only experiments on Swarm lifeforms because she sees them as lab rats. A simple playthrough of the 1.6 Trailblaze Continuance quest would make that quite obvious.
@@ -511,6 +517,11 @@ Ruan Mei did not create the Swarm. Tayzzyronth created the Swarm. There is zero 
 Ruan Mei has zero desire nor reason to bring back the Swarm. This conclusion is extremely baseless and unfounded, and it has unfortunately led people to believe false conceptions of Ruan Mei's character and lore.
 
 A basic playthrough of the 1.6 Trailblaze Continuance quest would show that Ruan Mei has never once cared to bring back the Swarm. There is no need to even read Ruan Mei's character stories or readables to know this, because it is just that obvious. In fact, the Swarm is still present, just on a much smaller scale after Qlipoth's intervention.
+
+<figure markdown>
+  ![dna](assets/images/lore/swarmsu.png)
+  <figcaption>Ruan Mei views the Swarm as mere lab rats.</figcaption>
+</figure>
 
 Ruan Mei is in fact interested in studying the Swarm and the Propagation, and she often experiments with the Swarm. However, this is *not* because she wants to bring back the Swarm. Doing so would not align with Ruan Mei's true goals at all. Rather, Ruan Mei is interested in the Swarm because they are easy to work with. Unlike other life forms and even Emanators, the Swarm consists of very simple, easy to understand, and easy to replicate lifeforms. This allows for easy experimentation for Ruan Mei, as the Swarm is disposable to her.
 
@@ -530,7 +541,10 @@ Ruan Mei's goal isn't necessarily to become an Aeon. Rather, it is a possibility
 
 The issue is that Aeons are complicated, variable, and not like other lifeforms. In the Star Rail universe, Aeons are something of a godly being, something that differs from normal creatures. They don't follow the same biological rules as other specimen in the universe. Thus, it is difficult to understand what makes an Aeon. How does one ascend to Aeonhood? Can one be born as an Aeon? What defines an Aeon? The answer to these questions defy science and logic, and to Ruan Mei, a biologist, it is something that she finds fascinating. If Ruan Mei can find the answer to these questions and truly understand all there is to Aeons, then not only can she potentially create an Aeon herself, she can even become one.
 
-    <insert dna image from trailer>
+<figure markdown>
+  ![dna](assets/images/lore/dna.png)
+  <figcaption>The existence of Aeons contradicts life itself.</figcaption>
+</figure>
 
 To summarize, Ruan Mei doesn't necessarily *want* to become an Aeon. She doesn't care about gaining power or ascending to Aeonhood. She simply wants to understand them and test the limits of her understanding, as it is one of the few biological topics she cannot understand. If she truly understands Aeons, then she can create or become one. She has similarly proven her understanding of living beings by creating new species. Funnily enough, Ruan Mei is already disconnected from society and people and has an extreme obsession with something (creation and understanding life), so she is ironically already on track to become an Aeon.
 
