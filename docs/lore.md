@@ -532,7 +532,7 @@ As Ruan Mei is interesting in studying Aeons, it is just not aligned with her in
 ### Misconception: Ruan Mei Is Incapable of Emotion
 Many players will often describe Ruan Mei as emotionless, unfeeling, and other similar terms. However, Ruan Mei is perfectly capable of feeling emotion, and she has done so in the past. Ruan Mei is just like any other human, and she can feel happiness, sadness, anger, frustration, wonder, and other emotions, just like a normal person. What makes Ruan Mei different is how she handles her emotions. Ruan Mei suppresses her emotions and often shows that she is very emotionally immature. Ruan Mei finds emotions to be a hindrance, so instead of acknowledging them and facing them, she hides them. This doesn't mean that she has no emotions, it just means that she is bad at dealing with them.
 
-More information on how Ruan Mei handles emotions and how it affects her behavior can be explored in our newly published [Ruan Mei Neurodivergence Analysis](neurodivergence.md 'Ruan Mei Neurodivergence Analysis') article.
+More information on how Ruan Mei handles emotions and how it affects her behavior can be explored in our soon-to-be published [Ruan Mei Neurodivergence Analysis](neurodivergence.md 'Ruan Mei Neurodivergence Analysis') article.
 
 ### Misconception: Ruan Mei Wants to Become an Aeon
 It is no question that Ruan Mei has considered the possibility of becoming an Aeon herself. This fact has been made quite obvious in her Myriad Celestia trailer. However, many people don't know the reason for this, and they will often misinterpret this as Ruan Mei wanting to be an Aeon as her end goal. 
