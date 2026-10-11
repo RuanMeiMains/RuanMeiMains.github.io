@@ -58,7 +58,7 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 ## Twitter Feed
 
-<rssapp-feed id="owfaY3Z6pz8MrP0Y"></rssapp-feed><script src="https://widget.rss.app/v1/feed.js" type="text/javascript" async></script>
+<rssapp-list id="owfaY3Z6pz8MrP0Y"></rssapp-list><script src="https://widget.rss.app/v1/list.js" type="text/javascript" async></script>
 
 ## Upcoming Events
 
