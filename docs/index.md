@@ -55,12 +55,12 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 ## Reddit Feed
 
 <rssapp-carousel id="Ta8uLuWEnDBS31b9"></rssapp-carousel><script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
-#### r/RuanMeiMains is an associated platform, and any posts and opinions do not necessarily reflect Ruan Mei Mains as a whole.
+*r/RuanMeiMains is an associated platform, and any posts and opinions do not necessarily reflect Ruan Mei Mains as a whole*
 
 ## Twitter Feed
 
 <rssapp-list id="owfaY3Z6pz8MrP0Y"></rssapp-list><script src="https://widget.rss.app/v1/list.js" type="text/javascript" async></script>
-#### @ruanmeitimely is a partnered platform, and their posts and opinions do not necessarily reflect Ruan Mei Mains as a whole.
+*@ruanmeitimely is a partnered platform, and their posts and opinions do not necessarily reflect Ruan Mei Mains as a whole.*
 
 ## Upcoming Events
 
