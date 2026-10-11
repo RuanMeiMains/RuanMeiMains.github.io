@@ -16,11 +16,11 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 <div class="grid cards" markdown>
 
--   **HTM x RMM Lunar New Year Event!!**
+-   **Ruan Mei bot has some new fun commands!**
 
     ---
 
-    Herta and Ruan Mei have teamed up to create a new Simulated Universe game mode to celebrate Lunar New Year! Come test it out for amazing rewards, including exclusive server roles and Express Passes!
+    Some new features have been added to our exclusive Ruan Mei bot! Head to our Discord server to try out the fun features we have to offer, and you could even earn exclusive server roles!
 
     <a href="https://discord.gg/ruanmei" target="_blank">:material-arrow-right: Head to our Discord server!</a>
 
@@ -51,6 +51,10 @@ We're a community dedicated to Genius Society #81, Ruan Mei from Honkai: Star Ra
 
 
 </div>
+
+## Reddit Feed
+
+<rssapp-carousel id="Ta8uLuWEnDBS31b9"></rssapp-carousel><script src="https://widget.rss.app/v1/carousel.js" type="text/javascript" async></script>
 
 ## Upcoming Events
 
